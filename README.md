@@ -40,7 +40,7 @@ Github also has a nice issue tracking system, we're using this to ask eachother 
 
 ### Portal
 These are links to the tools that we use to enabling us to work and communicate. 
- * Trello: https://trello.com/b/K1V2k6Ty/     
+ * Trello (username & password is watch_account): https://trello.com/b/K1V2k6Ty/     
  * Github: https://github.com/Gurrt/software-process
  * Whatsapp (no link available)
 
