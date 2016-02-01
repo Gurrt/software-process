@@ -2,13 +2,13 @@
 
 ## Organization
 Our team consists out the following eight members:
-Alex van Manen (Lead)
-Pim Tegelaar (Vice Lead)
-Job Witteman
-Erik Verhoofstad
-Alberto Martinez de Murga
-Ger Krijnen
-Carla Alvarado
+Alex van Manen (Lead),
+Pim Tegelaar (Vice Lead),
+Job Witteman,
+Erik Verhoofstad,
+Alberto Martinez de Murga,
+Ger Krijnen,
+Carla Alvarado &
 Joel James Bartholomew
 
 Every team member is responsibility of doing some work that he or she chooses. Instead of assigning tasks. People will take a task from the Scrum Board and work on that task. When they are done they will put it in the next state and some one else will verify it and they go on to do their next task.
