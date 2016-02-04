@@ -12,3 +12,10 @@
   contributed to the problems. This article might be useful for the questions D and E.
 
 * [Why e-government projects fail? An analysis of the Healthcare.gov website] (http://www.sciencedirect.com/science/article/pii/S0740624X15000799) (you need to login with your UvA credentials to read the article)
+
+* [Case Study Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study.pdf)
+  A case study that states the question: "Could software engineering discipline have saved the U.S. government's HealthCare.gov software project?" Looks promising.
+
+* [Case Study Analysis Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study-analysis.pdf) And here is the corresponding analysis of that question!
+  
+
