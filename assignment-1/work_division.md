@@ -19,3 +19,27 @@ Software Centric (3 pages)
  Goal: ??????
  
  Total: 5 - 7 pages
+
+
+
+
+
+Work division analysis part
+Initial complexity (Alex - Wednesday 10 February 21:00)
+ - Project information
+ 	- Involved parties (55 Organisations?)
+ 	- Budget 
+- Which project management method(s) is/are applied?
+
+Initial setup (Joel - Wednesday 10 February 21:00)
+ - Initial intention
+ - What the website actually should do? 
+ - Who was responsible for what?
+
+Failure analysis (Carla - Tuesday 9 February 23:59)
+ - What went wrong?
+ - Which measures where taken to improve the situation?
+ - Why e-governments failed?
+
+Result (Optional:)) (Alex)
+  - Current situation (current cost)
