@@ -18,4 +18,4 @@
 
 * [Case Study Analysis Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study-analysis.pdf) And here is the corresponding analysis of that question!
   
-
+* [Full Committee Hearing - Is My Data on Healthcare.gov Secure?](https://science.house.gov/legislation/hearings/full-committee-hearing-my-data-healthcaregov-secure)
