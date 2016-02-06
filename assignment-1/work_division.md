@@ -23,8 +23,8 @@ Software Centric (3 pages)
 
 
 
-
-Work division analysis part
+           
+Work division analysis part      
 Initial complexity (Alex - Wednesday 10 February 21:00)
  - Project information
  	- Involved parties (55 Organisations?)
