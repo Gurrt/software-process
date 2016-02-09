@@ -16,6 +16,7 @@ The changing functional requirement had a major impact on the architecture of th
 | zebra stripes | are neat      |    $1 |
 
 
+|         |                                                                                   |
 | ------- | --------------------------------------------------------------------------------- |
 | Symptom | High response times for the registration pages                                    |
 | Failure | The architecture could not handle the many concurrent users.                      |
