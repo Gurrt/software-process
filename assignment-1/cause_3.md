@@ -9,6 +9,13 @@ the decision was made that all users had to register first, before they could st
 Because of this the registration pages became a bottleneck for the entire site. 
 The changing functional requirement had a major impact on the architecture of the site.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 | ------- | --------------------------------------------------------------------------------- |
 | Symptom | High response times for the registration pages                                    |
 | Failure | The architecture could not handle the many concurrent users.                      |
