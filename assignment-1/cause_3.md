@@ -28,10 +28,11 @@ architectural constraints of the site that was not captured.
 
 # Scrum
 
-Requirements can change until they are in-sprint.
-Product Owner responsible for requirement specification in product backlog.
-No mechanisms for dealing with QA in scrum, except maybe in DoD.
-Capture of the impact of the requirement would be dependent on the expertise of the product owner.
+* Requirements can change until they are in-sprint.
+* Product Owner responsible for requirement specification in product backlog.
+* No mechanisms for dealing with QA in scrum, except maybe in DoD.
+* Capture of the impact of the requirement would be dependent on the expertise of the product owner.
+* SCRUM would offer no solution
 
 # RUP
 
