@@ -8,13 +8,13 @@
  
 * Vision: The vision of what to build was clear, thousands of pages of legal documents provided documentation on what to build exactly.[1]
 
- * Plan: The product was planned to launch on 1 October 2015 and did so. Testing was planned for two weeks before launch [2]. The plan might not have been ideal, but it was there.
+* Plan: The product was planned to launch on 1 October 2015 and did so. Testing was planned for two weeks before launch [2]. The plan might not have been ideal, but it was there.
  
 * Risks: Laws on contracting dictate what has to be done to supervisor contractors to mitigate risks, however those laws were not always followed [3]. This means that this principle was not followed correctly.
 
- * Issues: Due to a lack of data, it is hard to tell what has been done in order to track issues.
+* Issues: Due to a lack of data, it is hard to tell what has been done in order to track issues.
 
- * Architecture: While there was an architecture set to integrate all the services, it wasn't designed to handle to load that it got on the launch day.[4]
+* Architecture: While there was an architecture set to integrate all the services, it wasn't designed to handle to load that it got on the launch day.[4]
 
 * Product: This step focuses mainly on building the product step by step and testing it during every step. In some cases this was done, with the front-end for example.
   The front-end was made by [Development Seed](https://developmentseed.org/) and the non-interactive part of this went live before the rest of healthcare.gov.
