@@ -24,3 +24,10 @@ Because CMS did not always provide adequate contract management and oversight fo
  
 ##### Change Managment: Warnings couldn't be taking in consideration.
 
+##### Managing Contractors:
+Because CMS did not always provide adequate contract management and oversight for Federal marketplace contracts:
+1. Contractor delays and performance issues were not always identified.
+2. A contractor incurred unauthorized costs that increased the cost of the contract.
+3. Contracting officers in all Government agencies did not have access to contractor pastperformance evaluations when making contract awards.
+4. Critical deliverables and management decisions were not properly documented.
+
