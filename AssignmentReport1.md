@@ -14,15 +14,22 @@ The following answers should be answered:
 >c. describe and analyse how the project organization was set up to develop a good solution
 
 
-The construction of healthcare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Healt and Human Services (HHS). Th
+The construction of healthcare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Healt and Human Services (HHS). The primary contractor was CGI. Next to that there were 16 official subcontractors, but the total number of subcontractors was actually 55. All under the supervison of CMS
+
+The client were according to [4, page 6]: Department of Health and Human Services (HHS); Others: CMS, HHS, 36 States, 300 private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social Security Administration, the Internal Revenue Service, Veterans Administration, Office of Personnel Management, Peace Corps, etc.
 
 
+The internal architecture of healthcare.gov is very complex. US residents who want to apply for an insurance needed a lot of personal information from different systems. Like their income and immigration status. The system needs to connect with all the different systems from the federal government. Like the Internal Revenue Service, Social Security Administration, the Peace Corps, etcetera. The idea was the information of all the different federal systems should be retrieved real time. According to [4]: 
+>“The U.S. Chief Technology Officer Todd Park has said that the government expected HealthCare.gov to draw 50,000 to 60,000 simultaneous users but that the site was overwhelmed by up to five times as many users in the first week.“
 
- 55 different contractors, all-operating under the supervision of the ......)
 
-### Reasons for failure & actions taken
+### Reasons for failure & solutions
 
 >d. Identify the reasons for failure, see when these became apparent and what was done to mitigate these problems
+
+
+#####Timeline of problems and solutions (in progress)
+The Government Accountability Office (GAO) reported in June 2013 that there could be trouble with the goal of launching the website on the first of October 2013.
 
 During its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference).
 
