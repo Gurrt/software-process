@@ -38,9 +38,12 @@ architectural constraints of the site that was not captured.
 
 * One of the Ten Essentials of RUP: Change Requests — Manage and Control Changes
 
-"The benefit of Change Requests is that they provide a record of decisions, and, due to their assessment process,
-ensure that impacts of the potential change are understood by all project team members. The Change Requests are essential
-for managing the scope of the project, as well as assessing the impact of proposed changes." [3]
+> "The benefit of Change Requests is that they provide a record of decisions, and, due to their assessment process,
+> ensure that impacts of the potential change are understood by all project team members. The Change Requests are essential
+> for managing the scope of the project, as well as **assessing the impact of proposed changes.**" [3]
+
+* This is exactly what went wrong at Healthcare.gov
+* This part of RUP could have prevented that problem.
 
 ## Mars
 
