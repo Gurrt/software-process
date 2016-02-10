@@ -18,7 +18,7 @@ The changing functional requirement had a major impact on the architecture of th
 | Problem | No mechanism to deal with changing requirements.                                  |
 | Context | Changing requirements with major architectural impact.                            |
 
-# Key factor in failure
+## Key factor in failure
 
 Many failures regarding performance were due to a poor architectural design which in turn was caused by the omission
 of quality requirements. [source don’t fire the architect] This was discussed in the previous chapter. 
@@ -26,7 +26,7 @@ of quality requirements. [source don’t fire the architect] This was discussed 
 by a requirement that changed in a late stage during the development. The requirement had a major impact on the 
 architectural constraints of the site that was not captured. 
 
-# Scrum
+## Scrum
 
 * Requirements can change until they are in-sprint.
 * Product Owner responsible for requirement specification in product backlog.
@@ -34,10 +34,25 @@ architectural constraints of the site that was not captured.
 * Capture of the impact of the requirement would be dependent on the expertise of the product owner.
 * SCRUM would offer no solution
 
-# RUP
+## RUP
+
+* One of the Ten Essentials of RUP: Change Requests — Manage and Control Changes
+
+"The benefit of Change Requests is that they provide a record of decisions, and, due to their assessment process,
+ensure that impacts of the potential change are understood by all project team members. The Change Requests are essential
+for managing the scope of the project, as well as assessing the impact of proposed changes." [3]
+
+## Mars
 
 
+## Summary
 
-# Mars
+Changing requirements during the course of a project is a common phenomenon in software engineering.
 
+## References
 
+[1]
+
+[2]
+
+[3] Leslee Probasco, "The Ten Essentials of RUP—the Essence of an Effective Development Process", Rational Software White Paper, 2002.
