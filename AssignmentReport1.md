@@ -60,7 +60,8 @@ Besides all the disastrous organizational perspective, and scoping at the missin
 
  
 ##### Architecture: Change Managment.
-
+The inability to handle a growing amount of work, or its potential to be enlarged in order to accommodate that growth can be a very dangerous thing. In this case,three months before the deadline a requirement changed.
+>**where could it change?** Finding scales and meters, RUP, and many others.
 
 
 
