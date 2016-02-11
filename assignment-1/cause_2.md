@@ -65,4 +65,4 @@ The development system would have been properly identified as a point of weaknes
 
 [7] A. Scoică, "Profile Benjamin Cichy", XRDS: Crossroads, The ACM Magazine for Students, vol. 20, no. 3, pp. 68-69, 2014.
 
-[8]B. Ehley, "After 2 Years and $2.1 Billion, HealthCare.gov Is Unfinished", The Fiscal Times, 2016. [Online]. Available: http://www.thefiscaltimes.com/2015/03/05/After-2-Years-and-21-Billion-HealthCaregov-Unfinished. 
+[8] B. Ehley, "After 2 Years and $2.1 Billion, HealthCare.gov Is Unfinished", The Fiscal Times, 2016. [Online]. Available: http://www.thefiscaltimes.com/2015/03/05/After-2-Years-and-21-Billion-HealthCaregov-Unfinished. 
