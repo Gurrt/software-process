@@ -48,14 +48,17 @@ The failure was caused by a complex interplay of problems:
 
 
 ##### Architecture: non functional requirements.
- 1.  The system was not designed to handle the massive influx of initial users. 
- 2.  Insufficient effort made to build a system that would meet the performance and availability needs of it's stakeholders. 
- 3.  Security solutions were seemingly slapped together in a shoddy manner instead of through the kind of systematic approach that is expected in a highquality software solution.
+ 1. The system was not designed to handle the massive influx of initial users. 
+ 2. Insufficient effort made to build a system that would meet the performance and availability needs of it's stakeholders. 
+ 3. Security solutions were seemingly slapped together in a shoddy manner instead of through the kind of systematic approach that is expected in a highquality software solution.
  4. Many thousands of pages of legal healthcare regulations did not translated seamlessly into functional requirements.
- 5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse
+ 5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse.
+However, all these points, extracted from [1] are an compilation of the triggers of the problem, but where could it change?
+Besides all the disastrous organizational perspective, and scoping at the missing of functional requirements, the elicitation, documentation and communication of those requirements would probably help a lot. There are many structured techniques specifically designed to learn others about the system and what it should carry, some techniques such as 'planguage' or 'volere'.
+
 
  
-##### Change Managment: Warnings couldn't be taking in consideration.
+##### Architecture: Change Managment.
 
 
 
@@ -73,6 +76,8 @@ The failure was caused by a complex interplay of problems:
 [4] Anthopoulos, L., et al., Why e-government projects fail? An analysis of the Healthcare.gov website, Government Information Quarterly (2015), http://dx.doi.org/10.1016/j.giq.2015.07.003
 
 [5] Government Accountability Office (GAO) (2013). “Patient protection and affordable care act: Status of CMS efforts to establish federally facilitated health insurance exchanges.” (GAO-13-601), 19 June 2013.
+
+[6] Tom Gilb (Planguage). (2001) Intel Corporation "Quantifying Quality Requirements Using Planguage" by Erik Simmons.
 
 
 
