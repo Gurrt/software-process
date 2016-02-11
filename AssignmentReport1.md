@@ -31,7 +31,19 @@ The internal architecture of healthcare.gov is very complex. US residents who wa
 #####Timeline of problems and solutions (in progress)
 The Government Accountability Office (GAO) reported in June 2013 that there could be trouble with the goal of launching the website on the first of October 2013.
 
-During its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference).
+During its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference). Intuitively I ask myself what would have happened if they had established a schedule of access to the site?. There were official warnings telling that the site was going to be unable to accommodate so many users at once.
+
+An extra team is recluted (22th October 2013) It was recognized that product testing was insufficient. Serious underestimation of time.
+
+QSSI is selected as the contractor responsible to now oversee federal website fixes (October 27, 2013). A single data center brings down the mission-critical website and should be presumed and avoided. Such requirements should be identiﬁed and addressed before project completion.
+
+(October 31, 201) Again an unrealistic schedule, site crash for second time due small amount of servers, an explicit gap at project definition and planning.
+
+(November 14, 2013) President Obama declares to press that he wasnt good inform of the situation. The project team was not prepared for the failure.
+
+(November 30, 2013)  Enrollment statistics show that 137,000 individuals had signed up for plans using the site compared to the 227,000 that had enrolled through the 14 state run exchanges.
+
+Obama Administration set deadline of a working site for the “vast majority” of users. (December 1, 2013)
 
 
 
@@ -62,7 +74,7 @@ Besides all the disastrous organizational perspective, and scoping at the missin
 
  
 ##### Architecture: Change Managment.
-The inability to handle a growing amount of work, or its potential to be enlarged in order to accommodate that growth can be a very dangerous thing. In this case, three months before the deadline a requirement changed.
+The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, three months before the deadline a requirement changed.
 >**where could it change?** Finding scales and meters, RUP, and many others.
 
 
