@@ -1,4 +1,4 @@
-# software-process
+# Software Process: Blue Team
 
 ## Organization
 Our team consists out the following eight members:
@@ -42,6 +42,7 @@ Github also has a nice issue tracking system, we're using this to ask eachother 
 These are links to the tools that we use to enabling us to work and communicate. 
  * Trello (username & password is watch_account): https://trello.com/b/K1V2k6Ty/     
  * Github: https://github.com/Gurrt/software-process
+ * Calendar: https://calendar.google.com/calendar/embed?src=59ad32ol8i67um1aisgf8bug2c%40group.calendar.google.com
  * Whatsapp (no link available)
 
 ### Reflection
