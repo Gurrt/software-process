@@ -25,46 +25,36 @@ made during the project [3]:
   important information like the contracting officer's representative or the
   specific duties and responsibilites assigned for each contract.
 
-* **CMS's contracting officer representatives didn't have the required certification.**
+* **CMS's contracting officer representatives did not have the required certification.**
   Contracts that are valued at more than 10 million dollar require a Level III certifcation in risk management.
   Not all contracting officer's representatives, who worked with contracts of this size possesed the required certification.
 
-* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for        awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of   interests. The employee didn't raise this as an issue to his supervisor(s) and as such acted in an unethical way.
+* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for        awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of   interests. The employee did not raise this as an issue to his supervisor(s) and as such acted in an unethical way.
  
 * **Contracting officers did not always prepare contractor past-performance
   evaluations**. Some contracts were not registered at the instituion that keeps
-  a record of government contractors. And subsequently, the CMS didn't perform
+  a record of government contractors. Subsequently, the CMS did not perform
   performance reviews for those contracts that are required for the logs of that institution.
 
 ## Scrum
 
 ### Principles applied during the project
 
-Part of the Scrum methodology is to prioritise communication over documentation.
-Due to the all the legal requirements and licensing required for the project,
-Scrum methodologies were not applied during the contractor management as they
-are totally opposed to the requirements needed. Contractors claimed to use
-agile methodologies during the development but we do not have further details
-about those claims.
+A key part of the Scrum methodology is to prioritise communication over documentation.
+Due to the all the legal requirements and licensing required for big government project like this one
+scrum was not used as process for the overall project. Some of the contractors state that they did use Agile methods
+internally (CITATION NEEDED). Unfortunately, the main problem for the contractors was in their communication with the CMS,
+who were not involved on such a low level of the project.
 
 ### Which principles could help healthcare.gov
 
-Scrum is a methodology which is effective in small groups of developers. Due to
-the size of the project, a pure Scrum methodology would have not been
-appropiated. However, some of the problems cited before related with the
-management would have been solved using certain techniques related with Scrum.
+Scrum as a methodology, is most effective with small team sizes with a maximum of 8 people (CITATION NEEDED).
+Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
+However, some parts of Scrum could have benefitted the CMS.
 
-As one of the problems was the addition of task to the original contracts,
-a well rounded up and closed **product backlog** would have solved the problem
-of the increase of the work units. Referred to the unauthorised personnel
-adding those work units, the presence of a **product owner** as intermediary of
-any modification would have avoid any unauthorised person could have modified
-the work units.
+Take for example a **product backlog** together with having a dedicated **product owner**; These could have stopped unauthorized CMS employees from changing the scope of the project. Any product that needs to be added to backlog would have to be added by the product owner, who can check if the request is legitimate ( assuming that all product owners are authorized to change the scope of the contract ).
 
-The rest of the problems associated with management were related with the lack
-of deliverables, certifications and reports. Due to the preference of no
-documents of Scrum and other agile projects, they would not have been able to
-help the project in this aspect as the problem is it out of their scope.
+The main problem in this case was the lack of control on the contract deliverables. Perhaps if the CMS worked with a Scrum flow which included a **demo** phase, those deliverables could be incrementally shown to the CMS stakeholders, even if they aren't software but documents e.g. security audit reports and progress reports. However, the report by Daniel Levinson [3] makes it sound like the main cause for missing these deliverables is because CMS was not enforcing them too strictly. So for this approach to yield any success, the contract officers would also need to take a more professional stance on the deliverables.
 
 ## RUP
 
@@ -85,7 +75,7 @@ help the project in this aspect as the problem is it out of their scope.
   to track issues.
 
 * Architecture: While there was an architecture set to integrate all the
-  services, it wasn't designed to handle to load that it got on the launch
+  services, it was not designed to handle to load that it got on the launch
   day.[4]
 
 * Product: This step focuses mainly on building the product step by step and
