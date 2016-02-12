@@ -51,7 +51,24 @@ contractor representatives that can be sumarised in the following points:
 
 ### Principles applied during the project
 
+### Which principles could help healthcare.gov
 
+Scrum is a methodology which is effective in small groups of developers. Due to
+the size of the project, a pure Scrum methodology would have not been
+appropiated. However, some of the problems cited before related with the
+management would have been solved using certain techniques related with Scrum.
+
+As one of the problems was the addition of task to the original contracts,
+a well rounded up and closed **product backlog** would have solved the problem
+of the increase of the work units. Referred to the unauthorised personnel
+adding those work units, the presence of a **product owner** as intermediary of
+any modification would have avoid any unauthorised person could have modified
+the work units.
+
+The rest of the problems associated with management were related with the lack
+of deliverables, certifications and reports. Due to the preference of no
+documents of Scrum and other agile projects, they would not have been able to
+help the project in this aspect as the problem is it out of their scope.
 
 ## RUP
 
