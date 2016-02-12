@@ -40,7 +40,7 @@ Obama Administration set deadline of a working site for the “vast majority” 
 ### Failure causes & possible solutions.
 The failure was caused by a complex interplay of problems:
 
-##### Cause 1: Managing Contractors.
+##### Cause 1: Contractor Management.
  6. Contractor delays and performance issues were not always identified.
  7. A contractor incurred unauthorized costs that increased the cost of the contract.
  8. Contracting officers in all Government agencies did not have access to contractor past-performance evaluations when making contract awards.
