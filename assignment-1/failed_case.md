@@ -1,33 +1,19 @@
-###What is healthcare.gov?
->a. Summarise the project: what, who, when, how
-
-
-Healthcare.gov is a IT-system that was commissioned by the US federal government to support the legislation of the Afforable Care Act (ACA) or informaly as Obamacare. Healthcare.gov is an electronic health insurance marketplace for US residents who do not have health insurance coverage by other means like Medicair. Every state in the US could choose if they would use healthcare.gov or if they would create the own online health insurance marketplace. Originally the residents of 36 states would use healthcare.gov. Currently the website serves 44 states according to the Government Accountability Office [5].
-
-###Project management
-The following answers should be answered:
-
+## Failed case : Healthcare.gov
 
 >b. Identify the complexity of the project as was understood at the start of the project;
 
 >c. describe and analyse how the project organization was set up to develop a good solution
 
+##### Initial complexity.
 
 The construction of healthcare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Healt and Human Services (HHS). The primary contractor was CGI. Next to that there were 16 official subcontractors, but the total number of subcontractors was actually 55. All under the supervison of CMS
 
 The client were according to [4, page 6]: Department of Health and Human Services (HHS); Others: CMS, HHS, 36 States, 300 private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social Security Administration, the Internal Revenue Service, Veterans Administration, Office of Personnel Management, Peace Corps, etc.
 
-
 The internal architecture of healthcare.gov is very complex. US residents who want to apply for an insurance needed a lot of personal information from different systems. Like their income and immigration status. The system needs to connect with all the different systems from the federal government. Like the Internal Revenue Service, Social Security Administration, the Peace Corps, etcetera. The idea was the information of all the different federal systems should be retrieved real time. According to [4]: 
 >“The U.S. Chief Technology Officer Todd Park has said that the government expected HealthCare.gov to draw 50,000 to 60,000 simultaneous users but that the site was overwhelmed by up to five times as many users in the first week.“
 
-
-### Reasons for failure & solutions
-
->d. Identify the reasons for failure, see when these became apparent and what was done to mitigate these problems
-
-
-#####Timeline of problems and solutions (in progress)
+#####Timeline of problems and solutions.
 The Government Accountability Office (GAO) reported in June 2013 that there could be trouble with the goal of launching the website on the first of October 2013.
 
 During its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference). Intuitively I ask myself what would have happened if they had established a schedule of access to the site?. There were official warnings telling that the site was going to be unable to accommodate so many users at once.
@@ -45,10 +31,7 @@ QSSI is selected as the contractor responsible to now oversee federal website fi
 Obama Administration set deadline of a working site for the “vast majority” of users. (December 1, 2013)
 
 
-
-###Analysis for failure.
->e. Provide the analysis for the failure as presented by the evaluation reports you
-
+### Failure causes & possible solutions.
 The failure was caused by a complex interplay of problems:
 
 ##### Managing Contractors:
@@ -75,9 +58,6 @@ Besides all the disastrous organizational perspective, and scoping at the missin
 ##### Architecture: Change Managment.
 The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, three months before the deadline a requirement changed.
 >**where could it change?** Finding scales and meters, RUP, and many others.
-
-
-
 
 
 #### Sources
