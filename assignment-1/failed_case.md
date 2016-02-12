@@ -47,7 +47,7 @@ The failure was caused by a complex interplay of problems:
  5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse.
 
 >However, all these points, extracted from [1] are an compilation of the triggers of the problem, but **where could it change?**
-Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what it should carry, some techniques such as 'planguage' or 'volere'.
+Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what it should carry, some techniques such as 'planguage' or 'volere templates'.
 
 
  
