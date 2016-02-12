@@ -30,7 +30,7 @@ Obama Administration set deadline of a working site for the “vast majority” 
 ### Failure causes & possible solutions.
 The failure was caused by a complex interplay of problems:
 
-##### Managing Contractors:
+##### Cause 1: Managing Contractors.
  6. Contractor delays and performance issues were not always identified.
  7. A contractor incurred unauthorized costs that increased the cost of the contract.
  8. Contracting officers in all Government agencies did not have access to contractor past-performance evaluations when making contract awards.
@@ -39,7 +39,7 @@ The failure was caused by a complex interplay of problems:
 > At this excerpt extracted from [source] we add the question: **where could it change?**. A stricter monitoring of the deliverables by the contractors which deliverables were small and testable, could have helped this project.
 
 
-##### Architecture: non functional requirements.
+##### Cause 2: Architecture, non functional requirements.
  1. The system was not designed to handle the massive influx of initial users. 
  2. Insufficient effort made to build a system that would meet the performance and availability needs of it's stakeholders. 
  3. Security solutions were seemingly slapped together in a shoddy manner instead of through the kind of systematic approach that is expected in a highquality software solution.
@@ -51,7 +51,7 @@ Besides all the disastrous organizational perspective, and scoping at the missin
 
 
  
-##### Architecture: Change Managment.
+##### Cause 3: Architecture, Change Managment.
 The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, three months before the deadline a requirement changed.
 >**where could it change?** Finding scales and meters, RUP, and many others patterns and methods.
 
