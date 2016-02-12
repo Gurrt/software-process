@@ -1,4 +1,4 @@
-## Failed case : Healthcare.gov
+## Failed case : HealthCare.gov
 
 ##### Initial complexity.
 
