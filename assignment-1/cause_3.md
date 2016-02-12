@@ -50,6 +50,7 @@ on the architecture.
 http://www.nytimes.com/2013/10/13/us/politics/from-the-start-signs-of-trouble-at-health-portal.html
 
 [4] Jane Cleland-Huang, "Don't Fire the Architect! Where Were the Requirements?." Software, IEEE 31.2 (2014): 27-29.
+https://www.computer.org/csdl/mags/so/2014/02/mso2014020027.pdf
 
 [5] Ken Schwaber, Jeff Sutherland, "The Scrum Guide", Scrum Alliance, 2013
 http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf
