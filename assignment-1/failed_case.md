@@ -46,7 +46,7 @@ The failure was caused by a complex interplay of problems:
  8. Contracting officers in all Government agencies did not have access to contractor past-performance evaluations when making contract awards.
  9. Critical deliverables and management decisions were not properly documented.
  
-> At this excerpt extracted from [source] we add the question: **where could it change?**. A stricter monitoring of the deliverables by the contractors which deliverables were small and testable, could have helped this project.
+> At this excerpt extracted from [source] we add the question: **where could it change?**. A stricter monitoring of the deliverables by the contractors (with small and testable deliverables), could have helped this project.
 
 
 ##### Cause 2: Architecture, non functional requirements.
@@ -56,8 +56,8 @@ The failure was caused by a complex interplay of problems:
  4. Many thousands of pages of legal healthcare regulations did not translated seamlessly into functional requirements.
  5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse.
 
->However, all these points, extracted from [1] are an compilation of the triggers of the problem, but **where could it change?**
-Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what it should carry, some techniques such as 'planguage' or 'volere templates'.
+>However, all these points, extracted from [1] are a compilation of the problem's triggers , but **where could it change?**
+Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what should it carry, some techniques such as 'planguage' or 'volere templates'.
 
 
  
