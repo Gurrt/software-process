@@ -85,4 +85,3 @@ Politicians were setting a deadline that was not realistic.  Only two weeks for 
 
 [6] Tom Gilb (Planguage). (2001) Intel Corporation "Quantifying Quality Requirements Using Planguage" by Erik Simmons.
 
-
