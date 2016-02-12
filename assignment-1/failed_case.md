@@ -1,9 +1,5 @@
 ## Failed case : Healthcare.gov
 
->b. Identify the complexity of the project as was understood at the start of the project;
-
->c. describe and analyse how the project organization was set up to develop a good solution
-
 ##### Initial complexity.
 
 The construction of healthcare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Healt and Human Services (HHS). The primary contractor was CGI. Next to that there were 16 official subcontractors, but the total number of subcontractors was actually 55. All under the supervison of CMS
