@@ -42,8 +42,8 @@ RUP does promote a risk first approach. If RUP would have been properly implemen
 
 The software methodology used to build the Mars rover is based on risk-reduction principles [7].
 The U.S. government has built a large number of software systems and thus has a history of security vulnerabilities that can possibly occur.
-One of the security vulnerabilities found was due to a development system being configured with default credentials which is an inexcusable mistake made by the developers.
-This made it possible for an automated attacker to take advantage of the system and thus use it to upload malware.
+One of the security vulnerabilities found was due to a development system being configured with default credentials which is a mistake made by the developers.
+This made it possible for an automated attacker to take advantage of the system and thus use it to upload malware [6].
 Apparently this weak-link in the security was not identified in the architecture of HealthCare.gov.
 If CMS were to have taken measures to reduce the amount risk involved when building the system, this would have have likely prevented the vulnerability, simply due to it being an extremely common error.
 The development system would have been properly identified as a point of weakness. Because of this, it would not have been insecurely configured.
