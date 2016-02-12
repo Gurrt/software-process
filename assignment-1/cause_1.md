@@ -17,12 +17,12 @@ contractor representatives that can be sumarised in the following points:
   to monitor de performance of the contractors. These reports were incomplete
   with missing documentation and handled between several months to a few years
   later.
-  
+
 * **Unathorised CMS personnel added work and increased the cost of one of the
   contracts.** Contractor officers added extra work with its increased cost
   without the knowledge of the contractor representatives. Around 40 work units
   were added and they meant an overrun over $28 million.
-  
+
 * **Contract officers representatives were not properly designated and
   authorised in written contracts.** 75% of the contracts reviewed[3] missed
   important information like the contracting officer's representative or the
@@ -36,7 +36,7 @@ contractor representatives that can be sumarised in the following points:
   the requested certification. Contracting officer's representatives alleged
   missunderstading of the normative while the CMS claimed to have their own
   certification process.
-  
+
 * **CMS may have not complied with the starndards of ethical conduct.** There
   were cases in which CMS and its employees may have been in a conflict of
   interest situation.
@@ -46,10 +46,16 @@ contractor representatives that can be sumarised in the following points:
   of all contractual actions were requested. Those documents were not provided
   by any of the parties while both should have kept track of them.
 
-
 ## Scrum
 
 ### Principles applied during the project
+
+Part of Scrum methodology is to prioritise communication over documentation.
+Due to the all the legal requirements and licensing required for the project,
+Scum methodologies were not applied during the contractor management as they
+are totally opposed to the requirements needed. Contractors claimed to use
+agile methodologies during the development but we do not have further details
+about those claims.
 
 ### Which principles could help healthcare.gov
 
@@ -73,14 +79,14 @@ help the project in this aspect as the problem is it out of their scope.
 ## RUP
 
 ### Principles applied during the project
- 
+
 * Vision: The vision of what to build was clear, thousands of pages of legal
   documents provided documentation on what to build exactly.[1]
 
 * Plan: The product was planned to launch on 1 October 2015 and did so. Testing
   was planned for two weeks before launch [2]. The plan might not have been
   ideal, but it was there.
- 
+
 * Risks: Laws on contracting dictate what has to be done to supervisor
   contractors to mitigate risks, however those laws were not always followed
   [3]. This means that this principle was not followed correctly.
@@ -109,7 +115,7 @@ help the project in this aspect as the problem is it out of their scope.
   the requirements. (CITATION NEEDED) Which probably has caused some hardship
   with the changes trickling down to all the contractors, but there is a lack
   of documentation on how the changes were documented and implemented.
- 
+
 ### Which principles could help healthcare.gov
 
 As stated above, a stricter monitoring of the deliverables by the contractors
@@ -118,8 +124,7 @@ a better focus on product and evaluation. If a more Agile way of working was
 promoted, with small deliverables, that can be tested. Then perhaps bugs and
 the wrong scale for the architecture could have been identified earlier,
 while there was still time to fix the problems. Instead of when the integration
-happened, two weeks before the launch. 
-
+happened, two weeks before the launch.
 
 ## Marslander
 
