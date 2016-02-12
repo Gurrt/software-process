@@ -2,57 +2,47 @@
 
 ## Key factors in failure
 
-One of the most importants reasons for the failure of the *Healthcare.gov*
-project from the process and management point of view were several
-irregularities of the contractor management.
+One of the most important reasons for the failure of the *Healthcare.gov*
+project, from the process and management point of view, was a mismanagement of contractors.
 
-The *Center for Medicare & Medicaid Services* (CMS from now) depend heavily on
-contractors to create and manage the *Federal marketplace*. The CMS commited
-several irregularties arranging and managing their contractor officer and
-contractor representatives that can be sumarised in the following points:
+The *Center for Medicare & Medicaid Services* (CMS) depended heavily on
+contractors to develop and manage the *Federal marketplace*. Federal law
+prescribes precise rules that contractor officers need to follow in order
+to manage the performance of the contractors. The following mistakes were
+made during the project [3]:
 
-* **Contracting officers and their representatives did not received all
-  contract deliverables and not always used them to monitor the contractors
+* **Contracting officers did not receive all
+  contract deliverables and periodically neglected to use those to monitor the contractors
   performance.** Law enforces the contractor officers and their representatives
-  to monitor de performance of the contractors. These reports were incomplete
-  with missing documentation and handled between several months to a few years
-  later.
+  to monitor the performance of their contractors. Sometimes report were incomplete
+  and deliverables handed in months after their deadlines, without any explanation requested by or given to the CMS.
 
 * **Unathorised CMS personnel added work and increased the cost of one of the
-  contracts.** Contractor officers added extra work with its increased cost
-  without the knowledge of the contractor representatives. Around 40 work units
-  were added and they meant an overrun over $28 million.
+  contracts.** Contractor officers added extra work to onne contract without having the authority to issue such work, around 40 work units were added for a total extra cost of $28 million.
 
-* **Contract officers representatives were not properly designated and
-  authorised in written contracts.** 75% of the contracts reviewed[3] missed
+* **Contract officer's representatives were not properly designated and
+  authorised in written contracts.** 75% of the contracts reviewed missed
   important information like the contracting officer's representative or the
   specific duties and responsibilites assigned for each contract.
 
-* **CMS delayed the implementation of the normative about certifications for
-  contracting officer's representatives.** The new normative requires different
-  levels of training and professional experience to attain and maintain
-  different certifications levels, in this case, Level-III. Not all contracting
-  officer's representatives who managed contracts over $10 millons dolars had
-  the requested certification. Contracting officer's representatives alleged
-  missunderstading of the normative while the CMS claimed to have their own
-  certification process.
+* **CMS's contracting officer representatives didn't have the required certification.**
+  Contracts that are valued at more than 10 million dollar require a Level III certifcation in risk management.
+  Not all contracting officer's representatives, who worked with contracts of this size possesed the required certification.
 
-* **CMS may have not complied with the starndards of ethical conduct.** There
-  were cases in which CMS and its employees may have been in a conflict of
-  interest situation.
-
-* **Contracting officers did not always prepared contractor past-performance
-  evaluations**. During the review[3], several documents containing the record
-  of all contractual actions were requested. Those documents were not provided
-  by any of the parties while both should have kept track of them.
+* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for        awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of   interests. The employee didn't raise this as an issue to his supervisor(s) and as such acted in an unethical way.
+ 
+* **Contracting officers did not always prepare contractor past-performance
+  evaluations**. Some contracts were not registered at the instituion that keeps
+  a record of government contractors. And subsequently, the CMS didn't perform
+  performance reviews for those contracts that are required for the logs of that institution.
 
 ## Scrum
 
 ### Principles applied during the project
 
-Part of Scrum methodology is to prioritise communication over documentation.
+Part of the Scrum methodology is to prioritise communication over documentation.
 Due to the all the legal requirements and licensing required for the project,
-Scum methodologies were not applied during the contractor management as they
+Scrum methodologies were not applied during the contractor management as they
 are totally opposed to the requirements needed. Contractors claimed to use
 agile methodologies during the development but we do not have further details
 about those claims.
