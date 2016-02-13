@@ -2,7 +2,7 @@
 Below is the grading rubric for the failed case paper. In total a 100 points can be earned. The total number of points divided by 10 is the grade. E.g. 60 points is the grade 6. The pass mark is 60 points. 
 
 ###Grade
-The rubric below is already filled in. The <i>italic</i> category is the points we think we ought to get. When we add all the points together (10, 7, 7, 7, 7, 35) we come up with 73 points which is the grade 7.3.
+The rubric below is already filled in. The <i>italic</i> category is the points we think we ought to get. When we add all the points together (10, 7, 7, 7, 7, 35) we come up with 73 points. When we divide 73 by 10 our grade is a 7.3.
 
 |   |  Level 1 | Level 2   | Level 3   | Level 4   |
 |---|---|	---|---|---|
