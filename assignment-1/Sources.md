@@ -43,3 +43,4 @@
 
 [23] Leslee Probasco, "The Ten Essentials of RUP—the Essence of an Effective Development Process", Rational Software White Paper, 2002.
 
+[24] Ford, Paul. "The Obamacare Website Didn't Have to Fail. How to Do Better Next Time", 16 October 2013, Web. 13 February 2015.
