@@ -67,7 +67,7 @@ September 30 could handle only about 1100 users at a time, even though
 officials have said it should have been abble to accomodate perhaps as many as
 60,000 users.
 
-## After the launch [4]
+## After the launch
 
 At its launch (1 October 2013) the website did not perform well. Only 271,000
 of the 9.47 million users that try to registrate where succesfull. ?There was
