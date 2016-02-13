@@ -42,14 +42,12 @@ made during the project [3]:
 
 A key part of the Scrum methodology is to prioritise communication over documentation.
 Due to the all the legal requirements and licensing required for big government project like this one
-scrum was not used as process for the overall project. Some of the contractors state that they did use Agile methods
-internally (CITATION NEEDED). Unfortunately, the main problem for the contractors was in their communication with the CMS,
+scrum was not used as process for the overall project. Some of the contractors, like Development Seed [6], used Agile methods for their development internally. Unfortunately, the main problem for the contractors was in their communication with the CMS,
 who were not involved on such a low level of the project.
 
 ### Which principles could help HealthCare.gov?
 
-Scrum as a methodology, is most effective with small team sizes with a maximum of 8 people (CITATION NEEDED).
-Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
+According to the Scrum Guide (http://www.scrumguides.org/scrum-guide.html#team) Scrum is most effective in small teams with up to 9 people. Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
 However, some parts of Scrum could have benefitted the CMS.
 
 Take for example a **product backlog** together with having a dedicated **product owner**; These could have stopped unauthorized CMS employees from changing the scope of the project. Any product that needs to be added to backlog would have to be added by the product owner, who can check if the request is legitimate ( assuming that all product owners are authorized to change the scope of the contract ).
@@ -84,16 +82,16 @@ The main problem in this case was the lack of control on the contract deliverabl
   Seed](https://developmentseed.org/) and the non-interactive part of this went
   live before the rest of HealthCare.gov. This part of the HealthCare.gov
   website was generally well received and appreciated for its modern take on
-  government websites.(CITATION NEEDED). While the system as a whole was only
+  government websites [6]. While the system as a whole was only
   tested two weeks before launch. Which was too short to find all important
   bugs, and too close to launch to fix all the problems that were found.
 
 * Evaluation: This principle assumes an interative approach, which was not
   present during the building of HealthCare.gov. So this principle was not
   followed at all.
-* Change Requests: Sources state that the Obama administration often changed
-  the requirements. (CITATION NEEDED) Which probably has caused some hardship
-  with the changes trickling down to all the contractors, but there is a lack
+* Change Requests: The Obama administration kepy modifying regulations and policies of the Affordable Care Act,
+  which inherently meant that the scope of the HealthCare.gov website kepy changing too.
+  Which probably has caused some hardship with the changes trickling down to all the contractors, but there is a lack
   of documentation on how the changes were documented and implemented.
 
 ### Which principles could help HealthCare.gov?
@@ -109,8 +107,8 @@ happened, two weeks before the launch.
 ## Mars Lander
 
 The Mars Lander's development approach focuses on durability and reliability to the extreme.
-Judging by how the Healthcare.gov website only worked correctly for 1% of the visitors during their
-launch week, this was not the case for the Healthcare.gov website.
+Judging by how the HealthCare.gov website only worked correctly for 1% of the visitors during their
+launch week, this was not the case for the HealthCare.gov website.
 
 Every part that is aboard the Mars Lander needs to go through a qualification testing procedure of
 12 to 15 months. And then when all the components are combined there is another qualification testing
@@ -119,7 +117,7 @@ tests very seriously, which was not the case for the CMS with all the missing de
 
 Ofcourse there is a downside to this as well. If the CMS was to implement qualification testing on this
 scale, costs for the project would likely skyrocket and the project would take longer. Then again, the
-Healthcare.gov is not flying through space, where maintenance is impossible to perform. So the CMS could
+HealthCare.gov is not flying through space, where maintenance is impossible to perform. So the CMS could
 definitely profit by looking how NASA does its integration tests and implementing those, albeit on a 
 smaller scale.
 
@@ -135,3 +133,5 @@ smaller scale.
 [4] Anthopoulos, L., et al., Why e-government projects fail? An analysis of the HealthCare.gov website, Government Information Quarterly (2015), http://dx.doi.org/10.1016/j.giq.2015.07.003
 
 [5] Harwoord, William. "Slow, but rugged, Curiosity's computer was built for Mars" CNET, 10 August, 2012, Web. 12 February 2015.
+
+[6] Ford, Paul. "The Obamacare Website Didn't Have to Fail. How to Do Better Next Time", 16 October 2013, Web. 13 February 2015.
