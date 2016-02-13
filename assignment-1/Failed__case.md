@@ -52,7 +52,7 @@ The failure was caused by a complex interplay of problems:
 ##### Cause 2: Architecture, non functional requirements.
  1. The system was not designed to handle the massive influx of initial users. 
  2. Insufficient effort made to build a system that would meet the performance and availability needs of it's stakeholders. 
- 3. Security solutions were seemingly slapped together in a shoddy manner instead of through a systematic approach that is expected in a highquality software solution.
+ 3. Security solutions were seemingly slapped together in a shoddy manner instead of through the kind of systematic approach that is expected in a highquality software solution.
  4. Many thousands of pages of legal healthcare regulations did not translated seamlessly into functional requirements.
  5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse.
 
