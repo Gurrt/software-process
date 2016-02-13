@@ -1,7 +1,7 @@
 #Ger
 ## The Good
 - I believe that the majority of the team was very professional and quick to react to questions
-- We adjusted well to the change in structure that was suggested by hand
+- We adjusted well to the change in structure that was suggested by Hans.
 
 ## The Bad
 
