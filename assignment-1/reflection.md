@@ -57,3 +57,18 @@ Overall, I think everyone did their part to contribute and this assignment went 
 
 ## The Ugly
 - I'm not happy with the Alberto's performance this week. He was late at meetings. Did not keep the deadlines and let Ger do part of his work (I'm refering on the Mars Lander part and the rewriting of the Scrum part of the first root cause).
+
+#Pim
+##The Good
+- We managed to make decisions and not get stuck in debate for a long time (which often happens in large groups).
+- We made a quick start setting up infrastructure
+- Even though we had the difficulty of having different schedules and locations, we made it work.
+- Using markdown allowed us to focus on the content, rather than the layout in the beginning.
+
+## The Bad
+- We did not manage to create tasks that are relatively small, leading us to review only at the end of the assignment.
+- In the beginning, there was no clear goal for meetings, making them chaotic.
+- We had to change our plan half way through the assignment.
+
+## The Ugly
+- We started out enthusiastically using Trello, but left it to bleed to death after a few days.
