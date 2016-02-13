@@ -22,7 +22,7 @@ On 10 September there was a panel of the House of Representatives who were heari
 According to the New York Times [4, page 7], documents released by House investigators reveal that the ‘testing bulletin’ showed that the website as of September 30 could handle only about 1100 users at a time, even though officials have said it should have been abble to accomodate perhaps as many as 60,000 users.
 
 ######After the launch [4]
-At its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference). Suddenly, one question arises. What would have happened if they had established a schedule of access to the site?. There were official warnings telling that the site was going to be unable to accommodate so many users at once.
+At its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference). Suddenly, one question arises. What would have happened if they had established a schedule of access to the site?. There were official warnings telling that the site was going to be unable to accommodate so many users at once.
 
 An extra team is recluted (22th October 2013) It was recognized that product testing was insufficient. Serious underestimation of time.
 
@@ -57,12 +57,10 @@ The failure was caused by a complex interplay of problems:
 >However, all these points, extracted from [1] are a compilation of the problem's triggers , but **where could it change?**
 Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what should it carry, some techniques such as 'planguage'[10] or 'volere templates'.
 
-
- 
 ##### Cause 3: Architecture, Change Managment.
 The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, just a week before the deadline a requirement changed that had a major impact on the architectural constraints of the site.
 
-##### Cause 4: Politics (Ostrich effect) - needs review. Not that great yet.
+##### Cause 4: Politics (Ostrich effect)
 Politicians were setting a deadline that was not realistic.  Only two weeks for the launch there were end-to-end tests. The requirement of 60,000 users was not met according to the New York Times on 30 September 2013 that based there statements on documents released by House investigators [4]. Only 11,000 users could simultaneously access the website. Also a McKinsey & Co document, made on April 4 2013, that was adressed among others to the CMS Administrator [4, page 7]. The document stated there was insufficient time for end-to-end testing and that a “limited initial launch” would be ideal. This report only surfaced on 13 November 2013. One and a half month after the release of the website. It is unclear why this information was not used to postpone the deadline or to do a launch for a limited number of users.
 
 
