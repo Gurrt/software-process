@@ -32,3 +32,28 @@ Overall, I think everyone did their part to contribute and this assignment went 
 
 ##The Bad and Ugly
 - Almost nothing written by the team in the first week was used in the final document. This gives somewhat of a feeling that that time was ill spent.
+- 
+# Alberto
+
+## The Good
+- Good communication, everyone was on point contributing to the project and people was willing to work.
+- The team was able to respond to feedback quickly and adapt to the changes in the requirements.
+- Everyone stuck to the fixed deadlines we established.
+
+## The Bad
+- The requirements and goals for the assignment were not clear at all. We had to guess and assume many things about the project.
+
+## The Ugly
+- As most of us are part timers, we had to rely a lot on whatsapp, hangouts and remote working.
+
+#Alex
+## The Good
+- I like that most of the team members are motivated, good communication and respect the agreements that we have established together.
+- I think Erik did a good job by doing the task of him and Job all by himself. Thumbs up for Erik.
+
+## The Bad
+
+- My opinion is that the contract on the blackboard was not clear. Maybe it's part of the learning process and we need to ask it to the lecturer. The result now was that we did not spend on the wrong deliverables the first week.
+
+## The Ugly
+- I'm not happy with the Alberto's performance this week. He was late at meetings. Did not keep the deadlines and let Ger do part of his work (I'm refering on the Mars Lander part and the rewriting of the Scrum part of the first root cause).
