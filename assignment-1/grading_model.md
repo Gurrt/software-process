@@ -1,19 +1,15 @@
-#Assessment/Grading model
+#Grading model
+Below is the grading rubric for the failed case paper. In total a 100 points can be earned. The total number of points divided by 10 is the grade. E.g. 60 points is the grade 6. The pass mark is 60 points. 
 
-
-The total number of points divided by 10 is the grade. E.g. 60 points is the grade 6. The pass mark is 60 points.
+###Grade
+The rubric below is already filled in. The <u>underlined</u> category is the points we think we ought to get. When we add all the points together (10, 7, 7, 7, 7, 35) we should get 73 points which is the grade 7.3.
 
 |   |  Level 1 | Level 2   | Level 3   | Level 4   |
 |---|---|	---|---|---|
-| Organization (10 points)| (0 points) There is no clear structure.| (4 points) <br> There is a structure, but it illogical| (7 points) <br> There is structure in the document which is logical, but the text is sometimes not on the correct place| <b>(10 points) <br> There is structure in the document which is logical. All the information can be founded on the correct place. |
-| Summary <br> (10 points) | (1 point) <br> Not a clear summary and a very weak interpretation or none at all that shows little understanding of the text |  (4 points)<br> Somewhat clear summary characterized by substantial copying of key phrases and minimal paraphrasing. Makes an interpretation, but it is not clear or relevant and shows a limited understanding of the text. |  (7 points) <br> Clear summary characterized by paraphrasing of the main idea(s) and significant details and makes a clear summary |  (10 points)<br> Clear summary characterized by paraphrasing of the main idea(s) and significant details. There is a clear interpretation in a creative way that shows understanding and insight of the text. |
-| Identification of the complexity  <br> (10 points) |   |   |   |   |
-|  Analysis of the project organization <br> (10 points) | The project organization is not defined | The project organization is described, but details are missing   |  The project organization is described with some details. It’s hard to get the total overview |  The project organization is clearly identified, visualized and described |
-|  Reasons for failure <br> (10 points)  |  Reasons are not defined | Reasons are defined, but are also mixed up with failures themselves  | Most of the reasons for failure are properly defined  | All the reasons for failure are properly defined. |
-|  Analysis for the failure <br> (50 points) | Analysis not defined  |   |  
-
-
-
-
-
+| Organization (10 points)| (0 points) There is no clear structure.| (4 points) <br> There is a structure, but it illogical| (7 points) <br> There is structure in the document which is logical, but the text is sometimes not on the correct place| <u>(10 points) <br> There is structure in the document which is logical. All the information can be founded on the correct place. |
+| Abstract <br> (10 points) | (1 point) <br> Not a clear abstract and/or does not correspond with the content of the rest of the document |  (4 points)<br> Somewhat clear abstract it shows a limited understanding of the failed case. |  <u>(7 points) <br> Clear abstract characterized by paraphrasing the main idea(s) of the document |  (10 points)<br> Clear abstract characterized by paraphrasing of the main idea(s) and significant details. |
+| Identification of the complexity  <br> (10 points) | (0 points) <br> There is nothing written about the complexity of the failed project.  | (4 points) <br> There is something written about the complexity, but it is unclear and/or there are no citations or references  | <u> (7 points) <br> There is heading or chapter dedicated about the complexity of the failed project with some detail. Citations and/or references are used. |  (10 points) <br>There is heading or chapter dedicated about the complexity of the failed project with in depth detail. Citations and/or references are used. |
+|  Analysis of the project organization <br> (10 points) | (0 points) <br>The project organization is not defined | (4 points) <br>The project organization is described, but details are missing   | <u> (7 points) <br> The project organization is described with some details. It’s hard to get the total overview |  (10 points) <br>The project organization is clearly identified, visualized and described |
+|  Reasons for failure <br> (10 points)  |  (0 points) <br> Reasons are not defined | (4 points) <br> Reasons are defined, but are also mixed up with failures themselves  | <u> (7 points) <br>Most of the reasons for failure are properly defined  | (10 points> <br>All the reasons for failure are properly defined. |
+|  Analysis for the failure <br> (50 points) | (0 points) Analysis of the root causes is not defined.  |  (20 points) <br> There is analysis but it is unclear and/or most of the causes are not the root causes. | <u>(35 points) <br> There is proper analysis of at least two root causes, but some details are still missing.| (100 points) <br>  There is proper analysis of at least three root causes and it is clearly described and visualized using images.|
 
