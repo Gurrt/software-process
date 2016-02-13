@@ -30,7 +30,7 @@ Overall Scrum does not provide well defined mechanisms to handle quality assuran
 
 ## RUP
 
-The Rational Unified Process (RUP) is an iterative software development process. One of the ten essentials 'Change Requests' specifically deals with changing requirements by providing a process for risk and impact analysis for any proposed change [23].
+The Rational Unified Process (RUP) is an iterative software development process in which risk management is an important feature. One of the ten essentials 'Change Requests' specifically deals with changing requirements by providing a process for risk and impact analysis for any proposed change [23].
 
 > "The benefit of Change Requests is that they provide a record of decisions, and, due to their assessment process,
 > ensure that impacts of the potential change are understood by all project team members. The Change Requests are essential
