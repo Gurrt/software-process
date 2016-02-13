@@ -2,7 +2,7 @@
 
 ## Key factors in failure
 
-One of the most important reasons for the failure of the *Healthcare.gov*
+One of the most important reasons for the failure of the *HealthCare.gov*
 project, from the process and management point of view, was a mismanagement of contractors.
 
 The *Center for Medicare & Medicaid Services* (CMS) depended heavily on
@@ -14,11 +14,11 @@ made during the project [3]:
 * **Contracting officers did not receive all
   contract deliverables and periodically neglected to use those to monitor the contractors
   performance.** Law enforces the contractor officers and their representatives
-  to monitor the performance of their contractors. Sometimes report were incomplete
+  to monitor the performance of their contractors. Sometimes reports were incomplete
   and deliverables handed in months after their deadlines, without any explanation requested by or given to the CMS.
 
-* **Unathorised CMS personnel added work and increased the cost of one of the
-  contracts.** Contractor officers added extra work to onne contract without having the authority to issue such work, around 40 work units were added for a total extra cost of $28 million.
+* **Unauthorised CMS personnel added work and increased the cost of one of the
+  contracts.** Contractor officers added extra work to one contract without having the authority to issue such work, around 40 work units were added for a total extra cost of $28 million.
 
 * **Contract officer's representatives were not properly designated and
   authorised in written contracts.** 75% of the contracts reviewed missed
@@ -46,7 +46,7 @@ scrum was not used as process for the overall project. Some of the contractors s
 internally (CITATION NEEDED). Unfortunately, the main problem for the contractors was in their communication with the CMS,
 who were not involved on such a low level of the project.
 
-### Which principles could help healthcare.gov
+### Which principles could help HealthCare.gov?
 
 Scrum as a methodology, is most effective with small team sizes with a maximum of 8 people (CITATION NEEDED).
 Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
@@ -82,24 +82,24 @@ The main problem in this case was the lack of control on the contract deliverabl
   testing it during every step. In some cases this was done, with the front-end
   for example. The front-end was made by [Development
   Seed](https://developmentseed.org/) and the non-interactive part of this went
-  live before the rest of healthcare.gov. This part of the healthcare.gov
+  live before the rest of HealthCare.gov. This part of the HealthCare.gov
   website was generally well received and appreciated for its modern take on
   government websites.(CITATION NEEDED). While the system as a whole was only
   tested two weeks before launch. Which was too short to find all important
   bugs, and too close to launch to fix all the problems that were found.
 
 * Evaluation: This principle assumes an interative approach, which was not
-  present during the building of healthcare.gov. So this principle was not
+  present during the building of HealthCare.gov. So this principle was not
   followed at all.
 * Change Requests: Sources state that the Obama administration often changed
   the requirements. (CITATION NEEDED) Which probably has caused some hardship
   with the changes trickling down to all the contractors, but there is a lack
   of documentation on how the changes were documented and implemented.
 
-### Which principles could help healthcare.gov
+### Which principles could help HealthCare.gov?
 
 As stated above, a stricter monitoring of the deliverables by the contractors
-couldhave helped this project. What also could have prevented the failure was
+could have helped this project. What also could have prevented the failure was
 a better focus on product and evaluation. If a more Agile way of working was
 promoted, with small deliverables, that can be tested. Then perhaps bugs and
 the wrong scale for the architecture could have been identified earlier,
@@ -119,4 +119,4 @@ happened, two weeks before the launch.
 
 [3] Levinson, Daniel. "CMS Did Not Always Manage and Oversee Contractor Peformance for the Federal Marketplace as Required by Federal Requirements and Contract Terms", Office of Inspector General, September 2015, Report.
 
-[4] Anthopoulos, L., et al., Why e-government projects fail? An analysis of the Healthcare.gov website, Government Information Quarterly (2015), http://dx.doi.org/10.1016/j.giq.2015.07.003
+[4] Anthopoulos, L., et al., Why e-government projects fail? An analysis of the HealthCare.gov website, Government Information Quarterly (2015), http://dx.doi.org/10.1016/j.giq.2015.07.003
