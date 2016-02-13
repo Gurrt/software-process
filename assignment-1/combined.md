@@ -15,7 +15,7 @@ Medicaid Services (CMS) which is a part of the US Department of Health and
 Human Services (HHS). The primary contractor was CGI who had a contract of
 around 250 million dollars. Next to that there were 16 official
 subcontractors, but the total number of subcontractors was actually 55. All
-under the supervison of CMS. There were also 300 private insurers. All in all
+under the supervision of CMS. There were also 300 private insurers. All in all
 there were around 4000 plans.
 
 The clients were according to [4, page 6]: the Department of Health and Human
@@ -39,7 +39,7 @@ week the site was overwhelmed by up to five times as many users.
 
 ## Before the launch
 
-There were a lot of warnings before the lauch of the website by different
+There were a lot of warnings before the launch of the website by different
 parties. But is seems nothing was done with them. Below are a couple of them
 noted [4].
 
@@ -47,7 +47,7 @@ On April 4, 2013 a 15-page document by McKinsey & Co. warns among others the
 CMS  administrator that there was insufficient end-to-end testing and advises
 that a limited initial launch of the website would be ideal. It seems nothing
 is done with this report, because it surfaced only half November 2013. One and
-a half month after the lauch. Next to that there were only two weeks of
+a half month after the launch. Next to that there were only two weeks of
 end-to-end testing before the launch took place for all the users.
 
 The Government Accountability Office (GAO), an independent organisation of the
@@ -64,31 +64,30 @@ health insurance exchange.
 According to the New York Times [4, page 7], documents released by House
 investigators reveal that the 'testing bulletin' showed that the website as of
 September 30 could handle only about 1100 users at a time, even though
-officials have said it should have been abble to accomodate perhaps as many as
+officials have said it should have been able to accommodate perhaps as many as
 60,000 users.
 
 ## After the launch
 
 At its launch (1 October 2013) the website did not perform well. Only 271,000
-of the 9.47 million users that try to registrate where succesfull. ?There was
-already $700 million dollar spend? In 2014 the total number of costs of the
-project is 1.7 billion dollar (reference). Suddenly, one question arises. What
+of the 9.47 million users that try to register were successful. In 2014 the total costs of the
+project was 1.7 billion dollar (reference). Suddenly, one question arises. What
 would have happened if they had established a schedule of access to the site?.
 There were official warnings telling that the site was going to be unable to
 accommodate so many users at once.
 
-An extra team is recluted (22th October 2013) It was recognized that product
+An extra team is recruited (22th October 2013). It was recognized that product
 testing was insufficient. Serious underestimation of time.
 
 Quality Software Services, Inc. (QSSI) is selected as the contractor
 responsible  to now oversee federal website fixes (October 27, 2013). The
-*failure reason* points to a technical complexity (a single data center brings
+*failure reason* points to a technical complexity (a single data centre brings
 down the most critical mission, 'the website' this should be presumed and
-avoided). The *failure factor* leans at requirements that should be identi?ed
+avoided). The *failure factor* leans at requirements that should be identified
 and addressed before project completion.
 
-(October 31, 2013) Again an unrealistic schedule. Site crashed for second time
-due small amount of servers, an explicit gap at project definition and
+(October 31, 2013) Again an unrealistic schedule. The site crashed for a second time
+due to having a small amount of servers, an explicit gap at project definition and
 planning.
 
 (November 14, 2013) President Obama declares to press that he wasn't good
@@ -120,12 +119,12 @@ The failure was caused by a complex interplay of problems:
     and availability needs of it's stakeholders. 
  3. Security solutions were seemingly slapped together in a shoddy manner
     instead of through the kind of systematic approach that is expected in
-    a highquality software solution.
+    a high quality software solution.
  4. Many thousands of pages of legal healthcare regulations did not translated
     seamlessly into functional requirements.
  5. The basic architecture was designed and built around the notion that the
     system would forward requests for quotes from insurance seekers to external
-    vendors in real-time; however, this massive interconnectivity and the
+    vendors in real-time; however, this massive inter-connectivity and the
     subsequent burden on the government servers caused the system to collapse.
 
 >However, all these points, extracted from [1] are a compilation of the
@@ -138,7 +137,7 @@ There are many structured techniques specifically designed to learn others
 about the system and what should it carry, some techniques such as
 'planguage'[10] or 'volere templates'.
 
-## Cause 3: Architecture, Change Managment. The inability to handle
+## Cause 3: Architecture, Change Management. The inability to handle
 
 The inability to handle a growing amount of work, its potential to be enlarged
 in order to accommodate that growth, or a limited space to accommodate
@@ -153,7 +152,7 @@ the launch there were end-to-end tests. The requirement of 60,000 users was not
 met according to the New York Times on 30 September 2013 that based there
 statements on documents released by House investigators [4]. Only 11,000 users
 could simultaneously access the website. Also a McKinsey & Co document, made on
-April 4 2013, that was adressed among others to the CMS Administrator [4, page
+April 4 2013, that was addressed among others to the CMS Administrator [4, page
 7]. The document stated there was insufficient time for end-to-end testing and
 that a 'limited initial launch' would be ideal. This report only surfaced on 13
 November 2013. One and a half month after the release of the website. It is
@@ -189,15 +188,15 @@ made during the project [3]:
 * **Contract officer's representatives were not properly designated and
   authorised in written contracts.** 75% of the contracts reviewed missed
   important information like the contracting officer's representative or the
-  specific duties and responsibilites assigned for each contract.
+  specific duties and responsibilities assigned for each contract.
 
 * **CMS's contracting officer representatives did not have the required
   certification.** Contracts that are valued at more than 10 million dollar
-  require a Level III certifcation in risk management. Not all contracting
-  officer's representatives, who worked with contracts of this size possesed
+  require a Level III certification in risk management. Not all contracting
+  officer's representatives, who worked with contracts of this size possessed
   the required certification.
 
-* **CMS has not complied with the standards of ethical conduct in atleast one
+* **CMS has not complied with the standards of ethical conduct in at least one
   occasion.** In one case, one of the CMS panel members responsible for
   awarding a contract had recently worked together with the party that applied
   for the contract, thus creating a possible conflict of interests. The
@@ -205,7 +204,7 @@ made during the project [3]:
   acted in conflict with the CMS's ethical code.
 
 * **Contracting officers did not always prepare contractor past-performance
-  evaluations**. Some contracts were not registered at the instituion that keeps
+  evaluations**. Some contracts were not registered at the institution that keeps
   a record of government contractors. Subsequently, the CMS did not perform
   performance reviews for those contracts that are required for the logs of
   that institution.
@@ -222,7 +221,7 @@ who were not involved on such a low level of the project.
 ### Which principles could help HealthCare.gov?
 
 According to the Scrum Guide (http://www.scrumguides.org/scrum-guide.html#team) Scrum is most effective in small teams with up to 9 people. Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
-However, some parts of Scrum could have benefitted the CMS.
+However, some parts of Scrum could have benefited the CMS.
 
 Take for example a **product backlog** together with having a dedicated **product owner**; These could have stopped unauthorized CMS employees from changing the scope of the project. Any product that needs to be added to backlog would have to be added by the product owner, who can check if the request is legitimate ( assuming that all product owners are authorized to change the scope of the contract ).
 
@@ -260,11 +259,11 @@ The main problem in this case was the lack of control on the contract deliverabl
   tested two weeks before launch. Which was too short to find all important
   bugs, and too close to launch to fix all the problems that were found.
 
-* Evaluation: This principle assumes an interative approach, which was not
+* Evaluation: This principle assumes an iterative approach, which was not
   present during the building of HealthCare.gov. So this principle was not
   followed at all.
-* Change Requests: The Obama administration kepy modifying regulations and policies of the Affordable Care Act,
-  which inherently meant that the scope of the HealthCare.gov website kepy changing too.
+* Change Requests: The Obama administration kept modifying regulations and policies of the Affordable Care Act,
+  which inherently meant that the scope of the HealthCare.gov website kept changing too.
   Which probably has caused some hardship with the changes trickling down to all the contractors, but there is a lack
   of documentation on how the changes were documented and implemented.
 
@@ -289,8 +288,8 @@ Every part that is aboard the Mars Lander needs to go through a qualification te
 procedure which can take a few years [5]. This shows that the Mars Lander team takes their integration
 tests very seriously, which was not the case for the CMS with all the missing deliverables.
 
-Ofcourse there is a downside to this as well. If the CMS was to implement qualification testing on this
-scale, costs for the project would likely skyrocket and the project would take longer. Then again, the
+Of course there is a downside to this as well. If the CMS was to implement qualification testing on this
+scale, costs for the project would likely sky-rocket and the project would take longer. Then again, the
 HealthCare.gov is not flying through space, where maintenance is impossible to perform. So the CMS could
 definitely profit by looking how NASA does its integration tests and implementing those, albeit on a 
 smaller scale.
@@ -331,8 +330,8 @@ On the other side of the spectrum, the front-end of HealthCare.gov is considered
 
 Contractors stated "...mere days before the launch date, [CMS] tested the system's ability to handle tens of thousands of users at once. It crashed after a few hundred. " [9]. This likely indicates an issue with validating the architecture.
 
-Next to iterative development, RUP also defines phases of a project's lifecycle [15].
-In the elaboration phase, most of the architecture should be done. At HealthCare.gov most of the architecture was also done up front. This did not help them forsee the problems that occured during the go-live.
+Next to iterative development, RUP also defines phases of a project's life-cycle [15].
+In the elaboration phase, most of the architecture should be done. At HealthCare.gov most of the architecture was also done up front. This did not help them foresee the problems that occurred during the go-live.
 RUP does promote a risk first approach. If RUP would have been properly implemented, the riskier parts of the process, such as integration and  performance, would have been tackled in the beginning.
 
 
@@ -350,7 +349,7 @@ The development system would have been properly identified as a point of weaknes
 
 In order to shop for a healthcare plan, consumers had to register on the site for an account first. 
 It was reported that the response times of the registration pages were very high with load times up to 71 seconds [9,21].
-This symptom occured because architecture was not able to handle the concurrent users for the registration pages. 
+This symptom occurred because architecture was not able to handle the concurrent users for the registration pages. 
 Around September 2013, just weeks before the deadline, a decision was made that all users had to register first, before they could start shopping for a health plan [22]. Because of this change the registration pages became a bottleneck for the entire site. The changing functional requirement had a major impact on the architecture of the site.
 
 ## Key factor in failure
@@ -362,7 +361,7 @@ However, the cause for the performance problems at the registration pages was a 
 | -------- | --------------------------------------------------------------------------------- |
 | Symptom  | High response times for the registration pages.                                   |
 | Failure  | The architecture could not handle the many concurrent users.                      |
-| Cause    | Three months before the deadline a requirement changed that stated that consumers | 
+| Cause    | Three months before the deadline a requirement changed that stated that consumers |
 |          | must register before able to shop for health plans.                               |
 | Context  | Changing requirements with major architectural impact.                            |
 | Problem  | No mechanism to deal with changing requirements.                                  |
@@ -370,7 +369,7 @@ However, the cause for the performance problems at the registration pages was a 
 ## Scrum
 
 In Scrum requirements are expressed in Product Backlog Items and are maintained by a Product Owner who is also 
-the sole person reposonsible for them. These Product Backlog Items can change any time up until the moment they become 'in sprint' and are being developed by the Development Team. It is during the Sprint Planning at the start of each Sprint that the Development Team descides on how to implement the Product Backlog Items requested by the Product Owner [17]. Scrum however does not specify what the 'how' should answer in terms of quality constraints. Capturing the impact of the change at HealthCare.gov would have been greatly dependent of the expertise of the Development Team or Product Owner. 
+the sole person responsible for them. These Product Backlog Items can change any time up until the moment they become 'in sprint' and are being developed by the Development Team. It is during the Sprint Planning at the start of each Sprint that the Development Team decides on how to implement the Product Backlog Items requested by the Product Owner [17]. Scrum however does not specify what the 'how' should answer in terms of quality constraints. Capturing the impact of the change at HealthCare.gov would have been greatly dependent of the expertise of the Development Team or Product Owner. 
 
 Another principle of Scrum is that at the end of each Sprint the team delivers a fully tested and deployable product. In general, if this were the case at HealthCare.gov the performance failure would still have occurred but it would be detected within the duration of a sprint. The project management would than have more time to handle the problem. Note however, that this specific requirement change was made weeks before the final deadline so having sprints would have made no difference either.
 
@@ -393,7 +392,7 @@ on the architecture.
 
 [2] Morgan, David & Humer, Caroline. "Timeline: U.S. healthcare law's technology breakdown" Reuters, 30 October 2013, Web. 9 February 2015.
 
-[3] Levinson, Daniel. "CMS Did Not Always Manage and Oversee Contractor Peformance for the Federal Marketplace as Required by Federal Requirements and Contract Terms", Office of Inspector General, September 2015, Report.
+[3] Levinson, Daniel. "CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms", Office of Inspector General, September 2015, Report.
 
 [4] Anthopoulos, L., et al.[Why e-government projects fail? An analysis of the Healthcare.gov website](http://www.sciencedirect.com/science/article/pii/S0740624X15000799), Government Information Quarterly (2015).
 
