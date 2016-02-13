@@ -106,10 +106,23 @@ the wrong scale for the architecture could have been identified earlier,
 while there was still time to fix the problems. Instead of when the integration
 happened, two weeks before the launch.
 
-## Marslander
+## Mars Lander
 
-> I still do not see how we can face this. Mars Lander is a project, not
-> a methodology.
+The Mars Lander's development approach focuses on durability and reliability to the extreme.
+Judging by how the Healthcare.gov website only worked correctly for 1% of the visitors during their
+launch week, this was not the case for the Healthcare.gov website.
+
+Every part that is aboard the Mars Lander needs to go through a qualification testing procedure of
+12 to 15 months. And then when all the components are combined there is another qualification testing
+procedure which can take a few years [5]. This shows that the Mars Lander team takes their integration
+tests very seriously, which was not the case for the CMS with all the missing deliverables.
+
+Ofcourse there is a downside to this as well. If the CMS was to implement qualification testing on this
+scale, costs for the project would likely skyrocket and the project would take longer. Then again, the
+Healthcare.gov is not flying through space, where maintenance is impossible to perform. So the CMS could
+definitely profit by looking how NASA does its integration tests and implementing those, albeit on a 
+smaller scale.
+
 
 ## Sources
 
@@ -120,3 +133,5 @@ happened, two weeks before the launch.
 [3] Levinson, Daniel. "CMS Did Not Always Manage and Oversee Contractor Peformance for the Federal Marketplace as Required by Federal Requirements and Contract Terms", Office of Inspector General, September 2015, Report.
 
 [4] Anthopoulos, L., et al., Why e-government projects fail? An analysis of the HealthCare.gov website, Government Information Quarterly (2015), http://dx.doi.org/10.1016/j.giq.2015.07.003
+
+[5] Harwoord, William. "Slow, but rugged, Curiosity's computer was built for Mars" CNET, 10 August, 2012, Web. 12 February 2015.
