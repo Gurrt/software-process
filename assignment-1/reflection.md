@@ -32,7 +32,8 @@ Overall, I think everyone did their part to contribute and this assignment went 
 
 ##The Bad and Ugly
 - Almost nothing written by the team in the first week was used in the final document. This gives somewhat of a feeling that that time was ill spent.
-- 
+
+ 
 # Alberto
 
 ## The Good
