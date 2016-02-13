@@ -145,7 +145,7 @@ iterations can be a very dangerous thing. In this case, just a week before the
 deadline a requirement changed that had a major impact on the architectural
 constraints of the site.
 
-## Cause 4: Politics (Ostrich effect) - needs review. Not that great yet
+## Cause 4: Politics (Ostrich effect)
 
 Politicians were setting a deadline that was not realistic.  Only two weeks for
 the launch there were end-to-end tests. The requirement of 60,000 users was not
