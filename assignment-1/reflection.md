@@ -23,3 +23,12 @@ I believe that the use of Markdown as our document writing format was fine for t
 The Trello board that was setup did not get used as much. For the next assignment we should consider keeping it more up to date or perhaps use more traditional methods of task management.
 
 Overall, I think everyone did their part to contribute and this assignment went by pretty well. 
+
+#Erik
+## The Good
+- We quickly had a collaboration infrastructure in place for task management (Trello), scheduling (Google Calendar), conferencing (Whatsapp, Google Hangout) and version control for our documents. (Github)
+- The team adjusted well to the feedback Hans gave us in the second week not afraid to turn into a new direction.
+- The in week 2 scheduled milestones made the team more goal oriënted.
+
+##The Bad and Ugly
+- Almost nothing written by the team in the first week was used in the final document. This gives somewhat of a feeling that that time was ill spent.
