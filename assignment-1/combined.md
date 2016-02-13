@@ -1,76 +1,165 @@
-## Failed case : HealthCare.gov
+% Failed case : HealthCare.gov
+% Team Blue Mondays
 
-##### Initial complexity.
+# Initial complexity
 
-The construction of HealthCare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Health and Human Services (HHS). The primary contractor was CGI who had a contract of around 250 million dollars. Next to that there were 16 official subcontractors, but the total number of subcontractors was actually 55. All under the supervison of CMS. There were also 300 private insurers. All in all there were around 4000 plans.
+The construction of HealthCare.gov was overseen by Centers for Medicare and
+Medicaid Services (CMS) which is a part of the US Department of Health and
+Human Services (HHS). The primary contractor was CGI who had a contract of
+around 250 million dollars. Next to that there were 16 official
+subcontractors, but the total number of subcontractors was actually 55. All
+under the supervison of CMS. There were also 300 private insurers. All in all
+there were around 4000 plans.
 
-The clients were according to [4, page 6]: the Department of Health and Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), 36 States, 300 private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social Security Administration, the Internal Revenue Service, Veterans Administration, Office of Personnel Management, Peace Corps, etc.
+The clients were according to [4, page 6]: the Department of Health and Human
+Services (HHS), Centers for Medicare & Medicaid Services (CMS), 36 States, 300
+private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social
+Security Administration, the Internal Revenue Service, Veterans Administration,
+Office of Personnel Management, Peace Corps, etc.
 
-The internal architecture of HealthCare.gov is very complex. US residents who want to apply for an insurance needed a lot of information from the different systems. Like their income and immigration status. The website needed to be connected with all the different systems from the federal government and the private insurers, like the Internal Revenue Service, Social Security Administration, the Peace Corps, etc. The idea was the information of all the different federal systems should be retrieved real time. According to [4] the U.S. Chief Technology Officer Todd Park has said that the government expected HealthCare.gov to draw 50,000 to 60,000 simultaneous users. But in the first week the site was overwhelmed by up to five times as many users. 
+The internal architecture of HealthCare.gov is very complex. US residents who
+want to apply for an insurance needed a lot of information from the different
+systems. Like their income and immigration status. The website needed to be
+connected with all the different systems from the federal government and the
+private insurers, like the Internal Revenue Service, Social Security
+Administration, the Peace Corps, etc. The idea was the information of all the
+different federal systems should be retrieved real time. According to [4] the
+U.S. Chief Technology Officer Todd Park has said that the government expected
+HealthCare.gov to draw 50,000 to 60,000 simultaneous users. But in the first
+week the site was overwhelmed by up to five times as many users.
 
-####Timeline of problems and solutions.
+# Timeline of problems and solutions
 
-#####Before the launch
-There were a lot of warnings before the lauch of the website by different parties. But is seems nothing was done with them. Below are a couple of them noted [4].
+## Before the launch
 
-On April 4, 2013 a 15-page document by McKinsey & Co. warns among others the CMS administrator that there was insufficient end-to-end testing and advises that a limited initial launch of the website would be ideal. It seems nothing is done with this report, because it surfaced only half November 2013. One and a half month after the lauch. Next to that there were only two weeks of end-to-end testing before the launch took place for all the users.
+There were a lot of warnings before the lauch of the website by different
+parties. But is seems nothing was done with them. Below are a couple of them
+noted [4].
 
-The Government Accountability Office (GAO), an independent organisation of the government, reported in June 2013 that there could be trouble with the goal of launching the website on the first of October 2013. 
+On April 4, 2013 a 15-page document by McKinsey & Co. warns among others the
+CMS  administrator that there was insufficient end-to-end testing and advises
+that a limited initial launch of the website would be ideal. It seems nothing
+is done with this report, because it surfaced only half November 2013. One and
+a half month after the lauch. Next to that there were only two weeks of
+end-to-end testing before the launch took place for all the users.
 
-On 10 September there was a panel of the House of Representatives who were hearing among others consulting firm Leavitt Partners and contractor CGI. CGI stated during this hearing that it was on schedule for launching the website. On the other hand Leavitt Partners stated that the launch will be 'rocky' [4, page 7] because there are still ongoing technology challenges for the online health insurance exchange.
+The Government Accountability Office (GAO), an independent organisation of the
+government, reported in June 2013 that there could be trouble with the goal of
+launching the website on the first of October 2013.
 
-According to the New York Times [4, page 7], documents released by House investigators reveal that the 'testing bulletin' showed that the website as of September 30 could handle only about 1100 users at a time, even though officials have said it should have been abble to accomodate perhaps as many as 60,000 users.
+On 10 September there was a panel of the House of Representatives who were
+hearing  among others consulting firm Leavitt Partners and contractor CGI. CGI
+stated during this hearing that it was on schedule for launching the website.
+On the other hand Leavitt Partners stated that the launch will be 'rocky' [4,
+page 7] because there are still ongoing technology challenges for the online
+health insurance exchange.
 
-#####After the launch [4]
-At its launch (1 October 2013) the website did not perform well. Only 271,000 of the 9.47 million users that try to registrate where succesfull. ?There was already $700 million dollar spend? In 2014 the total number of costs of the project is 1.7 billion dollar (reference). Suddenly, one question arises. What would have happened if they had established a schedule of access to the site?. There were official warnings telling that the site was going to be unable to accommodate so many users at once.
+According to the New York Times [4, page 7], documents released by House
+investigators reveal that the 'testing bulletin' showed that the website as of
+September 30 could handle only about 1100 users at a time, even though
+officials have said it should have been abble to accomodate perhaps as many as
+60,000 users.
 
-An extra team is recluted (22th October 2013) It was recognized that product testing was insufficient. Serious underestimation of time.
+## After the launch [4]
 
-Quality Software Services, Inc. (QSSI) is selected as the contractor responsible to now oversee federal website fixes (October 27, 2013). The *failure reason* points to a technical complexity (a single data center brings down the most critical mission, 'the website' this should be presumed and avoided). The *failure factor* leans at requirements that should be identi?ed and addressed before project completion.
+At its launch (1 October 2013) the website did not perform well. Only 271,000
+of the 9.47 million users that try to registrate where succesfull. ?There was
+already $700 million dollar spend? In 2014 the total number of costs of the
+project is 1.7 billion dollar (reference). Suddenly, one question arises. What
+would have happened if they had established a schedule of access to the site?.
+There were official warnings telling that the site was going to be unable to
+accommodate so many users at once.
 
-(October 31, 2013) Again an unrealistic schedule. Site crashed for second time due small amount of servers, an explicit gap at project definition and planning.
+An extra team is recluted (22th October 2013) It was recognized that product
+testing was insufficient. Serious underestimation of time.
 
-(November 14, 2013) President Obama declares to press that he wasn't good informed of the situation. The project team was not prepared for the failure.
+Quality Software Services, Inc. (QSSI) is selected as the contractor
+responsible  to now oversee federal website fixes (October 27, 2013). The
+*failure reason* points to a technical complexity (a single data center brings
+down the most critical mission, 'the website' this should be presumed and
+avoided). The *failure factor* leans at requirements that should be identi?ed
+and addressed before project completion.
 
-(November 30, 2013)  Enrollment statistics show that 137,000 individuals had signed up for plans using the site compared to the 227,000 that had enrolled through the 14 state run exchanges.
+(October 31, 2013) Again an unrealistic schedule. Site crashed for second time
+due small amount of servers, an explicit gap at project definition and
+planning.
 
-Obama Administration set deadline of a working site for the 'vast majority' of users. (December 1, 2013)
+(November 14, 2013) President Obama declares to press that he wasn't good
+informed of the situation. The project team was not prepared for the failure.
+signed up for plans using the site compared to the 227,000 that had enrolled
+through the 14 state run exchanges.
+
+ Obama Administration set deadline of a working site for the 'vast majority' of
+ users. (December 1, 2013)
 
 
-### Failure causes & possible solutions.
+# Failure causes & possible solutions
+
 The failure was caused by a complex interplay of problems:
 
-##### Cause 1: Contractor Management.
- 6. Contractor delays and performance issues were not always identified.
- 7. A contractor incurred unauthorized costs that increased the cost of the contract.
- 8. Contracting officers in all government agencies did not have access to contractor past-performance evaluations when making contract awards.
- 9. Critical deliverables and management decisions were not properly documented.
+## Cause 1: Contractor Management
 
+ 1. Contractor delays and performance issues were not always identified.
+ 2. A contractor incurred unauthorized costs that increased the cost of the
+    contract.
+ 3. Contracting officers in all government agencies did not have access to
+    contractor past-performance evaluations when making contract awards.
+ 4. Critical deliverables and management decisions were not properly documented.
 
-##### Cause 2: Architecture, non functional requirements.
+## Cause 2: Architecture, non functional requirements
+
  1. The system was not designed to handle the massive influx of initial users. 
- 2. Insufficient effort made to build a system that would meet the performance and availability needs of it's stakeholders. 
- 3. Security solutions were seemingly slapped together in a shoddy manner instead of through the kind of systematic approach that is expected in a highquality software solution.
- 4. Many thousands of pages of legal healthcare regulations did not translated seamlessly into functional requirements.
- 5. The basic architecture was designed and built around the notion that the system would forward requests for quotes from insurance seekers to external vendors in real-time; however, this massive interconnectivity and the subsequent burden on the government servers caused the system to collapse.
+ 2. Insufficient effort made to build a system that would meet the performance
+    and availability needs of it's stakeholders. 
+ 3. Security solutions were seemingly slapped together in a shoddy manner
+    instead of through the kind of systematic approach that is expected in
+    a highquality software solution.
+ 4. Many thousands of pages of legal healthcare regulations did not translated
+    seamlessly into functional requirements.
+ 5. The basic architecture was designed and built around the notion that the
+    system would forward requests for quotes from insurance seekers to external
+    vendors in real-time; however, this massive interconnectivity and the
+    subsequent burden on the government servers caused the system to collapse.
 
->However, all these points, extracted from [1] are a compilation of the problem's triggers , but **where could it change?**
-Besides all the disastrous organizational perspective, and scoping at the missing functional requirements, the elicitation, documentation and communication of those requirements probably could have helped this project. There are many structured techniques specifically designed to learn others about the system and what should it carry, some techniques such as 'planguage'[10] or 'volere templates'.
+>However, all these points, extracted from [1] are a compilation of the
+>problem's triggers , but **where could it change?**
 
+Besides all the disastrous organizational perspective, and scoping at the
+missing functional requirements, the elicitation, documentation and
+communication of those requirements probably could have helped this project.
+There are many structured techniques specifically designed to learn others
+about the system and what should it carry, some techniques such as
+'planguage'[10] or 'volere templates'.
 
- 
-##### Cause 3: Architecture, Change Managment.
-The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, just a week before the deadline a requirement changed that had a major impact on the architectural constraints of the site.
+## Cause 3: Architecture, Change Managment. The inability to handle
 
-##### Cause 4: Politics (Ostrich effect) - needs review. Not that great yet.
-Politicians were setting a deadline that was not realistic.  Only two weeks for the launch there were end-to-end tests. The requirement of 60,000 users was not met according to the New York Times on 30 September 2013 that based there statements on documents released by House investigators [4]. Only 11,000 users could simultaneously access the website. Also a McKinsey & Co document, made on April 4 2013, that was adressed among others to the CMS Administrator [4, page 7]. The document stated there was insufficient time for end-to-end testing and that a 'limited initial launch' would be ideal. This report only surfaced on 13 November 2013. One and a half month after the release of the website. It is unclear why this information was not used to postpone the deadline or to do a launch for a limited number of users.
+The inability to handle a growing amount of work, its potential to be enlarged
+in order to accommodate that growth, or a limited space to accommodate
+iterations can be a very dangerous thing. In this case, just a week before the
+deadline a requirement changed that had a major impact on the architectural
+constraints of the site.
+
+## Cause 4: Politics (Ostrich effect) - needs review. Not that great yet
+
+Politicians were setting a deadline that was not realistic.  Only two weeks for
+the launch there were end-to-end tests. The requirement of 60,000 users was not
+met according to the New York Times on 30 September 2013 that based there
+statements on documents released by House investigators [4]. Only 11,000 users
+could simultaneously access the website. Also a McKinsey & Co document, made on
+April 4 2013, that was adressed among others to the CMS Administrator [4, page
+7]. The document stated there was insufficient time for end-to-end testing and
+that a 'limited initial launch' would be ideal. This report only surfaced on 13
+November 2013. One and a half month after the release of the website. It is
+unclear why this information was not used to postpone the deadline or to do
+a launch for a limited number of users.
 
 # Contractor Management
 
-##### Key factors in failure
+## Key factors in failure
 
 One of the most important reasons for the failure of the *HealthCare.gov*
-project, from the process and management point of view, was a mismanagement of contractors.
+project, from the process and management point of view, was a mismanagement of
+contractors.
 
 The *Center for Medicare & Medicaid Services* (CMS) depended heavily on
 contractors to develop and manage the *Federal marketplace*. Federal law
@@ -79,40 +168,51 @@ to manage the performance of the contractors. The following mistakes were
 made during the project [3]:
 
 * **Contracting officers did not receive all
-  contract deliverables and periodically neglected to use those to monitor the contractors
-  performance.** Law enforces the contractor officers and their representatives
-  to monitor the performance of their contractors. Sometimes reports were incomplete
-  and deliverables handed in months after their deadlines, without any explanation requested by or given to the CMS.
+  contract deliverables and periodically neglected to use those to monitor the
+  contractors performance.** Law enforces the contractor officers and their
+  representatives to monitor the performance of their contractors. Sometimes
+  reports were incomplete and deliverables handed in months after their
+  deadlines, without any explanation requested by or given to the CMS.
 
 * **Unauthorised CMS personnel added work and increased the cost of one of the
-  contracts.** Contractor officers added extra work to one contract without having the authority to issue such work, around 40 work units were added for a total extra cost of $28 million.
+  contracts.** Contractor officers added extra work to one contract without
+  having the authority to issue such work, around 40 work units were added for
+  a total extra cost of $28 million.
 
 * **Contract officer's representatives were not properly designated and
   authorised in written contracts.** 75% of the contracts reviewed missed
   important information like the contracting officer's representative or the
   specific duties and responsibilites assigned for each contract.
 
-* **CMS's contracting officer representatives did not have the required certification.**
-  Contracts that are valued at more than 10 million dollar require a Level III certifcation in risk management.
-  Not all contracting officer's representatives, who worked with contracts of this size possesed the required certification.
+* **CMS's contracting officer representatives did not have the required
+  certification.** Contracts that are valued at more than 10 million dollar
+  require a Level III certifcation in risk management. Not all contracting
+  officer's representatives, who worked with contracts of this size possesed
+  the required certification.
 
-* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of interests. The employee did not raise this as an issue to his supervisor(s) and as such acted in conflict with the CMS's ethical code.
- 
+* **CMS has not complied with the standards of ethical conduct in atleast one
+  occasion.** In one case, one of the CMS panel members responsible for
+  awarding a contract had recently worked together with the party that applied
+  for the contract, thus creating a possible conflict of interests. The
+  employee did not raise this as an issue to his supervisor(s) and as such
+  acted in conflict with the CMS's ethical code.
+
 * **Contracting officers did not always prepare contractor past-performance
   evaluations**. Some contracts were not registered at the instituion that keeps
   a record of government contractors. Subsequently, the CMS did not perform
-  performance reviews for those contracts that are required for the logs of that institution.
+  performance reviews for those contracts that are required for the logs of
+  that institution.
 
-##### Scrum
+## Scrum
 
-###### Principles applied during the project
+### Principles applied during the project
 
 A key part of the Scrum methodology is to prioritise communication over documentation.
 Due to the all the legal requirements and licensing required for big government project like this one
 scrum was not used as process for the overall project. Some of the contractors, like Development Seed [24], used Agile methods for their development internally. Unfortunately, the main problem for the contractors was in their communication with the CMS,
 who were not involved on such a low level of the project.
 
-###### Which principles could help HealthCare.gov?
+### Which principles could help HealthCare.gov?
 
 According to the Scrum Guide (http://www.scrumguides.org/scrum-guide.html#team) Scrum is most effective in small teams with up to 9 people. Considering the sheer size of this project, a pure Scrum approach for the entire project would have likely done more harm than good.
 However, some parts of Scrum could have benefitted the CMS.
@@ -121,9 +221,9 @@ Take for example a **product backlog** together with having a dedicated **produc
 
 The main problem in this case was the lack of control on the contract deliverables. Perhaps if the CMS worked with a Scrum flow which included a **demo** phase, those deliverables could be incrementally shown to the CMS stakeholders, even if they aren't software but documents e.g. security audit reports and progress reports. However, the report by Daniel Levinson [3] makes it sound like the main cause for missing these deliverables is because CMS was not enforcing them too strictly. So for this approach to yield any success, the contract officers would also need to take a more professional stance on the deliverables.
 
-##### RUP
+## RUP
 
-###### Principles applied during the project
+### Principles applied during the project
 
 * Vision: The vision of what to build was clear, thousands of pages of legal
   documents provided documentation on what to build exactly.[1]
@@ -161,7 +261,7 @@ The main problem in this case was the lack of control on the contract deliverabl
   Which probably has caused some hardship with the changes trickling down to all the contractors, but there is a lack
   of documentation on how the changes were documented and implemented.
 
-###### Which principles could help HealthCare.gov?
+### Which principles could help HealthCare.gov?
 
 As stated above, a stricter monitoring of the deliverables by the contractors
 could have helped this project. What also could have prevented the failure was
@@ -171,7 +271,7 @@ the wrong scale for the architecture could have been identified earlier,
 while there was still time to fix the problems. Instead of when the integration
 happened, two weeks before the launch.
 
-##### Mars Lander
+## Mars Lander
 
 The Mars Lander's development approach focuses on durability and reliability to the extreme.
 Judging by how the HealthCare.gov website only worked correctly for 1% of the visitors during their
@@ -190,7 +290,7 @@ smaller scale.
 
 # Architecture - rigid and lacking non-functional requirements
 
-##### Key factors in failure
+## Key factors in failure
 
 One of the primary problems with HealthCare.gov was its performance.
 The architecture was designed to pass on requests from the web servers real-time to the back-end systems.
@@ -202,12 +302,12 @@ Another one of the problems the site faced, was that there were a number of secu
 These came to light during a security breach in the July of 2014. The breach was discovered by a CMS security team in the following month. It occurred due to a development server not being properly configured and this led to malware being uploaded to the system. 
 
 
-#####  Software development methodologies
+##  Software development methodologies
 
 Could the problems stated above have been fixed by using software methodologies?
 
 
-###### Scrum
+## Scrum
 
 The back-end of HealthCare.gov is reported to have been built using agile practices but they were likely not applied correctly due to the project having explicit phases defined such as testing [12].
 In Scrum, architecture is designed as required for the next production increment [16]. This does not necessarily lead to the architecture becoming more flexible.
@@ -220,7 +320,7 @@ However, a minimal viable product might not have included integration with all s
 On the other side of the spectrum, the front-end of HealthCare.gov is considered to be a success. A start-up known as Development Seed was responsible for the front-end of the website and made use of agile practices [12].
 
 
-###### Rational Unified Process
+# Rational Unified Process
 
 Contractors stated "...mere days before the launch date, [CMS] tested the system's ability to handle tens of thousands of users at once. It crashed after a few hundred. " [9]. This likely indicates an issue with validating the architecture.
 
@@ -229,7 +329,7 @@ In the elaboration phase, most of the architecture should be done. At HealthCare
 RUP does promote a risk first approach. If RUP would have been properly implemented, the riskier parts of the process, such as integration and  performance, would have been tackled in the beginning.
 
 
-###### MARS Rover
+## MARS Rover
 
 The software methodology used to build the Mars rover is based on risk-reduction principles [19].
 The U.S. government has built a large number of software systems and thus has a history of security vulnerabilities that can possibly occur.
@@ -246,7 +346,7 @@ It was reported that the response times of the registration pages were very high
 This symptom occured because architecture was not able to handle the concurrent users for the registration pages. 
 Around September 2013, just weeks before the deadline, a decision was made that all users had to register first, before they could start shopping for a health plan [22]. Because of this change the registration pages became a bottleneck for the entire site. The changing functional requirement had a major impact on the architecture of the site.
 
-##### Key factor in failure
+## Key factor in failure
 
 Many failures regarding performance were due to a poor architectural design in the first place which in turn was caused by the omission of well defined quality constraints [1]. This was discussed in the previous chapter. 
 However, the cause for the performance problems at the registration pages was a requirement that changed in a late stage during the development. The requirement had a major impact on the architectural constraints of the site that was not captured. Changing requirements during the course of a project is a common phenomenon in software engineering. We analysed whether Scrum or RUP have proper mechanisms to deal with this and if these mechanisms could have prevented the problems at HealthCare.gov.
@@ -260,7 +360,7 @@ However, the cause for the performance problems at the registration pages was a 
 | Context  | Changing requirements with major architectural impact.                            |
 | Problem  | No mechanism to deal with changing requirements.                                  |
 
-##### Scrum
+## Scrum
 
 In Scrum requirements are expressed in Product Backlog Items and are maintained by a Product Owner who is also 
 the sole person reposonsible for them. These Product Backlog Items can change any time up until the moment they become 'in sprint' and are being developed by the Development Team. It is during the Sprint Planning at the start of each Sprint that the Development Team descides on how to implement the Product Backlog Items requested by the Product Owner [17]. Scrum however does not specify what the 'how' should answer in terms of quality constraints. Capturing the impact of the change at HealthCare.gov would have been greatly dependent of the expertise of the Development Team or Product Owner. 
@@ -269,7 +369,7 @@ Another principle of Scrum is that at the end of each Sprint the team delivers a
 
 Overall Scrum does not provide well defined mechanisms to handle quality assurance needed when dealing with changing requirements.
 
-##### RUP
+## RUP
 
 The Rational Unified Process (RUP) is an iterative software development process in which risk management is an important feature. One of the ten essentials 'Change Requests' specifically deals with changing requirements by providing a process for risk and impact analysis for any proposed change [23].
 
@@ -280,7 +380,8 @@ The Rational Unified Process (RUP) is an iterative software development process 
 It is this part of RUP that could have prevented the performance problems during registrations. Had the change been properly analysed on its impact it could have on the architecture, the project team could have decided to make the proper adjustments 
 on the architecture.
 
-#### Sources
+# Sources
+
 [1] Cleland-Huang, Jane. [Don't Fire the Architect! Where Were the Requirements?](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6774318) Software, IEEE 31.2 (2014): 27-29.
 
 [2] Morgan, David & Humer, Caroline. "Timeline: U.S. healthcare law's technology breakdown" Reuters, 30 October 2013, Web. 9 February 2015.
