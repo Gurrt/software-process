@@ -32,7 +32,8 @@ On the other side of the spectrum, the front-end of HealthCare.gov is considered
 
 ### Rational Unified Process
 
-A number of contractors have said that on the day of the launch that the site was tested and apparently could not even handle 1000 concurrent users . This likely indicates an issue with validating the architecture[].
+Contractors stated "...mere days before the launch date, [CMS] tested the system’s ability to handle tens of thousands of users at once. It crashed after a few hundred. " [9]. This likely indicates an issue with validating the architecture.
+
 Next to iterative development, RUP also defines phases of a project's lifecycle [4].
 In the elaboration phase, most of the architecture should be done. At HealthCare.gov most of the architecture was also done up front. This did not help them forsee the problems that occured during the go-live.
 RUP does promote a risk first approach. If RUP would have been properly implemented, the riskier parts of the process, such as integration and  performance, would have been tackled in the beginning.
