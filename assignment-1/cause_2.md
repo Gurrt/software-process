@@ -5,8 +5,8 @@
 One of the primary problems with HealthCare.gov was its performance.
 The architecture was designed to pass on requests from the web servers real-time to the back-end systems.
 The system was not designed to be able to handle the high loads that it faced after going to production [2].
-Late during development, they discovered that the new requirements would need changes in the architecture.
-However, the current architecture did not provide the flexibility to allow such changes in it.
+
+Requirements that had a high impact on the architecture were delivered late. One such requirement, was that users needed to log in, before they could use the site: "[customer representatives were] debating whether consumers should be required to register and create password-protected accounts before they could shop for health plans". This was delivered three months before the planned release date. There was scant time, to incorporate these requirements [9].
 
 Another one of the problems the site faced, was that there were a number of security vulnerabilities [6].
 These came to light during a security breach in the July of 2014. The breach was discovered by a CMS security team in the following month. It occurred due to a development server not being properly configured and this led to malware being uploaded to the system. 
@@ -66,3 +66,6 @@ The development system would have been properly identified as a point of weaknes
 [7] A. Scoică, "Profile Benjamin Cichy", XRDS: Crossroads, The ACM Magazine for Students, vol. 20, no. 3, pp. 68-69, 2014.
 
 [8] B. Ehley, "After 2 Years and $2.1 Billion, HealthCare.gov Is Unfinished", The Fiscal Times, 2016. [Online]. Available: http://www.thefiscaltimes.com/2015/03/05/After-2-Years-and-21-Billion-HealthCaregov-Unfinished. 
+
+[9]  Chambers and Associates Pty Ltd, "Saving Obamacare", 2014 [Online]. Available:
+http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study-analysis.pdf
