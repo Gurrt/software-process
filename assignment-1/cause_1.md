@@ -29,7 +29,7 @@ made during the project [3]:
   Contracts that are valued at more than 10 million dollar require a Level III certifcation in risk management.
   Not all contracting officer's representatives, who worked with contracts of this size possesed the required certification.
 
-* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for        awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of   interests. The employee did not raise this as an issue to his supervisor(s) and as such acted in an unethical way.
+* **CMS has not complied with the standards of ethical conduct in atleast one occasion.** In one case, one of the CMS panel members responsible for        awarding a contract had recently worked together with the party that applied for the contract, thus creating a possible conflict of   interests. The employee did not raise this as an issue to his supervisor(s) and as such acted in conflict with the CMS's ethical code.
  
 * **Contracting officers did not always prepare contractor past-performance
   evaluations**. Some contracts were not registered at the instituion that keeps
@@ -63,7 +63,7 @@ The main problem in this case was the lack of control on the contract deliverabl
 * Vision: The vision of what to build was clear, thousands of pages of legal
   documents provided documentation on what to build exactly.[1]
 
-* Plan: The product was planned to launch on 1 October 2015 and did so. Testing
+* Plan: The product was planned to launch on 1 October 2013 and did so. Testing
   was planned for two weeks before launch [2]. The plan might not have been
   ideal, but it was there.
 
