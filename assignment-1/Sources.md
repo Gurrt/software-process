@@ -22,12 +22,12 @@
   
 [12] [Full Committee Hearing - Is My Data on Healthcare.gov Secure?](https://science.house.gov/legislation/hearings/full-committee-hearing-my-data-healthcaregov-secure), [transcribed](https://www.gpo.gov/fdsys/pkg/CHRG-113hhrg86893/pdf/CHRG-113hhrg86893.pdf).
 
-[13] A. Jeffries, ["Why Obama's Healthcare.gov launch was doomed to fail", The Verge, 2013.](http://www.theverge.com/2013/10/8/4814098/why-did-the-tech-savvy-obama-administration-launch-a-busted-healthcare-website).
+[13] A. Jeffries, ["Why Obama's Healthcare.gov launch was doomed to fail", The Verge, 2013](http://www.theverge.com/2013/10/8/4814098/why-did-the-tech-savvy-obama-administration-launch-a-busted-healthcare-website).
 
 [14] USA TODAY, ["Obama adviser: Demand overwhelmed HealthCare.gov", 2016](http://www.usatoday.com/story/news/nation/2013/10/05/health-care-website-repairs/2927597/).
 
 [15] M. Heusser, ["6 Software Development Lessons From Healthcare.gov's Failed Launch", CIO, 2016](http://www.cio.com/article/2380827/developer/developer-6-software-development-lessons-from-healthcare-gov-s-failed-launch.html). 
-[16] P. Kruchten, "The rational unified process. Reading, Mass.: Addison-Wesley, 1999.
+[16] P. Kruchten, The rational unified process. Reading, Mass: Addison-Wesley, 1999.
 
 [17] Schwaber, Ken. Scrum development process, 1997.
 
