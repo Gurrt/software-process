@@ -3,7 +3,7 @@
 ## Key factors in failure
 
 One of the primary problems with HealthCare.gov was its performance.
-The architecture was designed to pass on requests from the web-servers real-time to the back-end systems.
+The architecture was designed to pass on requests from the web servers real-time to the back-end systems.
 The system was not designed to be able to handle the high loads that it faced during the go-live [2].
 Late during development, they discovered that the new requirements would need changes in the architecture.
 However, the current architecture did not provide the flexibility to allow such changes in it.
