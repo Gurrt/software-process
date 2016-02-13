@@ -45,8 +45,6 @@ The failure was caused by a complex interplay of problems:
  7. A contractor incurred unauthorized costs that increased the cost of the contract.
  8. Contracting officers in all government agencies did not have access to contractor past-performance evaluations when making contract awards.
  9. Critical deliverables and management decisions were not properly documented.
- 
-> At this excerpt extracted from [6] we add the question: **where could it change?**. A stricter monitoring of the deliverables by the contractors (with small and testable deliverables), could have helped this project.
 
 
 ##### Cause 2: Architecture, non functional requirements.
@@ -63,11 +61,9 @@ Besides all the disastrous organizational perspective, and scoping at the missin
  
 ##### Cause 3: Architecture, Change Managment.
 The inability to handle a growing amount of work, its potential to be enlarged in order to accommodate that growth, or a limited space to accommodate iterations can be a very dangerous thing. In this case, just a week before the deadline a requirement changed that had a major impact on the architectural constraints of the site.
->**where could it change?** Finding scales and meters[10], RUP, and many other patterns and methods.
-
 
 ##### Cause 4: Politics (Ostrich effect) - needs review. Not that great yet.
-Politicians were setting a deadline that was not realistic.  Only two weeks for the launch there were end-to-end tests. The requirement of 60,000 users was not met according to the New York Times on 30 September 2013 that based there statements on documents released by House investigators [4]. Only 11,000 users could simultaneously access the website. Also a McKinsey & Co document, made on April 4 2013, that was adressed among others to the CMS Administrator [4, page 7] stated there was insufficient time for end-to-end testing and that a “limited initial launch” would be ideal. This report only surfaced on 13 November 2013. One and a half month after the release of the website. It is unclear why this information was not used to postpone the deadline or to do a launch for a limited number of users.
+Politicians were setting a deadline that was not realistic.  Only two weeks for the launch there were end-to-end tests. The requirement of 60,000 users was not met according to the New York Times on 30 September 2013 that based there statements on documents released by House investigators [4]. Only 11,000 users could simultaneously access the website. Also a McKinsey & Co document, made on April 4 2013, that was adressed among others to the CMS Administrator [4, page 7]. The document stated there was insufficient time for end-to-end testing and that a “limited initial launch” would be ideal. This report only surfaced on 13 November 2013. One and a half month after the release of the website. It is unclear why this information was not used to postpone the deadline or to do a launch for a limited number of users.
 
 
 
