@@ -361,14 +361,14 @@ Around September 2013, just weeks before the deadline, a decision was made that 
 Many failures regarding performance were due to a poor architectural design in the first place which in turn was caused by the omission of well defined quality constraints [1]. This was discussed in the previous chapter. 
 However, the cause for the performance problems at the registration pages was a requirement that changed in a late stage during the development. The requirement had a major impact on the architectural constraints of the site that was not captured. Changing requirements during the course of a project is a common phenomenon in software engineering. We analysed whether Scrum or RUP have proper mechanisms to deal with this and if these mechanisms could have prevented the problems at HealthCare.gov.
 
-|          | Description                                                                       |
-| -------- | --------------------------------------------------------------------------------- |
-| Symptom  | High response times for the registration pages.                                   |
-| Failure  | The architecture could not handle the many concurrent users.                      |
-| Cause    | Three months before the deadline a requirement changed that stated that consumers |
-|          | must register before able to shop for health plans.                               |
-| Context  | Changing requirements with major architectural impact.                            |
-| Problem  | No mechanism to deal with changing requirements.                                  |
+|          | Description                                                                      |
+| -------- | ---------------------------------------------------------------------------------|
+| Symptom  | High response times for the registration pages.                                  |
+| Failure  | The architecture could not handle the many concurrent users.                     |
+| Cause    | A few weeks before the deadline a requirement changed that stated that consumers |
+|          | must register before able to shop for health plans.                              |
+| Context  | Changing requirements with major architectural impact.                           |
+| Problem  | No mechanism to deal with changing requirements.                                 |
 
 ## Scrum
 
@@ -388,7 +388,7 @@ The Rational Unified Process (RUP) is an iterative software development process 
 > for managing the scope of the project, as well as **assessing the impact of proposed changes.**" [23]
 
 It is this part of RUP that could have prevented the performance problems during registrations. Had the change been properly analysed on its impact it could have on the architecture, the project team could have decided to make the proper adjustments 
-on the architecture.
+on the architecture or reject the change at all.
 
 # Sources
 
