@@ -1,4 +1,8 @@
+Reflection - Team Blue Mondays
+==============================
+
 #Ger
+
 ## The Good
 - I believe that the majority of the team was very professional and quick to react to questions
 - We adjusted well to the change in structure that was suggested by Hans.
@@ -25,12 +29,13 @@ The Trello board that was setup did not get used as much. For the next assignmen
 Overall, I think everyone did their part to contribute and this assignment went by pretty well. 
 
 #Erik
+
 ## The Good
 - We quickly had a collaboration infrastructure in place for task management (Trello), scheduling (Google Calendar), conferencing (Whatsapp, Google Hangout) and version control for our documents. (Github)
 - The team adjusted well to the feedback Hans gave us in the second week not afraid to turn into a new direction.
 - The in week 2 scheduled milestones made the team more goal oriënted.
 
-##The Bad and Ugly
+## The Bad and Ugly
 - Almost nothing written by the team in the first week was used in the final document. This gives somewhat of a feeling that that time was ill spent.
 
  
@@ -47,7 +52,8 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - As most of us are part timers, we had to rely a lot on whatsapp, hangouts and remote working.
 
-#Alex
+# Alex
+
 ## The Good
 - I like that most of the team members are motivated, good communication and respect the agreements that we have established together.
 - I think Erik did a good job by doing the task of him and Job all by himself. Thumbs up for Erik.
@@ -59,8 +65,9 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - I'm not happy with the Alberto's performance this week. He was late at meetings. Did not keep the deadlines and let Ger do part of his work (I'm refering on the Mars Lander part and the rewriting of the Scrum part of the first root cause).
 
-#Pim
-##The Good
+# Pim
+
+## The Good
 - We managed to make decisions and not get stuck in debate for a long time (which often happens in large groups).
 - We made a quick start setting up infrastructure
 - Even though we had the difficulty of having different schedules and locations, we made it work.
@@ -74,10 +81,30 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - We started out enthusiastically using Trello, but left it to bleed to death after a few days.
 
-#Carla
-##The Good
+# Carla
+
+## The Good
+
 At the beginning I expected a much more chaotic way of work, based at the amount of team members, but along this two first weeks, results have impressed me. Communication flows reasonable good despite having different work locations.
+
 ## The Bad and Ugly
+
 - Due problems with GitHub, Alex (my subteam partner) had to rename the file where we were working on, so the trace to my contribution was half lost.
 - After other team members reviewed our work, I processed Erik's comments leaving short explanations about the actions I took. At last controlling the end results I discover pieces of my work were removed, and nobody leave any comment about.
 - We changed plans two times, but its seems reasonable at the first assignment, where all team members are just starting to know each other.
+
+#Job
+
+## The Good
+- I think the collaboration with this (large) group goes well. Fast communication and agreements are honored.
+- Balanced team. Members take their responsibility and take initiative where they see the opportunity. At least as far as I could see.
+- The decisions for collaboration tools were made soon in the process, with the assignment requirements in mind. This has some benefits (tracking of changes, fast iterations).
+- Good atmosphere in the meetings that I've attended. Positive attitude towards suggestions, critique was formulated in constructive ways. Gives an environment to speak up.
+
+## The Bad
+- It is always a challenge, but I think information is lost in the group communication process. Sometimes the amount of digital methods/platforms is bad, because pieces of information can be at multiple places.
+- I can only speak for the first week, but there was not much attention for conflicting areas. This was improved in the setup in the second week, though.
+- One of the assignments is to experiment with organization (structures). I think in the current situation we go to what we already know. Understandable due to the amount of time we have (as one-day parttimers), but perhaps we can learn some things of other structures as well.
+
+## The Ugly
+- I have to leave the team for two weeks, due to preparation/actions for the thesis. This is quite inconvenient for the team process. With my planning, I do not see another option. Thanks for the flexibility team (and especially Erik).
