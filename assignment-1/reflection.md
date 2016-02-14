@@ -1,4 +1,8 @@
+Reflection - Team Blue Monday
+=============================
+
 #Ger
+
 ## The Good
 - I believe that the majority of the team was very professional and quick to react to questions
 - We adjusted well to the change in structure that was suggested by Hans.
@@ -25,12 +29,13 @@ The Trello board that was setup did not get used as much. For the next assignmen
 Overall, I think everyone did their part to contribute and this assignment went by pretty well. 
 
 #Erik
+
 ## The Good
 - We quickly had a collaboration infrastructure in place for task management (Trello), scheduling (Google Calendar), conferencing (Whatsapp, Google Hangout) and version control for our documents. (Github)
 - The team adjusted well to the feedback Hans gave us in the second week not afraid to turn into a new direction.
 - The in week 2 scheduled milestones made the team more goal oriënted.
 
-##The Bad and Ugly
+## The Bad and Ugly
 - Almost nothing written by the team in the first week was used in the final document. This gives somewhat of a feeling that that time was ill spent.
 
  
@@ -47,7 +52,8 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - As most of us are part timers, we had to rely a lot on whatsapp, hangouts and remote working.
 
-#Alex
+# Alex
+
 ## The Good
 - I like that most of the team members are motivated, good communication and respect the agreements that we have established together.
 - I think Erik did a good job by doing the task of him and Job all by himself. Thumbs up for Erik.
@@ -59,8 +65,9 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - I'm not happy with the Alberto's performance this week. He was late at meetings. Did not keep the deadlines and let Ger do part of his work (I'm refering on the Mars Lander part and the rewriting of the Scrum part of the first root cause).
 
-#Pim
-##The Good
+# Pim
+
+## The Good
 - We managed to make decisions and not get stuck in debate for a long time (which often happens in large groups).
 - We made a quick start setting up infrastructure
 - Even though we had the difficulty of having different schedules and locations, we made it work.
@@ -74,8 +81,9 @@ Overall, I think everyone did their part to contribute and this assignment went 
 ## The Ugly
 - We started out enthusiastically using Trello, but left it to bleed to death after a few days.
 
-#Carla
-##The Good
+# Carla
+
+## The Good
 At the beginning I expected a much more chaotic way of work, based at the amount of team members, but along this two first weeks, results have impressed me. Communication flows reasonable good despite having different work locations.
 ## The Bad and Ugly
 - Due problems with GitHub, Alex (my subteam partner) had to rename the file where we were working on, so the trace to my contribution was half lost.
@@ -84,7 +92,7 @@ At the beginning I expected a much more chaotic way of work, based at the amount
 
 #Job
 
-##The Good
+## The Good
 - I think the collaboration with this (large) group goes well. Fast communication and agreements are honored.
 - Balanced team. Members take their responsibility and take initiative where they see the opportunity. At least as far as I could see.
 - The decisions for collaboration tools were made soon in the process, with the assignment requirements in mind. This has some benefits (tracking of changes, fast iterations).
