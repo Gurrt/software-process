@@ -54,7 +54,7 @@ The Government Accountability Office (GAO), an independent organisation of the
 government, reported in June 2013 that there could be trouble with the goal of
 launching the website on the first of October 2013.
 
-On 10 September there was a panel of the House of Representatives who were
+On 10 September, there was a panel of the House of Representatives who were
 hearing  among others consulting firm Leavitt Partners and contractor CGI. CGI
 stated during this hearing that it was on schedule for launching the website.
 On the other hand Leavitt Partners stated that the launch will be 'rocky' [4,
@@ -70,10 +70,10 @@ officials have said it should have been able to accommodate perhaps as many as
 ## After the launch
 
 At its launch (1 October 2013) the website did not perform well. Only 271,000
-of the 9.47 million users that try to register were successful. In 2014 the total costs of the
+of the 9.47 million users that tried to register were successful. In 2014 the total costs of the
 project was 1.7 billion dollar (reference). Suddenly, one question arises. What
 would have happened if they had established a schedule of access to the site?.
-There were official warnings telling that the site was going to be unable to
+There were official warnings saying that the site was going to be unable to
 accommodate so many users at once.
 
 An extra team is recruited (22th October 2013). It was recognized that product
@@ -90,7 +90,7 @@ and addressed before project completion.
 due to having a small amount of servers, an explicit gap at project definition and
 planning.
 
-(November 14, 2013) President Obama declares to press that he wasn't good
+(November 14, 2013) President Obama declares to the press that he wasn't well
 informed of the situation. The project team was not prepared for the failure.
 signed up for plans using the site compared to the 227,000 that had enrolled
 through the 14 state run exchanges.
@@ -112,7 +112,7 @@ The failure was caused by a complex interplay of problems:
     contractor past-performance evaluations when making contract awards.
  4. Critical deliverables and management decisions were not properly documented.
 
-## Cause 2: Architecture, non functional requirements
+## Cause 2: Architecture, non-functional requirements
 
  1. The system was not designed to handle the massive influx of initial users. 
  2. Insufficient effort made to build a system that would meet the performance
@@ -120,7 +120,7 @@ The failure was caused by a complex interplay of problems:
  3. Security solutions were seemingly slapped together in a shoddy manner
     instead of through the kind of systematic approach that is expected in
     a high quality software solution.
- 4. Many thousands of pages of legal healthcare regulations did not translated
+ 4. Many thousands of pages of legal healthcare regulations did not translate
     seamlessly into functional requirements.
  5. The basic architecture was designed and built around the notion that the
     system would forward requests for quotes from insurance seekers to external
@@ -137,7 +137,7 @@ There are many structured techniques specifically designed to learn others
 about the system and what should it carry, some techniques such as
 'planguage'[10] or 'volere templates'.
 
-## Cause 3: Architecture, Change Management. The inability to handle
+## Cause 3: Change Management
 
 The inability to handle a growing amount of work, its potential to be enlarged
 in order to accommodate that growth, or a limited space to accommodate
@@ -227,7 +227,7 @@ Take for example a **product backlog** together with having a dedicated **produc
 
 The main problem in this case was the lack of control on the contract deliverables. Perhaps if the CMS worked with a Scrum flow which included a **demo** phase, those deliverables could be incrementally shown to the CMS stakeholders, even if they aren't software but documents e.g. security audit reports and progress reports. However, the report by Daniel Levinson [3] makes it sound like the main cause for missing these deliverables is because CMS was not enforcing them too strictly. So for this approach to yield any success, the contract officers would also need to take a more professional stance on the deliverables.
 
-## RUP
+## Rational Unified Process (RUP)
 
 ### Principles applied during the project
 
@@ -294,7 +294,7 @@ HealthCare.gov is not flying through space, where maintenance is impossible to p
 definitely profit by looking how NASA does its integration tests and implementing those, albeit on a 
 smaller scale.
 
-# Architecture - rigid and lacking non-functional requirements
+# Architecture - lacking non-functional requirements
 
 ## Key factors in failure
 
@@ -326,7 +326,7 @@ However, a minimal viable product might not have included integration with all s
 On the other side of the spectrum, the front-end of HealthCare.gov is considered to be a success. A start-up known as Development Seed was responsible for the front-end of the website and made use of agile practices [12].
 
 
-# Rational Unified Process
+# RUP
 
 Contractors stated "...mere days before the launch date, [CMS] tested the system's ability to handle tens of thousands of users at once. It crashed after a few hundred. " [9]. This likely indicates an issue with validating the architecture.
 
@@ -335,7 +335,7 @@ In the elaboration phase, most of the architecture should be done. At HealthCare
 RUP does promote a risk first approach. If RUP would have been properly implemented, the riskier parts of the process, such as integration and  performance, would have been tackled in the beginning.
 
 
-## MARS Rover
+## Mars Lander
 
 The software methodology used to build the Mars rover is based on risk-reduction principles [19].
 The U.S. government has built a large number of software systems and thus has a history of security vulnerabilities that can possibly occur.
