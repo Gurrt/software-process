@@ -84,8 +84,11 @@ Overall, I think everyone did their part to contribute and this assignment went 
 # Carla
 
 ## The Good
+
 At the beginning I expected a much more chaotic way of work, based at the amount of team members, but along this two first weeks, results have impressed me. Communication flows reasonable good despite having different work locations.
+
 ## The Bad and Ugly
+
 - Due problems with GitHub, Alex (my subteam partner) had to rename the file where we were working on, so the trace to my contribution was half lost.
 - After other team members reviewed our work, I processed Erik's comments leaving short explanations about the actions I took. At last controlling the end results I discover pieces of my work were removed, and nobody leave any comment about.
 - We changed plans two times, but its seems reasonable at the first assignment, where all team members are just starting to know each other.

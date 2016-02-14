@@ -1,5 +1,9 @@
-% Failed case : HealthCare.gov
+% Failed case - HealthCare.gov
 % Team Blue Mondays
+%  Alex van Manen (Lead), Pim Tegelaar (Vice Lead), Job Witteman, Erik Verhoofstad, Alberto Martinez de Murga, Ger Krijnen, Carla Alvarado & Joel James Bartholomew \hfill \break \break \centering{\today} 
+
+
+\newpage
 
 ## Abstract
 
@@ -294,7 +298,7 @@ HealthCare.gov is not flying through space, where maintenance is impossible to p
 definitely profit by looking how NASA does its integration tests and implementing those, albeit on a 
 smaller scale.
 
-# Architecture - lacking non-functional requirements
+# Architecture, non-functional requirements
 
 ## Key factors in failure
 
@@ -398,9 +402,9 @@ on the architecture.
 
 [5] Harwoord, William. "Slow, but rugged, Curiosity's computer was built for Mars" CNET, 10 August, 2012, Web. 12 February 2015.
 
-[6] [The Office of Audit Services (OAS) provides auditing services for HHS](http://oig.hhs.gov/oas/reports/region3/31403001.pdf).
+[6] ., [The Office of Audit Services (OAS) provides auditing services for HHS](http://oig.hhs.gov/oas/reports/region3/31403001.pdf).
 
-[7] [The Failure of HealthCare.gov Exposes Silicon Valley Secrets](http://www.computer.org/csdl/mags/ic/2014/06/mic2014060085.pdf).
+[7] ., [The Failure of HealthCare.gov Exposes Silicon Valley Secrets](http://www.computer.org/csdl/mags/ic/2014/06/mic2014060085.pdf).
  
 [8] Government Accountability Office (GAO) (2013). "Patient protection and affordable care act: Status of CMS efforts to establish federally facilitated health insurance exchanges." (GAO-13-601), 19 June 2013.
 
@@ -408,7 +412,7 @@ on the architecture.
 
 [10] Tom Gilb (Planguage). (2001) Intel Corporation by Erik Simmons ["Quantifying Quality Requirements Using Planguage"](http://www.clearspecs.com/downloads/ClearSpecs20V01_Quantifying%20Quality%20Requirements.pdf).
   
-[11] [Full Committee Hearing - Is My Data on Healthcare.gov Secure?](https://science.house.gov/legislation/hearings/full-committee-hearing-my-data-healthcaregov-secure), transcribed [here](https://www.gpo.gov/fdsys/pkg/CHRG-113hhrg86893/pdf/CHRG-113hhrg86893.pdf).
+[11] ., [Full Committee Hearing - Is My Data on Healthcare.gov Secure?](https://science.house.gov/legislation/hearings/full-committee-hearing-my-data-healthcaregov-secure), transcribed [here](https://www.gpo.gov/fdsys/pkg/CHRG-113hhrg86893/pdf/CHRG-113hhrg86893.pdf).
 
 [12] A. Jeffries, ["Why Obama's Healthcare.gov launch was doomed to fail", The Verge, 2013](http://www.theverge.com/2013/10/8/4814098/why-did-the-tech-savvy-obama-administration-launch-a-busted-healthcare-website).
 
