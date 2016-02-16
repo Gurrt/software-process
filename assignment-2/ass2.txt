@@ -1,0 +1,144 @@
+***************************************
+INTRO:
+***************************************
+In this assignment we will look at the level of an organization. The goal is again to build insight in how to organise for successful software projects. The second goal is to better understand what the benefits and drawbacks are of methods like Scrum and RUP.
+
+You will learn about CMMi, Lean and the 7S model. We will look at exemplary organizations. And we will take an extra emphasis on the perspective of power distribution in the context of software engineering. I do want you all to take notice of the different models and theories. I hope you will see how things come together. That will earn you a strong bonus point. 
+ 
+
+***************************************
+RELATED EXAM QUESTIONS:
+***************************************
+This is an important basis for the individual exam. Exam questions might be:
+
+exam - Lean:
+What are the LEAN principles and to what extent are these adhered to in Scrum / RUP.
+What types of waste are distinguished in LEAN
+Provide a convincing argumentation why RUP is better than SCRUM in preventing WASTE. Explain what you mean with waste in your argumentation.
+
+exam - 7S
+What are the 7S’s.
+For each of the S’s name one measure that will improve your chance on high performance, clarify which aspect of performance it is likely to improve.
+For three of the performance measures listed above, identify how these could also have a negative effect on performance
+
+
+exam - CMMi
+What is missing in Scrum from a CMMi perspective
+
+exam - Power
+To what extent is a scrum team empowered and which degrees of freedom doesn’t it have.
+What is the relation between power and motivation
+Explain the principle that decisions should be taken at the lowest level possible. 
+Name five control mechanisms that are usually in place in a software development environment. Describe what the mechanism controls, and on a 1 to 5 scale how well the mechanism works.
+
+a Analyze Scrum from the perspective of empowerment. Which freedom is given to the “hierarchy”, to the “group”, to the individual “engineer”. 
+b. How is this controlled - how does Scrum ensure this power is used for the good of the company? 
+c. RUP offers more freedom to the engineering team than Scum, yet constraints the individuals more. What freedom is there in Rup for the whole of the engineering team, that is not there in Scrum? 
+d. Use [8] to give one good reason why someone in a Scrum team gets more power than he should have based on the methodology. 
+
+
+
+***************************************
+ASSIGNMENT DETAILS:
+***************************************
+Assignment - CMMi:
+An important model for a successful software development organization is the CMMi model. Make a CMMi analysis of both RUP, Scrum and the fail case. I expect to see a table of the CMMi competence areas and for each of these a quick assessment of you with short rationale to what extent it is covered in RUP, Scrum, fail case (fully, partially, not at all, unknown).  You will finish with the most important lessons you get out of it.
+
+
+Assignment - LEAN:
+A second normative model for organizations that has gained a lot of popularity do to the success of Toyota is LEAN. Provide a convincing argumentation why RUP would produce fewer WASTE than Scrum. Do it again, but now argue that Scrum produces less waste.
+
+
+Assignment - 7S:
+Organisations are not just about methodology. There are quite a number of abstractions for organisations. We will look at the 7S model. Now we go and look outside to two successful companies through the eyes of the 7S model. You can select these companies. One should be a software company, one should come from another industry. What can you learn from this for your failed case? What can you learn from this about the methods RUP and Scrum.
+
+Look for organisations that really make clear how they work from the inside. Think about Etsy, Quora, Google, Facebook, Apple, Microsoft, Mozilla, Amazon, Spotify.
+
+
+
+Assignment - POWER:
+Then the last aspect. Power and control in organisations that need to do a lot of learning. 
+
+Analyse for the failed case and for Scrum and RUP to what extent people get the right amount of power. Take into account: to what extent control is adequate, how power is balanced and how the context of a learning environment is of impact. 
+
+
+***************************************
+Assignment - power - EXPLANATION
+***************************************
+With respect to Learning: In software engineering we need to learn about: what software product is of value, how to design the software, how to work together, about the quality of the software, about constructing software. There are both personal and organisational learning goals.
+
+
+W.r.t. Control: the ability to verify if the work has been done well or is well under way is vital in managing. Control is required to see if Trust is put in the right people. Control is required to prevent counter productive work behaviours. It is however very difficult to control the work of professionals, and experts. Even if there work is visible in artefacts as code and design. Also an emphasis on too much control can be perceived as taking away freedom of developers. For any project a good control system is vital. Control in a learning organisation is even more difficult. If the goal is changing, and the plan is changing, how to know that we are still doing a good job? 
+
+W.r.t Power:
+Power relations are part of our life. It starts in our family, the relation with your father and mother. What decisions do you get to make. How much money is yours to spend. It is prominent in the school yard where all the guys want to be batman or else the strongest boy on earth. It is in our relation with a company. It is in our relation with the “establishment” and authorities. America’s strong attraction to many, was its promise to be the land of the free. 
+
+The essence is maybe best seen in your first job, where you assist a small shop owner during the weekends to help customers. It is natural you don’t get a say in how the organisation is run. You get paid to do a job. The shop owner has done all the work to start the company, to get customers, he has invested in the company and if a decision goes wrong it is him who will suffer the consequences. Logical as it may be, maybe you would have come up with great ideas for the shop owner. And all it would have taken is that the shop owner had listened, or would have made you responsible for a goal you could only achieve when you would break your head about it.
+
+Companies want your brain, your commitment, your energy, you creativity, your problem solving, your focus. They want to reduce overhead in control and management. Empowerment is a way to make this happen. It is said to influence among others our involvement, self efficacy, motivation [2] [4] [11] [12]
+
+Another very important reason to empower coworkers is that they often have the best information of the situation and are best placed to deal with it accordingly. This is at the heart of the German successes during the Blitz krieg, where small units got a goal, the means and the freedom to do whatever they considered was needed to make it work, it is part of our current warfare in Afghanistan where commando’s get the freedom to abort missions, to call in support, to determine the route, and so on. It’s the core of Zappos: giving responsibility to the customer care rep to make the right decisions for that customer. This puts great strain on the organisation: we have to facilitate our professionals, provide them with information, give them the tools and commands, give them appropriate training, and so on. How bad the conception of bosses are of what happens in the workplace is beautifully displayed in [10]
+
+There are many sources of power [8], but it is also important to consider what you have power about: power to propose ideas, power to experiment with some ideas, the commando who has power to direct bombardment, the sales manager that can make a contract for a company, the change manager that can change the company’s organisation, the supervisor that can tell an employee what to do. Someone who goes quite far to give power to his workers is Semler [5]
+
+The lines are not always clear, especially for the professionals: do you have the power to propose ideas, or are you obliged to do so. We would say there is a clear psychological aspect to the power you perceive to have. And people often have more power (or freedom) than they actually think they have.
+
+With power comes responsibility. We say that power corrupts. It’s important that if you give power to any individual, that there is a system in place to assure this power is used for the good. This goes for managers, for professionals and for the shop assistant. Be sure you give power when someone is competent [6]. There are different ways to control power: clear guidelines, reporting, controller, giving account (before, during or afterwards) and so on [3] [7].
+
+Part of organisation design is the distribution of power (mandate) and responsibility to different roles and people and to ensure they use their powers well. The archetypes of organisations are: the one responsible decides (hierarchical, meritocracy), the group decides (cooperations), and the individual (anarchy) decides. In most organisations these power relations tend to vary per role, per taks, per goal, per person, ……. Highly desired experts are often in a position to negotiate specific terms and conditions that only apply to them. When an organisation has many of these specific “contracts”, it follows a more or less transactional approach, this makes the organisation more resilient, but it is also harder to make sense of, and employees could feel disadvantaged, giving rise to counter productive work behaviours.
+
+
+
+***************************************
+GRADING:
+***************************************
+Depth over breadth. 
+It is about insight. 
+But if you show you read the subjects with attention, and had some good discussions about it, you get a 7 even if the level of insight is low.
+
+What I do like:
+- Synergy: if you use knowledge from CMMi in the questions about control and so on. 
+- Team work: if you show how the team really operated like a learning organization where everybody can vouch for the quality of the whole. 
+
+***************************************
+Recommended reads:
+***************************************
+
+[1] http://www.mckinsey.com/insights/strategy/enduring_ideas_the_7-s_framework
+
+[2] Antecedents and Consequences of Psychological and Team Empowerment in Organizations: A Meta-Analytic Review Scott E. Seibert, Gang Wang, and Stephen H. Courtright
+
+[3] control in an age of empowerment, simons 
+
+[4] http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work?language=en
+
+[5] Semler interview: https://www.youtube.com/watch?v=USC1RE8jE50
+
+[6] Situational leadership: http://en.wikipedia.org/wiki/Situational_leadership_theory
+
+[7] http://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine?language=en
+
+[8] http://en.wikipedia.org/wiki/Power_%28social_and_political%29
+
+[10] Undercover Boss: http://www.cbs.com/shows/undercover_boss/video/
+
+[11] http://cnx.org/contents/afe4332a-c97f-4fc4-be27-4e4d384a32d8@7.19:28/Introduction_to_Sociology
+
+[12] Organizational Dimensions and their interrelationships: A theory of Compliance, Etzioni
+
+[13] Understanding and Leading Porous Network Organizations An Analysis Based on the 7­S Model Paul T. Bartone and Linton Wells II
+
+read “the centrality of compliance”, the first two sentences of “Organisational sanctioning and power”, skim table 1 and 2, and read “participants involvement in organization” and “power and involvement”. 
+
+
+[14] Compliance Theory and Organizational Effectiveness, Fred C. Lunenburg
+
+[15] Steve Jeggy Amazon vs Google - benevolent dictator Steve Bezos
+
+[16] Organization, Trust and Control: A Realist Analysis, Reed
+
+[17] Two types of bureaucracy: Enabling and coercive, Adler, Paul S; Borys, Bryan
+
+[18] Keynote speech: https://www.youtube.com/watch?v=lA09tzoPR4k
+
+[19] 7S paper: http://tompeters.com/docs/Structure_Is_Not_Organization.pdf
