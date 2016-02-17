@@ -1,5 +1,6 @@
 #CMMI
 
+In this section we examine to which extent the various CMMi Development process areas are covered in Scrum, RUP and HealthCare.gov.
 
 | Cmmi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
