@@ -37,13 +37,13 @@ In this section we examine to which extent the various CMMi Development process 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | Maturity Level 2 - Managed               |
-| CM                | unknown |            |
-| MA                | unknown |            |
-| PMC               | unknown |            |
-| PP                | unknown |            |
-| PPQA              | unknown |            |
-| REQM              | unknown |            |
-| SAM               | unknown |            |
+| CM                | Not at all | Scrum does not offer any information on the configuration management of work products.            |
+| MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
+| PMC               | Partially | Scrum has the notion of sprint goals. This can be used to determine how well a team is performing based on how often they reach their sprint goals. There is also velocity which can be used to plan and determine if any form of attempted process improvement are adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
+| PP                | Fully     | This is corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             |
+| PPQA              | Partially | TODO: Scrum prescribes some practices to measure how processes are performed and ... but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
+| REQM              | Fully | The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            |
+| SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with supplier. TODO: Maybe this has something to do with task assigning?            |
 | Maturity Level 3 - Defined               |
 | DAR               | unknown |            |
 | IPM               | unknown |            |
