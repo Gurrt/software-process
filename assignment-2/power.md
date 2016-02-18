@@ -24,8 +24,14 @@ Why was the quality of the product so low? Especially if there were so much prof
 Where there cultural differences between Washington vs Sillicon Valley (East vs West coast) (government mentality vs company mentality)??????
 Was Quality Software Services (QSS) the best company to choose for creating the website for 165 million dollars? Could have been a friend service of the Obama administration?
 Did QSS indirectly supported the presidential campaign of Obama?
+
 ##Scrum
-// TODO
+Scrum evangelizes empowerment.
+The Scrum team is self-organizing and structured and empowered by the organization to manage their  own work.
+The development team decides how to do the work.
+In Scrum, accountability lies within the whole team.
+The team creates a definition of done, which controls the level of quality of the product.
+This also leads to a lack of control, that the management can exert.
 
 ##RUP
 // TODO
