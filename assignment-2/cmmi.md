@@ -5,16 +5,16 @@ In this section we examine to which extent the various CMMi Development process 
 | Cmmi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
 | **Maturity Level 2 - Managed**                |
-| CM - Configuration Management                | Not at all | | |
-| MA - Measurement and Analysis                | Partially | | |
-| PMC - Project Monitoring and Control         | Partially | | |
-| PP - Project Planning                        | Fully | | |
-| PPQA - Process and Product Quality Assurance | Partially | | |
-| REQM - Requirements Management               | Fully | | |
-| SAM - Supplier Agreement Management          | Not at all | | |
+| CM - Configuration Management                | Not at all | Fully | |
+| MA - Measurement and Analysis                | Partially | Partially | |
+| PMC - Project Monitoring and Control         | Partially | Fully | |
+| PP - Project Planning                        | Fully | Partially | |
+| PPQA - Process and Product Quality Assurance | Partially | Fully| |
+| REQM - Requirements Management               | Fully | Fully | |
+| SAM - Supplier Agreement Management          | Not at all | Not at all | |
 | **Maturity Level 3 - Defined**                     |
-| DAR - Decision Analysis and Resolution       | Not at all | | |
-| IPM - Integrated Project Management          | Partially | | |
+| DAR - Decision Analysis and Resolution       | Not at all | Not at all | |
+| IPM - Integrated Project Management          | Partially | Fully | |
 | OPD - Organizational Process Definition      | Not at all | | |
 | OPF - Organizational Process Focus           | Partially | | |
 | OT - Organizational Training                 | Not at all | Not at all | |
