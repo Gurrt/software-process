@@ -12,8 +12,8 @@ On 23 March 2010, president Obama signed the Patient Protection and Affordable C
 One of the biggest clashes of this conflict was the United States federal government shutdown that came into effect on the 1st of October 2013. The shutdown was into effect because the U.S. debt-ceiling was reached and the Repulican-controlled House of Representatives did not want to raise this ceiling. The main reason was to delay or defund Obamacare. On the 17th of October 2013 the shutdown ended when the Repulicans agreeded with raising the debt-ceiling.
 
 
-######Clienst & Contractors
-The clients were according to [4, page 6]: the Department of Health and Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), 36 States, 300 private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social Security Administration, the Internal Revenue Service, Veterans Administration, Office of Personnel Management, Peace Corps, etc.
+######Stakeholders & Contractors
+The stakeholders were according to [4, page 6]: the Department of Health and Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), 36 States, 300 private insurers, U.S. Chief Technology Office, GAO, Media, Citizens, Social Security Administration, the Internal Revenue Service, Veterans Administration, Office of Personnel Management, Peace Corps, etc.
 
 The construction of HealthCare.gov was overseen by Centers for Medicare and Medicaid Services (CMS) which is a part of the US Department of Health and Human Services (HHS). The primary contractor was CGI Federal who had a contract of around 250 million dollars. Next to that there were 16 official subcontractors, but the total number of subcontractors was actually 55. All under the supervison of CMS. There were also 300 private insurers. All in all there were around 4000 plans.
 
