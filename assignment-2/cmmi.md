@@ -37,14 +37,14 @@ In this section we examine to which extent the various CMMi Development process 
 | **Level 2**           |
 | CM                | Not at all | Scrum does not offer any information on the configuration management of work products.            |
 | MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
-| PMC               | Partially | Scrum has the notion of sprint goals. This can be used to determine how well a team is performing based on how often they reach their sprint goals. There is also velocity which can be used to plan and determine if any form of attempted process improvement are adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
+| PMC               | Partially | Scrum has the notion of sprint goals but not reaching them indicates that the goals are not realistic. There is also velocity which can be used to plan and determine if any form of attempted process improvement is adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
 | PP                | Fully     | This is corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             |
-| PPQA              | Partially | Scrum prescribes some practices to measure how processes are performed and can for example be used to by the Scrum master to know when they should aid the team but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
+| PPQA              | Partially | Scrum prescribes some for measures for process quality. These can for example be used to by the Scrum master to know when they should aid the team but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
 | REQM              | Fully | The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            |
 | SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with a supplier.             |
 | **Level 3**                                 |
 | DAR               | Not at all | Scrum does not have any formal evaluation method which can be used analyze possible decisions or alternatives            |
-| IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with its team but for the most part this up to the product owner            |
+| IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with their team but for the most part this up to the product owner            |
 | OPD               | Not at all | This is left entirely up to the wishes of the development team            |
 | OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
@@ -66,19 +66,19 @@ In this section we examine to which extent the various CMMi Development process 
 | ------------------| ------- | ---------  |
 | **Level 2**           |
 | CM                | Fully | RUP's configuration and change management fully covers all of this process area's goals            |
-| MA                | Partially | RUP's project management work flow involves an activity for creating a measurement plan although RUP does not exactly specify how this should be communicated to all relevant parties            |
+| MA                | Partially | RUP's project management work flow involves an activity for creating a measurement plan. Although, RUP does not exactly specify how this should be communicated to all relevant parties            |
 | PMC               | Fully | The work flow pertaining to project management covers all aspects of monitoring a project against the plan and taking necessary corrective actions              |
-| PP                | Partially | The project management and environment work flows provide adequate support to the project planning with the exception of determining non-software related project attributes such as labor requirements.                 |
-| PPQA              | Fully | The review record in each of RUP's work flow addresses the issue of quality assurance and the creation of the problem resolution plan insures that all quality issues are dealt with.            |
-| REQM              | Fully | The requirements work flow integrates change management along with the capturing and analyzing of requirements.            |
-| SAM               | Not at all | RUP has no elements which dictate interactions with external suppliers it use purely centered around development            |
+| PP                | Partially | The project management and environment work flows provide adequate support to the project planning. However, they do not determine non-software related project attributes such as labor requirements.                 |
+| PPQA              | Fully | The review record in each of RUP's work flows addresses the issue of quality assurance and the creation of the problem resolution plan insures that all quality issues are dealt with.            |
+| REQM              | Fully | The requirements work flow integrates change management with the capturing and analyzing of requirements.            |
+| SAM               | Not at all | RUP has no elements which dictate interactions with external suppliers its use is purely centered around development            |
 | **Level 3**           |
 | DAR               | Not at all | This process area seems to not be covered in RUP in any work flow            |
 | IPM               | Fully | The project management and environment work flows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            |
-| OPD               | Not at all | Due to it being a project methodology and RUP does not prescribe any method for dealing with organizational process assets.             |
-| OPF               | Partially | RUP is a roject methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which handles the assessment of the development-organization.            |
+| OPD               | Not at all | RUP is a project methodology and does not prescribe any method for dealing with organizational process assets.             |
+| OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. However, RUP's environment work flow does have an activity which handles the assessment of the development-organization.            |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
-| PI                | Fully | RUP addresses product integration through its implementation, test and deployments workflows.            |
+| PI                | Fully | RUP addresses product integration through its implementation, test and deployment workflows.            |
 | RD                | Fully | Mainly through its Requirements workflow, but also through others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
 | RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in the early phases (elaboration) of the project.            |
 | VAL               | Fully | In RUP validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
