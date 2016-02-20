@@ -15,8 +15,8 @@ In this section we examine to which extent the various CMMi Development process 
 | **Maturity Level 3 - Defined**                     |
 | DAR - Decision Analysis and Resolution       | Not at all | Not at all | |
 | IPM - Integrated Project Management          | Partially | Fully | |
-| OPD - Organizational Process Definition      | Not at all | | |
-| OPF - Organizational Process Focus           | Partially | | |
+| OPD - Organizational Process Definition      | Not at all | Not at all | |
+| OPF - Organizational Process Focus           | Partially | Partially | |
 | OT - Organizational Training                 | Not at all | Not at all | |
 | PI - Product Integration                     | Partially | Fully | |
 | RD - Requirements Development                | Partially | Fully | |
@@ -24,8 +24,8 @@ In this section we examine to which extent the various CMMi Development process 
 | VAL -  Validation                            | Partially | Fully | |
 | VER -  Verification                          | Partially | Fully | |
 | **Maturity Level 4 - Quantitatively Managed**      |
-| OPP - Organizational Process Performance     | Partially | | |
-| QPM - Quantitative Project Management        | Not at all | | |
+| OPP - Organizational Process Performance     | Partially | Not at all | |
+| QPM - Quantitative Project Management        | Not at all | Not at all | |
 | **Maturity Level 5 - Optimizing**                    |
 | CAR - Causal Analysis and Resolution         | Not at all | | |
 | OPM - Organizational Performance Management  | Fully | | |
@@ -84,8 +84,8 @@ In this section we examine to which extent the various CMMi Development process 
 | VAL               | Fully | In RUP validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
 | VER               | Fully | Verification is als covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
 | **Level 4**|
-| OPP               | unknown |            |
-| QPM               | unknown |            |
+| OPP               | Not at all | This is not in the scope of RUP.           |
+| QPM               | Not at all | This is not in the scope of RUP.          |
 | **Level 5**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
