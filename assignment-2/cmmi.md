@@ -95,7 +95,7 @@ In this section we examine to which extent the various CMMi Development process 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
-| CM                | unknown | There could no information found on how configuration management was processed in the HealthCare.gov project.           |
+| CM                | Unknown | There is no information found on how configuration management was processed in the HealthCare.gov project.           |
 | MA                | Not at all | Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMs did not keep adequate track of records [IHBEAT]. This indicates that there were no processes defined to measure aspects and of the project and correctly report them to the relevant parties.             |
 | PMC               | Not at all | There were a number of the issues found early in the project's lifecycle during audits such as how there was no enough time allotted to test the system. The fact that these issues even until after the launch of the site indicated that there was little to no control methods in place [POLI].             |
 | PP                | unknown | TODO: Needs more research. Probably present          |
@@ -108,11 +108,11 @@ In this section we examine to which extent the various CMMi Development process 
 | OPD               | unknown | TODO: Way too many associated parties for this I think            |
 | OPF               | unknown | TODO: Way too many parties many of which not on the same terms          |
 | OT                | unknown |            |
-| PI                | unknown |            |
+| PI                | unknown | TODO: Needs more research. Probably present           |
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
-| VER               | unknown |            |
+| VER               | Partially | Testing was done but up until the last weeks.      |
 | **Level 4**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
