@@ -20,8 +20,8 @@ In this section we examine to which extent the various CMMi Development process 
 | OT - Organizational Training                 | Not at all | Not at all | |
 | PI - Product Integration                     | Partially | Fully | |
 | RD - Requirements Development                | Partially | Fully | |
-| RSKM - Risk Management                      | Not at all | | |
-| VAL -  Validation                            | Partially | | |
+| RSKM - Risk Management                      | Not at all | Fully | |
+| VAL -  Validation                            | Partially | Fully | |
 | VER -  Verification                          | Partially | | |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | Partially | | |
@@ -79,9 +79,9 @@ In this section we examine to which extent the various CMMi Development process 
 | OPF               | Partially | RUP is a roject methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which handles the assessment of the development-organization.            |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
 | PI                | Fully | RUP addresses product integration through its implementation, test and deployments workflows.            |
-| RD                | Fully | Mainly through its Requirements workflow, but also throught others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
-| RSKM              | unknown |            |
-| VAL               | unknown |            |
+| RD                | Fully | Mainly through its Requirements workflow, but also through others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
+| RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in the early phases (elaboration) of the project.            |
+| VAL               | Fully | In RUP validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
 | VER               | unknown |            |
 | **Level 4**|
 | OPP               | unknown |            |
