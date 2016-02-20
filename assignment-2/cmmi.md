@@ -17,7 +17,7 @@ In this section we examine to which extent the various CMMi Development process 
 | IPM - Integrated Project Management          | Partially | | |
 | OPD - Organizational Process Definition      | Not at all | | |
 | OPF - Organizational Process Focus           | Partially | | |
-| OT - Organizational Training                 | Not at all | | |
+| OT - Organizational Training                 | Not at all | Not at all | |
 | PI - Product Integration                     | Partially | | |
 | RD - Requirements Development                | Partially | | |
 | RSKM - Risk Management                      | Not at all | | |
@@ -77,7 +77,7 @@ In this section we examine to which extent the various CMMi Development process 
 | IPM               | Fully | The project management and environment work flows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            |
 | OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which deals with the assessment of the development-organization.            |
 | OPD               | Not at all | It is a project methodology and does not prescribe any method for dealing organizational process assets.             |
-| OT                | unknown |            |
+| OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
 | PI                | unknown |            |
 | RD                | unknown |            |
 | RSKM              | unknown |            |
