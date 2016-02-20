@@ -94,7 +94,7 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| **Maturity Level 2 - Managed**           |
+| **Level 2**           |
 | CM                | unknown | There could no information found on how configuration management was processed in the HealthCare.gov project.           |
 | MA                | Not at all | Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMs did not keep adequate track of records [IHBEAT]. This indicates that there were no processes defined to measure aspects and of the project and correctly report them to the relevant parties.             |
 | PMC               | Not at all | There were a number of the issues found early in the project's lifecycle during audits such as how there was no enough time allotted to test the system. The fact that these issues even until after the launch of the site indicated that there was little to no control methods in place [POLI].             |
@@ -102,21 +102,21 @@ In this section we examine to which extent the various CMMi Development process 
 | PPQA              | unknown | There a number of external audits on the project but there is no information known on how CMS dealt with it internally.            |
 | REQM              | Not at all | There was a complete lack of adequate requirements tracking and management as contractors reported requirements changing up until several weeks before the launch of the website [NYTIMES].             |
 | SAM               | Partially | There were formal agreements made and used to manage all contractors but with a lack of quality control measures. Furthermore, the employees responsible for the awarding contracts were inexperienced. CMS did not comply with a federal rule requiring employees who oversee contracts worth more than $10 million to receive 96 hours of training [IHBEAT].            |
-| **Maturity Level 3 - Defined**           |
+| **Level 3**           |
 | DAR               | unknown | TODO: Needs more research           |
 | IPM               | unknown | TODO: Probably not present           |
 | OPD               | unknown | TODO: Way too many associated parties for this I think            |
-| OPF               | unknown |  TODO: Way too many parties many of which not on the same terms          |
+| OPF               | unknown | TODO: Way too many parties many of which not on the same terms          |
 | OT                | unknown |            |
 | PI                | unknown |            |
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
-| **Maturity Level 4 - Quantitatively Managed**|
+| **Level 4**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| **Maturity Level 5 - Optimizing**        |
+| **Level 5**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
 
