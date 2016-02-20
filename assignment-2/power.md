@@ -38,6 +38,7 @@ In his experiment, he let people write down the double letters on a sheet of ran
 - In the first condition, the experimentor would receive the paper, look at it and nod and add it to the stack of finished papers.
 - In the second condition, the experimentor would not look at the paper and simply add it to the stack of finished papers.
 - In the third condition, the experimentor would shred the paper in front of the subjects eyes.
+
 The result of this experiment is, that the subjects in the first condition finished a lot more papers than the subjects in the third.
 The people in the second condition did better than the ones in the third, but not by much[Ariely].
 At the end of each sprint in Scrum, there is a sprint review, in which stakeholders give feedback. 
@@ -53,8 +54,13 @@ The impact of motivation on performance is a complex matter. Recognition of ones
 
 #Sources
 [Ariely] Dan Ariely, Emir Kamenica, Drazen Prelec [Man’s search for meaning: The case of Legos](http://faculty.chicagobooth.edu/emir.kamenica/documents/meaning.pdf) Journal of Economic Behavior & Organization 67 (2008) 671–677.
+
 [Cardozo] Eliza S. F. Cardozo et al. [SCRUM and productivity in software projects: a systematic literature review](http://dl.acm.org/citation.cfm?id=2227073) EASE'10 Proceedings of the 14th international conference on Evaluation and Assessment in Software Engineering (2010) 131-134
+
 [Diebold] Philipp Diebold, Marc Dahlem[Agile Practices in Practice: A Mapping Study](http://dl.acm.org/citation.cfm?id=2601254)EASE '14 Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (2014)
+
 [Robiolo] Gabriela Robiolo, Daniel Grane [Do agile methods increase productivity and quality?])(http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajsea.20140301.11.pdf)Published online April 20, 2014 (http://www.sciencepublishinggroup.com/j/ajsea)
+
 [Monteiro] Cleviton V. F. Monteiro et al.[A qualitative study of the determinants of self-managing team effectiveness in a scrum team](http://dl.acm.org/citation.cfm?id=1984646) CHASE '11 Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering (2011)
+
 [Uzonna] Ukaejiofo Rex Uzonna [Impact of motivation on employees' performance: A case study of CreditWest Bank Cyprus](http://www.academicjournals.org/article/article1380794547_Ukaejiofo.pdf) Journal of Economics and International Finance Vol 5 August 2013 199-211
