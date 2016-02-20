@@ -112,7 +112,7 @@ In this section we examine to which extent the various CMMi Development process 
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
-| VER               | Partially | Testing was done but up until the last weeks.      |
+| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co.    |
 | **Level 4**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
