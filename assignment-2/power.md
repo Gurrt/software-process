@@ -1,7 +1,5 @@
 # Power
 
-# Power
-
 ##Healthcare.gov out of control
 
 Assignment failed case: 
