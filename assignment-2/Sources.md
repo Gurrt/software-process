@@ -2,4 +2,5 @@
 * [2] Wiki, ["McKinsey 7S Framework".](https://en.wikipedia.org/wiki/McKinsey_7S_Framework).
 * [3] Henrik Kniberg & Anders Ivarsson, [ Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds](https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf).
 * [4] Wiki, ["Matrix management"](https://en.wikipedia.org/wiki/Matrix_management).
-* [5] Web, ["KLM Management"](http://www.klm.com/corporate/nl/about-klm/management/)
+* [5] Web, ["KLM Management"](http://www.klm.com/corporate/nl/about-klm/management/).
+* [6] Spotify, [Spotify labs](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/).
