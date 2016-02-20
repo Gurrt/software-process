@@ -25,7 +25,7 @@ In this section we examine to which extent the various CMMi Development process 
 | VER -  Verification                          | Partially | | |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | Partially | | |
-| QPM - Quantitative Project Management        | | | |
+| QPM - Quantitative Project Management        | Not at all | | |
 | **Maturity Level 5 - Optimizing**                    |
 | CAR - Causal Analysis and Resolution         | Not at all | | |
 | OPM - Organizational Performance Management  | Fully | | |
@@ -55,7 +55,7 @@ In this section we examine to which extent the various CMMi Development process 
 | VER               | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
 | **Level 4**                              |
 | OPP               | Partially | Organizational process performance is covered in a Sprint Retrospective. This retrospective has however little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. |
-| QPM               | Not at all |            |
+| QPM               | Not at all | Quantitive management of the team's quality and process perfromance is not covered in Scrum.           |
 | **Level 5**                              |
 | CAR               | Not at all | Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. |
 | OPM               | Fully | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. |
