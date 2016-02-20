@@ -49,9 +49,9 @@ In this section we examine to which extent the various CMMi Development process 
 | IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with its team but for the most part this up to the product owner            |
 | OPD               | Not at all | This is left entirely up to the wishes of the development team            |
 | OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
-| OT                | unknown |            |
-| PI                | unknown |            |
-| RD                | unknown |            |
+| OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
+| PI                | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
+| RD                | Partially | Scrum delegates this process entirely to the Product Owner and does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
