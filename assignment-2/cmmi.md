@@ -24,15 +24,13 @@ In this section we examine to which extent the various CMMi Development process 
 | VAL -  Validation                            | Partially | | |
 | VER -  Verification                          | Partially | | |
 | **Maturity Level 4 - Quantitatively Managed**      |
-| OPP - Organizational Process Performance     | | | |
+| OPP - Organizational Process Performance     | Partially | | |
 | QPM - Quantitative Project Management        | | | |
 | **Maturity Level 5 - Optimizing**                    |
-| CAR - Causal Analysis and Resolution         | | | |
-| OPM - Organizational Performance Management  | | | |
+| CAR - Causal Analysis and Resolution         | Not at all | | |
+| OPM - Organizational Performance Management  | Fully | | |
 
 ## Scrum
-
-> Misschien een idee om de rationale op te nemen in een aparte detail tabel?
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
@@ -51,16 +49,16 @@ In this section we examine to which extent the various CMMi Development process 
 | OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
 | PI                | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
-| RD                | Partially | Scrum delegates this process entirely to the Product Owner and does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
+| RD                | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. Its responsibility however is almost entirely delegated to the Product Owner and Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
 | RSKM              | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
 | VAL               | Partially | A form of validation is done through the Sprint Review in which the prodcut is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
 | VER               | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
 | **Level 4**                              |
-| OPP               | unknown |            |
-| QPM               | unknown |            |
+| OPP               | Partially | Organizational process performance is covered in a Sprint Retrospective. This retrospective has however little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. |
+| QPM               | Not at all |            |
 | **Level 5**                              |
-| CAR               | unknown |            |
-| OPM               | unknown |            |
+| CAR               | Not at all | Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. |
+| OPM               | Fully | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. |
 
 ## RUP
 
