@@ -20,9 +20,9 @@ In this section we examine to which extent the various CMMi Development process 
 | OT - Organizational Training                 | Not at all | | |
 | PI - Product Integration                     | Partially | | |
 | RD - Requirements Development                | Partially | | |
-| RSKM - Risk Management                      | | | |
-| VAL -  Validation                            | | | |
-| VER -  Verification                          | | | |
+| RSKM - Risk Management                      | Not at all | | |
+| VAL -  Validation                            | Partially | | |
+| VER -  Verification                          | Partially | | |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | | | |
 | QPM - Quantitative Project Management        | | | |
@@ -36,7 +36,7 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| **Maturity Level 2 - Managed**           |
+| **Level 2**           |
 | CM                | Not at all | Scrum does not offer any information on the configuration management of work products.            |
 | MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
 | PMC               | Partially | Scrum has the notion of sprint goals. This can be used to determine how well a team is performing based on how often they reach their sprint goals. There is also velocity which can be used to plan and determine if any form of attempted process improvement are adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
@@ -44,7 +44,7 @@ In this section we examine to which extent the various CMMi Development process 
 | PPQA              | Partially | Scrum prescribes some practices to measure how processes are performed and can for example be used to by the Scrum master to know when they should aid the team but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
 | REQM              | Fully | The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            |
 | SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with a supplier.             |
-| Maturity Level 3 - Defined               |
+| **Level 3**                                 |
 | DAR               | Not at all | Scrum does not have any formal evaluation method which can be used analyze possible decisions or alternatives            |
 | IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with its team but for the most part this up to the product owner            |
 | OPD               | Not at all | This is left entirely up to the wishes of the development team            |
@@ -52,13 +52,13 @@ In this section we examine to which extent the various CMMi Development process 
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
 | PI                | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
 | RD                | Partially | Scrum delegates this process entirely to the Product Owner and does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
-| RSKM              | unknown |            |
-| VAL               | unknown |            |
-| VER               | unknown |            |
-| Maturity Level 4 - Quantitatively Managed|
+| RSKM              | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
+| VAL               | Partially | A form of validation is done through the Sprint Review in which the prodcut is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
+| VER               | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
+| **Level 4**                              |
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| Maturity Level 5 - Optimizing            |
+| **Level 5**                              |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
 
