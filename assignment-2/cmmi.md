@@ -79,8 +79,7 @@ In this section we examine to which extent the various CMMi Development process 
 | OPD               | Not at all | It is a project methodology and does not prescribe any method for dealing organizational process assets.             |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
 | PI                | Fully | RUP addresses product integration through its implementation, test and deployments workflows.            |
-| RD                | Fully | Mainly through its Requirements workflow, but also throught others, RUP provides good support
-for understanding stakeholder needs, produce and refine requirements and manage change requests. |
+| RD                | Fully | Mainly through its Requirements workflow, but also throught others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
