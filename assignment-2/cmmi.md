@@ -4,29 +4,29 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
-| Maturity Level 2 - Managed                      |
-| CM - Configuration Management                | | | |
-| MA - Measurement and Analysis                | | | |
-| PMC - Project Monitoring and Control         | | | |
-| PP - Project Planning                        | | | |
-| PPQA - Process and Product Quality Assurance | | | |
-| REQM - Requirements Management               | | | |
-| SAM - Supplier Agreement Management          | | | |
-| Maturity Level 3 - Defined                         |
-| DAR - Decision Analysis and Resolution       | | | |
-| IPM - Integrated Project Management          | | | |
-| OPD - Organizational Process Definition      | | | |
-| OPF - Organizational Process Focus           | | | |
-| OT - Organizational Training                 | | | |
-| PI - Product Integration                     | | | |
-| RD - Requirements Development                | | | |
+| **Maturity Level 2 - Managed**                |
+| CM - Configuration Management                | Not at all | | |
+| MA - Measurement and Analysis                | Partially | | |
+| PMC - Project Monitoring and Control         | Partially | | |
+| PP - Project Planning                        | Fully | | |
+| PPQA - Process and Product Quality Assurance | Partially | | |
+| REQM - Requirements Management               | Fully | | |
+| SAM - Supplier Agreement Management          | Not at all | | |
+| **Maturity Level 3 - Defined**                     |
+| DAR - Decision Analysis and Resolution       | Not at all | | |
+| IPM - Integrated Project Management          | Partially | | |
+| OPD - Organizational Process Definition      | Not at all | | |
+| OPF - Organizational Process Focus           | Partially | | |
+| OT - Organizational Training                 | Not at all | | |
+| PI - Product Integration                     | Partially | | |
+| RD - Requirements Development                | Partially | | |
 | RSKM - Risk Management                      | | | |
 | VAL -  Validation                            | | | |
 | VER -  Verification                          | | | |
-| Maturity Level 4 - Quantitatively Managed          |
+| **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | | | |
 | QPM - Quantitative Project Management        | | | |
-| Maturity Level 5 - Optimizing                      |
+| **Maturity Level 5 - Optimizing**                    |
 | CAR - Causal Analysis and Resolution         | | | |
 | OPM - Organizational Performance Management  | | | |
 
@@ -36,7 +36,7 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| Maturity Level 2 - Managed               |
+| **Maturity Level 2 - Managed**           |
 | CM                | Not at all | Scrum does not offer any information on the configuration management of work products.            |
 | MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
 | PMC               | Partially | Scrum has the notion of sprint goals. This can be used to determine how well a team is performing based on how often they reach their sprint goals. There is also velocity which can be used to plan and determine if any form of attempted process improvement are adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
@@ -66,7 +66,7 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| Maturity Level 2 - Managed               |
+| **Maturity Level 2 - Managed**           |
 | CM                | unknown |            |
 | MA                | unknown |            |
 | PMC               | unknown |            |
@@ -74,7 +74,7 @@ In this section we examine to which extent the various CMMi Development process 
 | PPQA              | unknown |            |
 | REQM              | unknown |            |
 | SAM               | unknown |            |
-| Maturity Level 3 - Defined               |
+| **Maturity Level 3 - Defined**           |
 | DAR               | unknown |            |
 | IPM               | unknown |            |
 | OPD               | unknown |            |
@@ -85,17 +85,17 @@ In this section we examine to which extent the various CMMi Development process 
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
-| Maturity Level 4 - Quantitatively Managed|
+| **Maturity Level 4 - Quantitatively Managed**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| Maturity Level 5 - Optimizing            |
+| **Maturity Level 5 - Optimizing**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
 ## HealthCare.gov
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| Maturity Level 2 - Managed               |
+| **Maturity Level 2 - Managed**           |
 | CM                | unknown |            |
 | MA                | unknown |            |
 | PMC               | unknown |            |
@@ -103,7 +103,7 @@ In this section we examine to which extent the various CMMi Development process 
 | PPQA              | unknown |            |
 | REQM              | unknown |            |
 | SAM               | unknown |            |
-| Maturity Level 3 - Defined               |
+| **Maturity Level 3 - Defined**           |
 | DAR               | unknown |            |
 | IPM               | unknown |            |
 | OPD               | unknown |            |
@@ -114,9 +114,9 @@ In this section we examine to which extent the various CMMi Development process 
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
-| Maturity Level 4 - Quantitatively Managed|
+| **Maturity Level 4 - Quantitatively Managed**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| Maturity Level 5 - Optimizing            |
+| **Maturity Level 5 - Optimizing**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
