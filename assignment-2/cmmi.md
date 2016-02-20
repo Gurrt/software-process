@@ -18,7 +18,7 @@ In this section we examine to which extent the various CMMi Development process 
 | OPD - Organizational Process Definition      | Not at all | | |
 | OPF - Organizational Process Focus           | Partially | | |
 | OT - Organizational Training                 | Not at all | Not at all | |
-| PI - Product Integration                     | Partially | | |
+| PI - Product Integration                     | Partially | Fully | |
 | RD - Requirements Development                | Partially | | |
 | RSKM - Risk Management                      | Not at all | | |
 | VAL -  Validation                            | Partially | | |
@@ -78,7 +78,7 @@ In this section we examine to which extent the various CMMi Development process 
 | OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which deals with the assessment of the development-organization.            |
 | OPD               | Not at all | It is a project methodology and does not prescribe any method for dealing organizational process assets.             |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
-| PI                | unknown |            |
+| PI                | Fully | RUP addresses product integration through its implementation, test and deployments workflows.            |
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
