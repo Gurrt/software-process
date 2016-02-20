@@ -64,7 +64,7 @@ In this section we examine to which extent the various CMMi Development process 
 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
-| **Maturity Level 2 - Managed**           |
+| **Level 2**           |
 | CM                | Fully | RUP's configuration and change management fully covers all of this process area's goals            |
 | MA                | Partially | RUP's project management work flow involves an activity for creating a measurement plan although RUP does not exactly specify how this should be communicated to all relevant parties            |
 | PMC               | Fully | The work flow pertaining to project management covers all aspects of monitoring a project against the plan and taking necessary corrective actions              |
@@ -72,7 +72,7 @@ In this section we examine to which extent the various CMMi Development process 
 | PPQA              | Fully | The review record in each of RUP's work flow addresses the issue of quality assurance and the creation of the problem resolution plan insures that all quality issues are dealt with.            |
 | REQM              | Fully | The requirements work flow integrates change management along with the capturing and analyzing of requirements.            |
 | SAM               | Not at all | RUP has no elements which dictate interactions with external suppliers it use purely centered around development            |
-| **Maturity Level 3 - Defined**           |
+| **Level 3**           |
 | DAR               | Not at all | This process area seems to not be covered in RUP in any work flow            |
 | IPM               | Fully | The project management and environment work flows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            |
 | OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which deals with the assessment of the development-organization.            |
@@ -84,12 +84,13 @@ for understanding stakeholder needs, produce and refine requirements and manage 
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
 | VER               | unknown |            |
-| **Maturity Level 4 - Quantitatively Managed**|
+| **Level 4**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| **Maturity Level 5 - Optimizing**        |
+| **Level 5**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
+
 ## HealthCare.gov
 
 | Cmmi Process Area | Covered | Rationale  |
