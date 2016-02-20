@@ -75,8 +75,8 @@ In this section we examine to which extent the various CMMi Development process 
 | **Level 3**           |
 | DAR               | Not at all | This process area seems to not be covered in RUP in any work flow            |
 | IPM               | Fully | The project management and environment work flows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            |
-| OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which deals with the assessment of the development-organization.            |
-| OPD               | Not at all | It is a project methodology and does not prescribe any method for dealing organizational process assets.             |
+| OPD               | Not at all | Due to it being a project methodology and RUP does not prescribe any method for dealing with organizational process assets.             |
+| OPF               | Partially | RUP is a roject methodology so organizations would need to supplement it with other processes for this area. Although, RUP's environment work flow does have an activity which handles the assessment of the development-organization.            |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
 | PI                | Fully | RUP addresses product integration through its implementation, test and deployments workflows.            |
 | RD                | Fully | Mainly through its Requirements workflow, but also throught others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
@@ -95,18 +95,18 @@ In this section we examine to which extent the various CMMi Development process 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Maturity Level 2 - Managed**           |
-| CM                | unknown |            |
-| MA                | unknown |            |
-| PMC               | unknown |            |
-| PP                | unknown |            |
-| PPQA              | unknown |            |
-| REQM              | unknown |            |
-| SAM               | unknown |            |
+| CM                | unknown | There could no information found on how configuration management was processed in the HealthCare.gov project.           |
+| MA                | Not at all | Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMs did not keep adequate track of records [IHBEAT]. This indicates that there were no processes defined to measure aspects and of the project and correctly report them to the relevant parties.             |
+| PMC               | Not at all | There were a number of the issues found early in the project's lifecycle during audits such as how there was no enough time allotted to test the system. The fact that these issues even until after the launch of the site indicated that there was little to no control methods in place [POLI].             |
+| PP                | unknown | TODO: Needs more research. Probably present          |
+| PPQA              | unknown | There a number of external audits on the project but there is no information known on how CMS dealt with it internally.            |
+| REQM              | Not at all | There was a complete lack of adequate requirements tracking and management as contractors reported requirements changing up until several weeks before the launch of the website [NYTIMES].             |
+| SAM               | Partially | There were formal agreements made and used to manage all contractors but with a lack of quality control measures. Furthermore, the employees responsible for the awarding contracts were inexperienced. CMS did not comply with a federal rule requiring employees who oversee contracts worth more than $10 million to receive 96 hours of training [IHBEAT].            |
 | **Maturity Level 3 - Defined**           |
-| DAR               | unknown |            |
-| IPM               | unknown |            |
-| OPD               | unknown |            |
-| OPF               | unknown |            |
+| DAR               | unknown | TODO: Needs more research           |
+| IPM               | unknown | TODO: Probably not present           |
+| OPD               | unknown | TODO: Way too many associated parties for this I think            |
+| OPF               | unknown |  TODO: Way too many parties many of which not on the same terms          |
 | OT                | unknown |            |
 | PI                | unknown |            |
 | RD                | unknown |            |
@@ -119,3 +119,18 @@ In this section we examine to which extent the various CMMi Development process 
 | **Maturity Level 5 - Optimizing**        |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
+
+
+## References TODO: Figure out where to put these
+
+[SGUIDE] Ken Schwaber, Jeff Sutherland, “The Scrum Guide”, Scrum Alliance, 2013.
+
+[RUP] P. Kruchten, The rational unified process. Reading, Mass: Addison-Wesley,
+1999.
+
+[IHBEAT] Ihealthbeat.org, "Audit Details Lapses in CMS Oversight Prior to HealthCare.gov Launch - iHealthBeat", 2015. [Online]. Available: http://www.ihealthbeat.org/articles/2015/9/15/audit-details-lapses-in-cms-oversight-prior-to-healthcaregov-launch. [Accessed: 20- Feb- 2016].
+
+[NYTIMES] The New York Times, “From the Start, Signs of Trouble at Health Portal”,
+2013.
+
+[POLI] Allen,J.(2013). Report warned of HealthCare.gov laws last spring. Retrieved from http:// www.politico.com/story/2013/11/report-warned-of-healthcaregov-flaws-last-spring-100037.html
