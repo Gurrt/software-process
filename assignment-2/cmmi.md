@@ -49,7 +49,7 @@ In this section we examine to which extent the various CMMi Development process 
 | OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
 | PI                | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
-| RD                | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. Its responsibility however is almost entirely delegated to the Product Owner and Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
+| RD                | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. The responsibility of creating these user stories is entirely delegated to the Product Owner. Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
 | RSKM              | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
 | VAL               | Partially | A form of validation is done through the Sprint Review in which the prodcut is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
 | VER               | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
@@ -108,7 +108,7 @@ In this section we examine to which extent the various CMMi Development process 
 | OPD               | unknown | TODO: Way too many associated parties for this I think            |
 | OPF               | unknown | TODO: Way too many parties many of which not on the same terms          |
 | OT                | unknown |            |
-| PI                | unknown | TODO: Needs more research. Probably present           |
+| PI                | unknown | CMS assumed the role of systems integrator [CHAMERS, page 6]           |
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
@@ -136,3 +136,5 @@ In this section we examine to which extent the various CMMi Development process 
 [POLI] Allen,J.(2013). Report warned of HealthCare.gov laws last spring. Retrieved from http:// www.politico.com/story/2013/11/report-warned-of-healthcaregov-flaws-last-spring-100037.html
 
 [LEVINSON] Levinson, Daniel. “CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms”, Office of Inspector General, September 2015, Report.
+
+[CHAMERS] Chambers & Associates Pty Ltd, Case Study Saving Obamacare. 
