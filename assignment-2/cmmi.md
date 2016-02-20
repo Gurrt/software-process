@@ -41,9 +41,39 @@ In this section we examine to which extent the various CMMi Development process 
 | MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
 | PMC               | Partially | Scrum has the notion of sprint goals. This can be used to determine how well a team is performing based on how often they reach their sprint goals. There is also velocity which can be used to plan and determine if any form of attempted process improvement are adding any value. Scrum specifies that the Scrum master is responsible for for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
 | PP                | Fully     | This is corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             |
-| PPQA              | Partially | TODO: Scrum prescribes some practices to measure how processes are performed and ... but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
+| PPQA              | Partially | Scrum prescribes some practices to measure how processes are performed and can for example be used to by the Scrum master to know when they should aid the team but it says nothing about how about to assure the quality of products produced using it. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks            |
 | REQM              | Fully | The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            |
-| SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with supplier. TODO: Maybe this has something to do with task assigning?            |
+| SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with a supplier.             |
+| Maturity Level 3 - Defined               |
+| DAR               | Not at all | Scrum does not have any formal evaluation method which can be used analyze possible decisions or alternatives            |
+| IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with its team but for the most part this up to the product owner            |
+| OPD               | Not at all | This is left entirely up to the wishes of the development team            |
+| OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
+| OT                | unknown |            |
+| PI                | unknown |            |
+| RD                | unknown |            |
+| RSKM              | unknown |            |
+| VAL               | unknown |            |
+| VER               | unknown |            |
+| Maturity Level 4 - Quantitatively Managed|
+| OPP               | unknown |            |
+| QPM               | unknown |            |
+| Maturity Level 5 - Optimizing            |
+| CAR               | unknown |            |
+| OPM               | unknown |            |
+
+## RUP
+
+| Cmmi Process Area | Covered | Rationale  |
+| ------------------| ------- | ---------  |
+| Maturity Level 2 - Managed               |
+| CM                | unknown |            |
+| MA                | unknown |            |
+| PMC               | unknown |            |
+| PP                | unknown |            |
+| PPQA              | unknown |            |
+| REQM              | unknown |            |
+| SAM               | unknown |            |
 | Maturity Level 3 - Defined               |
 | DAR               | unknown |            |
 | IPM               | unknown |            |
@@ -61,4 +91,32 @@ In this section we examine to which extent the various CMMi Development process 
 | Maturity Level 5 - Optimizing            |
 | CAR               | unknown |            |
 | OPM               | unknown |            |
+## HealthCare.gov
 
+| Cmmi Process Area | Covered | Rationale  |
+| ------------------| ------- | ---------  |
+| Maturity Level 2 - Managed               |
+| CM                | unknown |            |
+| MA                | unknown |            |
+| PMC               | unknown |            |
+| PP                | unknown |            |
+| PPQA              | unknown |            |
+| REQM              | unknown |            |
+| SAM               | unknown |            |
+| Maturity Level 3 - Defined               |
+| DAR               | unknown |            |
+| IPM               | unknown |            |
+| OPD               | unknown |            |
+| OPF               | unknown |            |
+| OT                | unknown |            |
+| PI                | unknown |            |
+| RD                | unknown |            |
+| RSKM              | unknown |            |
+| VAL               | unknown |            |
+| VER               | unknown |            |
+| Maturity Level 4 - Quantitatively Managed|
+| OPP               | unknown |            |
+| QPM               | unknown |            |
+| Maturity Level 5 - Optimizing            |
+| CAR               | unknown |            |
+| OPM               | unknown |            |
