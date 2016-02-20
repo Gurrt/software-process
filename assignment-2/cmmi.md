@@ -27,8 +27,8 @@ In this section we examine to which extent the various CMMi Development process 
 | OPP - Organizational Process Performance     | Partially | Not at all | |
 | QPM - Quantitative Project Management        | Not at all | Not at all | |
 | **Maturity Level 5 - Optimizing**                    |
-| CAR - Causal Analysis and Resolution         | Not at all | | |
-| OPM - Organizational Performance Management  | Fully | | |
+| CAR - Causal Analysis and Resolution         | Not at all | Partially | |
+| OPM - Organizational Performance Management  | Partially | Not at all | |
 
 ## Scrum
 
@@ -58,7 +58,7 @@ In this section we examine to which extent the various CMMi Development process 
 | QPM               | Not at all | Quantitive management of the team's quality and process perfromance is not covered in Scrum.           |
 | **Level 5**                              |
 | CAR               | Not at all | Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. |
-| OPM               | Fully | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. |
+| OPM               | Partially | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. There are however, no quantitive properties prescribed. |
 
 ## RUP
 
@@ -87,8 +87,8 @@ In this section we examine to which extent the various CMMi Development process 
 | OPP               | Not at all | This is not in the scope of RUP.           |
 | QPM               | Not at all | This is not in the scope of RUP.          |
 | **Level 5**        |
-| CAR               | unknown |            |
-| OPM               | unknown |            |
+| CAR               | Partially | This can be done in an Iteration Assessment. Howerver, RUP does not prescribe any analysis techniques for it.           |
+| OPM               | Not at all | This is not in the scope of RUP.             |
 
 ## HealthCare.gov
 
