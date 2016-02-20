@@ -47,15 +47,15 @@ In this section we examine to which extent the various CMMi Development process 
 | IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with their team but for the most part this up to the product owner            |
 | OPD               | Not at all | This is left entirely up to the wishes of the development team            |
 | OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process.             |
-| OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in Scrum. |
+| OT                | Not at all | Identifying training needs of an organization and assessing their effectiveness is not covered in Scrum. |
 | PI                | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
 | RD                | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. The responsibility of creating these user stories is entirely delegated to the Product Owner. Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
 | RSKM              | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
-| VAL               | Partially | A form of validation is done through the Sprint Review in which the prodcut is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
+| VAL               | Partially | A form of validation is done through the Sprint Review in which the product is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
 | VER               | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
 | **Level 4**                              |
-| OPP               | Partially | Organizational process performance is covered in a Sprint Retrospective. This retrospective has however little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. |
-| QPM               | Not at all | Quantitive management of the team's quality and process perfromance is not covered in Scrum.           |
+| OPP               | Partially | Organizational process performance is covered in a Sprint Retrospective. However, the retrospective has little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. |
+| QPM               | Not at all | Quantitive management of the project's quality and process performance objectives is not covered in Scrum.           |
 | **Level 5**                              |
 | CAR               | Not at all | Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. |
 | OPM               | Partially | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. There are however, no quantitive properties prescribed. |
@@ -79,10 +79,10 @@ In this section we examine to which extent the various CMMi Development process 
 | OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. However, RUP's environment work flow does have an activity which handles the assessment of the development-organization.            |
 | OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
 | PI                | Fully | RUP addresses product integration through its implementation, test and deployment workflows.            |
-| RD                | Fully | Mainly through its Requirements workflow, but also through others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
-| RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in the early phases (elaboration) of the project.            |
-| VAL               | Fully | In RUP validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
-| VER               | Fully | Verification is als covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
+| RD                | Fully | Mainly through its requirements workflow RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
+| RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in an early phase (elaboration) of the project.            |
+| VAL               | Fully | In RUP, validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
+| VER               | Fully | Verification is also covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
 | **Level 4**|
 | OPP               | Not at all | This is not in the scope of RUP.           |
 | QPM               | Not at all | This is not in the scope of RUP.          |
