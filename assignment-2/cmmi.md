@@ -22,7 +22,7 @@ In this section we examine to which extent the various CMMi Development process 
 | RD - Requirements Development                | Partially | Fully | |
 | RSKM - Risk Management                      | Not at all | Fully | |
 | VAL -  Validation                            | Partially | Fully | |
-| VER -  Verification                          | Partially | | |
+| VER -  Verification                          | Partially | Fully | |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | Partially | | |
 | QPM - Quantitative Project Management        | Not at all | | |
@@ -82,7 +82,7 @@ In this section we examine to which extent the various CMMi Development process 
 | RD                | Fully | Mainly through its Requirements workflow, but also through others, RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
 | RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in the early phases (elaboration) of the project.            |
 | VAL               | Fully | In RUP validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
-| VER               | unknown |            |
+| VER               | Fully | Verification is als covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
 | **Level 4**|
 | OPP               | unknown |            |
 | QPM               | unknown |            |
