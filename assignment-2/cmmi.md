@@ -28,7 +28,7 @@ In this section we examine to which extent the various CMMi Development process 
 | QPM - Quantitative Project Management        | Not at all | Not at all | |
 | **Maturity Level 5 - Optimizing**                    |
 | CAR - Causal Analysis and Resolution         | Not at all | Partially | |
-| OPM - Organizational Performance Management  | Partially | Not at all | |
+| OPM - Organizational Performance Management  | Partially | Not at all | Not at all |
 
 ## Scrum
 
@@ -118,7 +118,7 @@ In this section we examine to which extent the various CMMi Development process 
 | QPM               | unknown |            |
 | **Level 5**        |
 | CAR               | unknown |            |
-| OPM               | unknown |            |
+| OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
 
 
 ## References TODO: Figure out where to put these
@@ -134,3 +134,5 @@ In this section we examine to which extent the various CMMi Development process 
 2013.
 
 [POLI] Allen,J.(2013). Report warned of HealthCare.gov laws last spring. Retrieved from http:// www.politico.com/story/2013/11/report-warned-of-healthcaregov-flaws-last-spring-100037.html
+
+[LEVINSON] Levinson, Daniel. “CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms”, Office of Inspector General, September 2015, Report.
