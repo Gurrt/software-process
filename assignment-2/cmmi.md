@@ -65,7 +65,7 @@ In this section we examine to which extent the various CMMi Development process 
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
-| CM                | Fully | RUP's configuration and change management fully covers all of this process area's goals            |
+| CM                | Fully | RUP's configuration and change management workflow covers configuration identification, configuration control, configuration status accounting, and configuration audits.             |
 | MA                | Partially | RUP's project management work flow involves an activity for creating a measurement plan. Although, RUP does not exactly specify how this should be communicated to all relevant parties            |
 | PMC               | Fully | The work flow pertaining to project management covers all aspects of monitoring a project against the plan and taking necessary corrective actions              |
 | PP                | Partially | The project management and environment work flows provide adequate support to the project planning. However, they do not determine non-software related project attributes such as labor requirements.                 |
