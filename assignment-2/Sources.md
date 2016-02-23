@@ -27,4 +27,5 @@
 [11] Kreitz, G., & Niemelä, F. (2010, August). [Spotify--Large Scale, Low Latency, P2P Music-on-Demand Streaming](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/spotify-p2p-streaming.2010.pdf). *In Peer-to-Peer Computing* (pp. 1-10).
 
 [12] Spotify, [Spotify Engineering Culture - part 1](https://vimeo.com/user14023874/spotify-engineering-culture-part1).
+
 [13] Dan Pink, [The science of human motivation](https://youtu.be/rrkrvAUbU9Y?list=PLjzx_gymL6dPiP6c9YlA96dT8beeAehXe).
