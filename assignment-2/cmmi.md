@@ -121,6 +121,20 @@ In this section we examine to which extent the various CMMi Development process 
 | OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
 
 
+## Week 2 notes
+
+Some quotes:
+
+> Jim Johnson, the founder the Standish Group, which has a database of some 50,000 development projects, said "the problem with processes and tools is they leave out leadership, they try to create a cookbook that people can follow, but eliminate the leadership part of it."
+> Having the right leadership, environment, executive sponsors, and agile process are among the things that Johnson said he would make sure are in place before looking at CMMI. 
+
+http://www.computerworld.com/article/2487088/enterprise-architecture/the-firm-behind-healthcare-gov-had-top-notch-credentials----and-it-didn-t-he.html
+
+
+http://www.gao.gov/assets/670/668834.pdf
+
+
+
 ## References TODO: Figure out where to put these
 
 [SGUIDE] Ken Schwaber, Jeff Sutherland, “The Scrum Guide”, Scrum Alliance, 2013.
