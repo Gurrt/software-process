@@ -149,7 +149,21 @@ Scrum provides a some forms of diagnostic control.
 By having a sprint review each sprint, the stakeholders can have an overview of the results of the previous sprint and have the chance to influence the comming sprint(s).
 Scrum puts a lot of emphasis on leaving the control to the development team.
 Since Scrum does not ensure that a combination of the four levers of control is utilized properly, a project done with Scrum can still fail, due to a lack of, or the wrong application of control (the same examples given by Simons apply[Simons]).
-Scrum teams have 
+
+###Learning organizations and Scrum
+Peter Senge defines five disciplines of a learning organization[].
+- Systems thinking
+- Personal mastery
+- Mental models
+- Shared vision
+- Team learning
+
+All these characteristics contribute to a learning organization (with systems thinking integrating the other four).
+Scrum supports a shared vision, to a certain degree, by having a definition of done shared by all teams, working on the same product.
+Teams also reflect on their own performance and mental models during the retrospective in each sprint.
+When applying scrum at a larger scale, there is no inherent mechanism in Scrum to ensure a shared vision throughout the whole company.
+Other than the composition of Scrum teams, Scrum does not define how an organization should be structured and how changing company goals can be related back to the teams.
+
 ##RUP
 ###Power in RUP
 Because RUP has six specific engineering disciplines, it limits the power of the individual, you only have power to make decisions concerning the discipline you are in.
@@ -171,3 +185,5 @@ Because of this specialization, you can exert increased influence using expertis
 [Simons] Robert Simons [Control in an age of empowerment](https://hbr.org/1995/03/control-in-an-age-of-empowerment)Harvard Business Review (1995)
 
 [French] John R. P. French, Bertram Raven [The Bases of Social Power](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/French_&_Raven_Studies_Social_Power_ch9_pp150-167.pdf)
+
+[Senge] Peter Senge [Learning Organization](https://en.wikipedia.org/wiki/Learning_organization)
