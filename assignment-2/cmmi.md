@@ -231,20 +231,20 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 ## Conclusion
 
-|            | Scrum | RUP | HealthCare.gov |
-| -----------|-------| --- | -------------- |
-| Not at all | 8     | 7   | 9              |
-| Partially  | 12    | 5   | 6              |
-| Fully      | 2     | 10  | 0              |
-| Unknown    | 0     | 0   | 7              |
-
 Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMI maturity levels.
 This is understandable because CMMI is intended to measure the maturity of organizations. 
-So any organizations which base their processes on Scrum or RUP would need to supplement the them with more supporting processes.
+So any organizations which base their processes on Scrum or RUP would need to supplement the them with more supporting processes. Furthermore, we find that RUP has a better coverage of CMMi than Scrum and that for both methodologies the coverage is spread among the different CMMi levels. Since both Scrum and RUP miss some process areas in level 2, (e.g. Supplier Agreement Management) this means that both are CMMi level 1 compliant.
 
-It was difficult to obtain knowledge about the implementation of the CMMi process areas within HealthCare.gov. For that, most of the analysis of the different areas was based on outcome and results. From that we can not conclude whether the lack of a defined process was the cause of the problems at HealthCare.gov or the failure to follow that process. For the lead contracter CGI Federal we know that they obtained CMMi level 5 in 2012 [CGI5]. However, they were one contractor out of 55 which were all under the supervision of the CMS.
+|              | Scrum | RUP | HealthCare.gov |
+| -------------|-------| --- | -------------- |
+| # Not at all | 8     | 7   | 9              |
+| # Partially  | 12    | 5   | 6              |
+| # Fully      | 2     | 10  | 0              |
+| # Unknown    | 0     | 0   | 7              |
 
-## References TODO: Figure out where to put these
+It was difficult to obtain knowledge about the implementation of the CMMi process areas within HealthCare.gov. For that, most of the analysis of the different areas was based on outcome and results. From that we can not conclude whether the lack of a defined process or the failure to follow that process was the cause of the problems at HealthCare.gov.
+
+## References
 
 [CMMIREP] CMMI Product Team (2010), "CMMI for Development, Version 1.3" 
 
@@ -272,7 +272,7 @@ It was difficult to obtain knowledge about the implementation of the CMMi proces
 
 [LEVINSON2] Levinson, Daniel. "Federal Marketplace: Inadequacies in Contract Planning and Procurement", January 2015, Report.
 
-[TRAINING] 
+[TRAINING] CMS, "Affordable Care Act & the Marketplace", Webpage. 
 https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Affordable-Care-Act-and-the-Marketplace-page.html
 
 [GAO1] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
