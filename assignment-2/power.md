@@ -108,6 +108,7 @@ According to [http://oig.hhs.gov/oas/reports/region3/31403001.pdf page 1] CMS re
 
 
 ##Scrum
+###Power in Scrum
 Scrum evangelizes empowerment.
 The Scrum team is self-organizing and structured and empowered by the organization to manage their  own work.
 The development team decides how to do the work.
@@ -130,6 +131,18 @@ One thing to be considered, is that in this experiment, motivation lead to more 
 This leaves open the question whether a high motivation makes you more productive given a fixed timeframe.
 The impact of motivation on performance is a complex matter. Recognition of ones work is proven to impact performance [Uzonna]
 
+###Control in Scrum
+Robert Simons describes four levers for harnassing control:
+- Beliefs systems
+- Diagnostic control systems
+- Boundary systems
+- Interactive control systems
+
+He argues that a combination of these levers is required to ensure effective control (with examples of what can happen when you don't)[Simons].
+Scrum provides a some forms of diagnostic control.
+By having a sprint review each sprint, the stakeholders can have an overview of the results of the previous sprint and have the chance to influence the comming sprint(s).
+Scrum puts a lot of emphasis on leaving the control to the development team.
+Since Scrum does not ensure that a combination of the four levers of control is utilized properly, a project done with Scrum can still fail, due to a lack of, or the wrong application of control (the same examples given by Simons apply[Simons]).
 
 ##RUP
 // TODO
@@ -146,3 +159,5 @@ The impact of motivation on performance is a complex matter. Recognition of ones
 [Monteiro] Cleviton V. F. Monteiro et al.[A qualitative study of the determinants of self-managing team effectiveness in a scrum team](http://dl.acm.org/citation.cfm?id=1984646) CHASE '11 Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering (2011)
 
 [Uzonna] Ukaejiofo Rex Uzonna [Impact of motivation on employees' performance: A case study of CreditWest Bank Cyprus](http://www.academicjournals.org/article/article1380794547_Ukaejiofo.pdf) Journal of Economics and International Finance Vol 5 August 2013 199-211
+
+[Simons] Robert Simons [Control in an age of empowerment](https://hbr.org/1995/03/control-in-an-age-of-empowerment)Harvard Business Review (1995)
