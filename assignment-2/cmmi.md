@@ -2,6 +2,8 @@
 
 In this section we examine to which extent the various CMMi Development process areas are covered in Scrum, RUP and HealthCare.gov. For this we used the CMMi for Development report. The analysis of Scrum is based the content in the Scrum Guide [SGUIDE]. Likewise the analysis of RUP is based on the RUP book [RUPBOOK]. 
 
+> Note to document integrators: The Process Area Descriptions may be moved to an appendix.
+
 ## Process Area Descriptions
 
 The following is a list of the CMMI process areas for Development along with a description of their purpose. All information was acquired from the official CMMI for Development report [CMMIREP].
@@ -107,31 +109,31 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | Cmmi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
 | **Maturity Level 2 - Managed**                |
-| CM - Configuration Management                | Not at all | Fully | Unknown |
-| MA - Measurement and Analysis                | Partially | Partially |Not at all  |
-| PMC - Project Monitoring and Control         | Partially | Fully | Not at all |
-| PP - Project Planning                        | Fully | Partially | Not at all |
-| PPQA - Process and Product Quality Assurance | Partially | Fully| Partially |
-| REQM - Requirements Management               | Fully | Fully | Not at all |
-| SAM - Supplier Agreement Management          | Not at all | Not at all |Partially |
-| **Maturity Level 3 - Defined**                     |
-| DAR - Decision Analysis and Resolution       | Not at all | Not at all | Unknown |
-| IPM - Integrated Project Management          | Partially | Fully | Partially |
+| CM - Configuration Management                | Not at all | Fully      | Unknown    |
+| MA - Measurement and Analysis                | Partially  | Partially  | Not at all |
+| PMC - Project Monitoring and Control         | Partially  | Fully      | Not at all |
+| PP - Project Planning                        | Fully      | Partially  | Not at all |
+| PPQA - Process and Product Quality Assurance | Partially  | Fully      | Partially  |
+| REQM - Requirements Management               | Fully      | Fully      | Not at all |
+| SAM - Supplier Agreement Management          | Not at all | Not at all | Partially  |
+| **Maturity Level 3 - Defined**                                                      |
+| DAR - Decision Analysis and Resolution       | Not at all | Not at all | Unknown    |
+| IPM - Integrated Project Management          | Partially  | Fully      | Partially  |
 | OPD - Organizational Process Definition      | Not at all | Not at all | Not at all |
-| OPF - Organizational Process Focus           | Partially | Partially | Not at all |
-| OT - Organizational Training                 | Not at all | Not at all | |
-| PI - Product Integration                     | Partially | Fully | Not at all |
-| RD - Requirements Development                | Partially | Fully | Unknown |
-| RSKM - Risk Management                       | Not at all | Fully | Not at all |
-| TS - Technical Solution                      | Partially | Partially |  |
-| VAL -  Validation                            | Partially | Fully | Partially |
-| VER -  Verification                          | Partially | Fully | Partially |
-| **Maturity Level 4 - Quantitatively Managed**      |
-| OPP - Organizational Process Performance     | Partially | Not at all | |
-| QPM - Quantitative Project Management        | Not at all | Not at all | Unknown |
-| **Maturity Level 5 - Optimizing**                    |
-| CAR - Causal Analysis and Resolution         | Not at all | Partially | Unknown |
-| OPM - Organizational Performance Management  | Partially | Not at all | Not at all |
+| OPF - Organizational Process Focus           | Partially  | Partially  | Not at all |
+| OT - Organizational Training                 | Not at all | Not at all | Unknown    |
+| PI - Product Integration                     | Partially  | Fully      | Not at all |
+| RD - Requirements Development                | Partially  | Fully      | Unknown    |
+| RSKM - Risk Management                       | Not at all | Fully      | Not at all |
+| TS - Technical Solution                      | Partially  | Partially  | Partially  |
+| VAL -  Validation                            | Partially  | Fully      | Partially  |
+| VER -  Verification                          | Partially  | Fully      | Partially  |
+| **Maturity Level 4 - Quantitatively Managed**                                       |
+| OPP - Organizational Process Performance     | Partially  | Not at all | Unknown    |
+| QPM - Quantitative Project Management        | Not at all | Not at all | Unknown    |
+| **Maturity Level 5 - Optimizing**                                                   |
+| CAR - Causal Analysis and Resolution         | Not at all | Partially  | Unknown    |
+| OPM - Organizational Performance Management  | Partially  | Not at all | Not at all |
 
 ## Scrum
 
@@ -213,15 +215,15 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | IPM               | Partially | CMS was responsible for the project but it was clear that organization lacked the necessary experience to have a standard processes in place for stakeholder involvement and project management.              |
 | OPD               | Not at all | The large amount of parties associated with the development of HealthCare.gov made this close to impossible to achieve and there were no processes in place to deal with this.            |
 | OPF               | Not at all | The project had a clear of leadership and no clear decision-maker [HOTA].            |
-| OT                | Unknown |            |
+| OT                | Unknown | CMS does offer trainings for the Affordable Care Act & the Marketplace, however, these are not targeted for people working in the project organization of HealthCare.gov. [TRAINING]             |
 | PI                | Not at all | CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components. [LEVINSON2]    |
 | RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was. [GAO2]     |
 | RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies. [GAO2]         |
-| TS                | Unknown |            |
+| TS                | Partially |            |
 | VAL               | Partially | CMS defined a testing framework that was to establish a consistent, repeatable CMS testing life-cycle process for validation of product components. [GAO1] It is not clear how this framework maps on CMMi. |
 | VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also test documentation was missing key elements. [GAO1]           |
 | **Level 4**                              |
-| OPP               | Unknown |            |
+| OPP               | Unknown | There is no information found on how this process area was dealt with during the HealthCare.gov project.           |
 | QPM               | Unknown | There is no information found on how this process area was dealt with during the HealthCare.gov project.           |
 | **Level 5**                              |
 | CAR               | Unknown | There is no information found on how this process area was dealt with during the HealthCare.gov project.  |
@@ -231,10 +233,10 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 |            | Scrum | RUP | HealthCare.gov |
 | -----------|-------| --- | -------------- |
-| Not at all | 8     | 7   |                |
-| Partially  | 12    | 5   |                |
-| Fully      | 2     | 10  |                |
-| Unknown    | 0     | 0   | 2              |
+| Not at all | 8     | 7   | 9              |
+| Partially  | 12    | 5   | 6              |
+| Fully      | 2     | 10  | 0              |
+| Unknown    | 0     | 0   | 7              |
 
 Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMI maturity levels.
 This is understandable because CMMI is intended to measure the maturity of organizations. 
@@ -269,6 +271,9 @@ It was difficult to obtain knowledge about the implementation of the CMMi proces
 [CHAMERS] Chambers & Associates Pty Ltd, Case Study Saving Obamacare. 
 
 [LEVINSON2] Levinson, Daniel. "Federal Marketplace: Inadequacies in Contract Planning and Procurement", January 2015, Report.
+
+[TRAINING] 
+https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Affordable-Care-Act-and-the-Marketplace-page.html
 
 [GAO1] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
 
