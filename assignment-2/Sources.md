@@ -27,4 +27,8 @@
 
 **HealthCare.gov:**
 
-[14] Anthopoulos, L., Reddick, C. G., Giannakidou, I., & Mavridis, N. (2015). Why e-government projects fail? An analysis of the Healthcare. gov website. Government Information Quarterly.
+[14] Anthopoulos, L., Reddick, C. G., Giannakidou, I., & Mavridis, N. (2015). [Why e-government projects fail? An analysis of the Healthcare. gov website](http://www.sciencedirect.com/science/article/pii/S0740624X15000799). Government Information Quarterly.
+
+[15] Chambers & Associates Pty Ltd (2014, April), [Case Study Analysis Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study-analysis.pdf).
+
+[16] Chambers & Associates Pty Ltd (2014, March), [Case Study Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study.pdf).
