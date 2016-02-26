@@ -112,13 +112,21 @@ In this section we examine to which extent the various CMMi Development process 
 | RD                | unknown |            |
 | RSKM              | unknown |            |
 | VAL               | unknown |            |
-| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co.    |
-| **Level 4**|
+| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co.            |
+| **Level 4**                              |
 | OPP               | unknown |            |
 | QPM               | unknown |            |
-| **Level 5**        |
+| **Level 5**                              |
 | CAR               | unknown |            |
 | OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
+
+## CMMi coverage of Scrum and RUP
+
+|            | Scrum | RUP |
+| -----------|-------| --- |
+| Not at all | 8     | 7   |
+| Partially  | 11    | 4   |
+| Fully      | 2     | 10  |
 
 
 ## Week 2 notes
