@@ -103,18 +103,18 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | Cmmi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
 | **Maturity Level 2 - Managed**                |
-| CM - Configuration Management                | Not at all | Fully | |
-| MA - Measurement and Analysis                | Partially | Partially | |
-| PMC - Project Monitoring and Control         | Partially | Fully | |
-| PP - Project Planning                        | Fully | Partially | |
-| PPQA - Process and Product Quality Assurance | Partially | Fully| |
-| REQM - Requirements Management               | Fully | Fully | |
-| SAM - Supplier Agreement Management          | Not at all | Not at all | |
+| CM - Configuration Management                | Not at all | Fully | Unknown |
+| MA - Measurement and Analysis                | Partially | Partially |Not at all  |
+| PMC - Project Monitoring and Control         | Partially | Fully | Not at all |
+| PP - Project Planning                        | Fully | Partially | Not at all |
+| PPQA - Process and Product Quality Assurance | Partially | Fully| Partially |
+| REQM - Requirements Management               | Fully | Fully | Not at all |
+| SAM - Supplier Agreement Management          | Not at all | Not at all |Partially |
 | **Maturity Level 3 - Defined**                     |
-| DAR - Decision Analysis and Resolution       | Not at all | Not at all | |
-| IPM - Integrated Project Management          | Partially | Fully | |
-| OPD - Organizational Process Definition      | Not at all | Not at all | |
-| OPF - Organizational Process Focus           | Partially | Partially | |
+| DAR - Decision Analysis and Resolution       | Not at all | Not at all | Unknown |
+| IPM - Integrated Project Management          | Partially | Fully | Partially |
+| OPD - Organizational Process Definition      | Not at all | Not at all | Not at all |
+| OPF - Organizational Process Focus           | Partially | Partially | Not at all |
 | OT - Organizational Training                 | Not at all | Not at all | |
 | PI - Product Integration                     | Partially | Fully | |
 | RD - Requirements Development                | Partially | Fully | |
