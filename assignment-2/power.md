@@ -131,6 +131,12 @@ One thing to be considered, is that in this experiment, motivation lead to more 
 This leaves open the question whether a high motivation makes you more productive given a fixed timeframe.
 The impact of motivation on performance is a complex matter. Recognition of ones work is proven to impact performance [Uzonna]
 
+The development team within the Scrum team decides *how* to do their work.
+The product owner decides what is on the backlog and in which order.
+The individual members of the development team actually have no say in which priority the items on the backlog get.
+They can advise the product owner, but the final decision lies only with the product owner.
+If the product owner has a different vision for the product than the development team, this can also lead to friction and lack of motivation.
+
 ###Control in Scrum
 Robert Simons describes four levers for harnassing control:
 - Beliefs systems
@@ -143,7 +149,7 @@ Scrum provides a some forms of diagnostic control.
 By having a sprint review each sprint, the stakeholders can have an overview of the results of the previous sprint and have the chance to influence the comming sprint(s).
 Scrum puts a lot of emphasis on leaving the control to the development team.
 Since Scrum does not ensure that a combination of the four levers of control is utilized properly, a project done with Scrum can still fail, due to a lack of, or the wrong application of control (the same examples given by Simons apply[Simons]).
-
+Scrum teams have 
 ##RUP
 // TODO
 
