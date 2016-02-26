@@ -124,13 +124,13 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | RD - Requirements Development                | Partially | Fully | Unknown |
 | RSKM - Risk Management                       | Not at all | Fully | Not at all |
 | TS - Technical Solution                      | Partially | Partially |  |
-| VAL -  Validation                            | Partially | Fully | |
+| VAL -  Validation                            | Partially | Fully | Partially |
 | VER -  Verification                          | Partially | Fully | Partially |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | Partially | Not at all | |
-| QPM - Quantitative Project Management        | Not at all | Not at all | |
+| QPM - Quantitative Project Management        | Not at all | Not at all | Unknown |
 | **Maturity Level 5 - Optimizing**                    |
-| CAR - Causal Analysis and Resolution         | Not at all | Partially | |
+| CAR - Causal Analysis and Resolution         | Not at all | Partially | Unknown |
 | OPM - Organizational Performance Management  | Partially | Not at all | Not at all |
 
 ## Scrum
@@ -201,7 +201,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
-| CM                | Unknown | There is no information found on how configuration management was dealth with during the HealthCare.gov project.           |
+| CM                | Unknown | There is no information found on how configuration management was dealt with during the HealthCare.gov project.           |
 | MA                | Not at all | Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMs did not keep adequate track of records [IHBEAT]. This indicates that there were no processes defined on how to measure aspects of the project and report them to the relevant parties.             |
 | PMC               | Not at all | There were a number of the issues found early in the project's lifecycle during audits, such as how there was not enough time allotted to test the system. The fact that these issues persist even after the launch of the site indicated that there was little to no control methods in place [POLI]. Scheduling timely internal audits would have likely aided the project.            |
 | PP                | Partially | CMS established a clear plan with deadlines but the organization did not actively maintain these plans throughout the project [GAOR].        |
@@ -218,13 +218,13 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was. [GAO2]     |
 | RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies. [GAO2]         |
 | TS                | Unknown |            |
-| VAL               | Unknown |            |
+| VAL               | Partially | CMS defined a testing framework that was to establish a consistent, repeatable CMS testing life-cycle process for validation of product components. [GAO1] It is not clear how this framework maps on CMMi. |
 | VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also test documentation was missing key elements. [GAO1]           |
 | **Level 4**                              |
 | OPP               | Unknown |            |
-| QPM               | Unknown |            |
+| QPM               | Unknown | There is no information found on how this process area was dealt with during the HealthCare.gov project.           |
 | **Level 5**                              |
-| CAR               | Unknown |            |
+| CAR               | Unknown | There is no information found on how this process area was dealt with during the HealthCare.gov project.  |
 | OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
 
 ## Conclusion
@@ -240,7 +240,7 @@ Scrum and RUP are primarily designed to be software methodologies so they are la
 This is understandable because CMMI is intended to measure the maturity of organizations. 
 So any organizations which base their processes on Scrum or RUP would need to supplement the them with more supporting processes.
 
-It was difficult to obtain knowledge about the implementation of the CMMi process areas within HealthCare.gov. For that, most of the analysis of the different areas was based on outcome and results. For the lead contracter CGI Federal we know that they obtained CMMi level 5 in 2012 [CGI5]. However, they were one contractor out of 55 which were all under the supervision of the CMS.
+It was difficult to obtain knowledge about the implementation of the CMMi process areas within HealthCare.gov. For that, most of the analysis of the different areas was based on outcome and results. From that we can not conclude whether the lack of a defined process was the cause of the problems at HealthCare.gov or the failure to follow that process. For the lead contracter CGI Federal we know that they obtained CMMi level 5 in 2012 [CGI5]. However, they were one contractor out of 55 which were all under the supervision of the CMS.
 
 ## References TODO: Figure out where to put these
 
