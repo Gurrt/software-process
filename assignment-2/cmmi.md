@@ -70,6 +70,10 @@ The purpose of Requirements Development (RD) is to produce and analyze customer,
 
 The purpose of Risk Management (RSKM) is to identify potential problems before they occur so that risk-handling activities can be planned and invoked as needed across the life of the product or project to mitigate adverse impacts on achieving objectives.
 
+#### Technical Solution
+
+The purpose of Technical Solution (TS) is to select design and implement solutions to requirements. Solutions, designs, and implementations encompass products, product components, and product related lifecycle processes either singly or in combination as appropriate.
+
 #### Validation
 
 The purpose of Validation (VAL) is to demonstrate that a product or product component fulfills its intended use when placed in its intended environment.
@@ -119,7 +123,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | PI - Product Integration                     | Partially | Fully | |
 | RD - Requirements Development                | Partially | Fully | |
 | RSKM - Risk Management                       | Not at all | Fully | |
-| TS - Technical Solution                      | | | |
+| TS - Technical Solution                      | | Partially | Partially |
 | VAL -  Validation                            | Partially | Fully | |
 | VER -  Verification                          | Partially | Fully | |
 | **Maturity Level 4 - Quantitatively Managed**      |
@@ -150,7 +154,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | PI   | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
 | RD   | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. The responsibility of creating these user stories is entirely delegated to the Product Owner. Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them in requirements.           |
 | RSKM | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
-| TS   | | 
+| TS   | Partially | Scrum does not address the consideration and selection of alternative solutions. The design of solutions is left to the development team and takes place during sprints. Scrum offers no guidance in how to create these designs. Implementation and testing of components is covered in the sprint phase of Scrum. |
 | VAL  | Partially | A form of validation is done through the Sprint Review in which the product is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
 | VER  | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
 | **Level 4**                              |
@@ -223,29 +227,13 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | CAR               | unknown |            |
 | OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
 
-## CMMi coverage of Scrum and RUP
+## Conclusion
 
 |            | Scrum | RUP |
 | -----------|-------| --- |
 | Not at all | 8     | 7   |
-| Partially  | 11    | 5   |
+| Partially  | 12    | 5   |
 | Fully      | 2     | 10  |
-
-
-## Week 2 notes
-
-Some quotes:
-
-> Jim Johnson, the founder the Standish Group, which has a database of some 50,000 development projects, said "the problem with processes and tools is they leave out leadership, they try to create a cookbook that people can follow, but eliminate the leadership part of it."
-> Having the right leadership, environment, executive sponsors, and agile process are among the things that Johnson said he would make sure are in place before looking at CMMI. 
-
-http://www.computerworld.com/article/2487088/enterprise-architecture/the-firm-behind-healthcare-gov-had-top-notch-credentials----and-it-didn-t-he.html
-
-
-http://www.gao.gov/assets/670/668834.pdf
-
-
-## Conclusion
 
 Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMI maturity levels.
 This is understandable because CMMI is intended to measure the maturity of organizations. 
