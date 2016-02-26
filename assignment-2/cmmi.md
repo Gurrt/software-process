@@ -181,7 +181,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | PI                | Fully | RUP addresses product integration through its implementation, test and deployment workflows.            |
 | RD                | Fully | Mainly through its requirements workflow RUP provides good support for understanding stakeholder needs, produce and refine requirements and manage change requests. |
 | RSKM              | Fully | RUP itself is a risk driven development process. It aims to indentify as many risks as possible and to tackle them in an early phase (elaboration) of the project.            |
-| TS   | | 
+| TS   | Partially | RUP offers good support in this area. The devopment, design and implementation of solutions are covered in the Analysus & Design workflow. Product components and their documentation are implemented through the Implementation and Deployment workflows. However, RUP does not explicitly cover the consideration and selection criteria for alternative solutions.
 | VAL  | Fully | In RUP, validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
 | VER  | Fully | Verification is also covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
 | **Level 4**|
@@ -228,7 +228,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 |            | Scrum | RUP |
 | -----------|-------| --- |
 | Not at all | 8     | 7   |
-| Partially  | 11    | 4   |
+| Partially  | 11    | 5   |
 | Fully      | 2     | 10  |
 
 
