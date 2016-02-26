@@ -122,10 +122,10 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | OT - Organizational Training                 | Not at all | Not at all | |
 | PI - Product Integration                     | Partially | Fully | Not at all |
 | RD - Requirements Development                | Partially | Fully | Unknown |
-| RSKM - Risk Management                       | Not at all | Fully | |
+| RSKM - Risk Management                       | Not at all | Fully | Not at all |
 | TS - Technical Solution                      | Partially | Partially |  |
 | VAL -  Validation                            | Partially | Fully | |
-| VER -  Verification                          | Partially | Fully | |
+| VER -  Verification                          | Partially | Fully | Partially |
 | **Maturity Level 4 - Quantitatively Managed**      |
 | OPP - Organizational Process Performance     | Partially | Not at all | |
 | QPM - Quantitative Project Management        | Not at all | Not at all | |
@@ -216,10 +216,10 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | OT                | Unknown |            |
 | PI                | Not at all | CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components. [LEVINSON2]    |
 | RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was. [GAO2]     |
-| RSKM              | Unknown |            |
+| RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies. [GAO2]         |
 | TS                | Unknown |            |
 | VAL               | Unknown |            |
-| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co.            |
+| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also test documentation was missing key elements. [GAO1]           |
 | **Level 4**                              |
 | OPP               | Unknown |            |
 | QPM               | Unknown |            |
@@ -270,7 +270,7 @@ It was difficult to obtain knowledge about the implementation of the CMMi proces
 
 [LEVINSON2] Levinson, Daniel. "Federal Marketplace: Inadequacies in Contract Planning and Procurement", January 2015, Report.
 
-[GAO] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
+[GAO1] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
 
 [GAO2] "Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014, Report.
 http://www.gao.gov/assets/670/665179.pdf
