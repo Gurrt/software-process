@@ -120,10 +120,10 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | OPD - Organizational Process Definition      | Not at all | Not at all | Not at all |
 | OPF - Organizational Process Focus           | Partially | Partially | Not at all |
 | OT - Organizational Training                 | Not at all | Not at all | |
-| PI - Product Integration                     | Partially | Fully | |
-| RD - Requirements Development                | Partially | Fully | |
+| PI - Product Integration                     | Partially | Fully | Not at all |
+| RD - Requirements Development                | Partially | Fully | Unknown |
 | RSKM - Risk Management                       | Not at all | Fully | |
-| TS - Technical Solution                      | | Partially | Partially |
+| TS - Technical Solution                      | Partially | Partially |  |
 | VAL -  Validation                            | Partially | Fully | |
 | VER -  Verification                          | Partially | Fully | |
 | **Maturity Level 4 - Quantitatively Managed**      |
@@ -209,35 +209,38 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | REQM              | Not at all | There was a complete lack of adequate requirements tracking and management, as contractors reported requirements changing up until several weeks before the launch of the website [NYTIMES].             |
 | SAM               | Partially | Formal agreements were in place to manage contractors, but these had a lack of quality control measures. Furthermore, the employees responsible for the awarding contracts were inexperienced. CMS did not comply with a federal rule requiring employees who oversee contracts worth more than $10 million to receive 96 hours of training [IHBEAT].            |
 | **Level 3**           |
-| DAR               | unknown | No information could be found on how this was performed during the project.           |
+| DAR               | Unknown | No information could be found on how this was performed during the project.           |
 | IPM               | Partially | CMS was responsible for the project but it was clear that organization lacked the necessary experience to have a standard processes in place for stakeholder involvement and project management.              |
 | OPD               | Not at all | The large amount of parties associated with the development of HealthCare.gov made this close to impossible to achieve and there were no processes in place to deal with this.            |
 | OPF               | Not at all | The project had a clear of leadership and no clear decision-maker [HOTA].            |
-| OT                | unknown |            |
-| PI                | unknown | CMS assumed the role of systems integrator [CHAMERS, page 6]           |
-| RD                | unknown |            |
-| RSKM              | unknown |            |
-| TS                | unknown |            |
-| VAL               | unknown |            |
+| OT                | Unknown |            |
+| PI                | Not at all | CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components. [LEVINSON2]    |
+| RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was. [GAO2]     |
+| RSKM              | Unknown |            |
+| TS                | Unknown |            |
+| VAL               | Unknown |            |
 | VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co.            |
 | **Level 4**                              |
-| OPP               | unknown |            |
-| QPM               | unknown |            |
+| OPP               | Unknown |            |
+| QPM               | Unknown |            |
 | **Level 5**                              |
-| CAR               | unknown |            |
+| CAR               | Unknown |            |
 | OPM               | Not at all | CMS was responsible to oversee the performance of subcontractors but did this inadequate according to Office of Inspector General. [LEVINSON] |
 
 ## Conclusion
 
-|            | Scrum | RUP |
-| -----------|-------| --- |
-| Not at all | 8     | 7   |
-| Partially  | 12    | 5   |
-| Fully      | 2     | 10  |
+|            | Scrum | RUP | HealthCare.gov |
+| -----------|-------| --- | -------------- |
+| Not at all | 8     | 7   |                |
+| Partially  | 12    | 5   |                |
+| Fully      | 2     | 10  |                |
+| Unknown    | 0     | 0   | 2              |
 
 Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMI maturity levels.
 This is understandable because CMMI is intended to measure the maturity of organizations. 
 So any organizations which base their processes on Scrum or RUP would need to supplement the them with more supporting processes.
+
+It was difficult to obtain knowledge about the implementation of the CMMi process areas within HealthCare.gov. For that, most of the analysis of the different areas was based on outcome and results. For the lead contracter CGI Federal we know that they obtained CMMi level 5 in 2012 [CGI5]. However, they were one contractor out of 55 which were all under the supervision of the CMS.
 
 ## References TODO: Figure out where to put these
 
@@ -264,3 +267,12 @@ So any organizations which base their processes on Scrum or RUP would need to su
 [LEVINSON] Levinson, Daniel. “CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms”, Office of Inspector General, September 2015, Report.
 
 [CHAMERS] Chambers & Associates Pty Ltd, Case Study Saving Obamacare. 
+
+[LEVINSON2] Levinson, Daniel. "Federal Marketplace: Inadequacies in Contract Planning and Procurement", January 2015, Report.
+
+[GAO] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
+
+[GAO2] "Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014, Report.
+http://www.gao.gov/assets/670/665179.pdf
+
+[CGI5] "CGI’s Federal Health and Compliance Programs Business Unit becomes 10th in the United States to achieve CMMI® Development Maturity Level 5 rating", https://www.cgi.com/en/CGI-Federal-Health-Compliance-Programs-Business-Unit-achieves-CMMI-Development-Maturity-Level-5-rating
