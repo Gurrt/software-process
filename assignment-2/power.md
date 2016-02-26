@@ -151,7 +151,9 @@ Scrum puts a lot of emphasis on leaving the control to the development team.
 Since Scrum does not ensure that a combination of the four levers of control is utilized properly, a project done with Scrum can still fail, due to a lack of, or the wrong application of control (the same examples given by Simons apply[Simons]).
 Scrum teams have 
 ##RUP
-// TODO
+###Power in RUP
+Because RUP has six specific engineering disciplines, it limits the power of the individual, you only have power to make decisions concerning the discipline you are in.
+Because of this specialization, you can exert increased influence using expertise, as described in French and Raven's five bases of power [French].
 
 #Sources
 [Ariely] Dan Ariely, Emir Kamenica, Drazen Prelec [Man’s search for meaning: The case of Legos](http://faculty.chicagobooth.edu/emir.kamenica/documents/meaning.pdf) Journal of Economic Behavior & Organization 67 (2008) 671–677.
@@ -167,3 +169,5 @@ Scrum teams have
 [Uzonna] Ukaejiofo Rex Uzonna [Impact of motivation on employees' performance: A case study of CreditWest Bank Cyprus](http://www.academicjournals.org/article/article1380794547_Ukaejiofo.pdf) Journal of Economics and International Finance Vol 5 August 2013 199-211
 
 [Simons] Robert Simons [Control in an age of empowerment](https://hbr.org/1995/03/control-in-an-age-of-empowerment)Harvard Business Review (1995)
+
+[French] John R. P. French, Bertram Raven [The Bases of Social Power](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/French_&_Raven_Studies_Social_Power_ch9_pp150-167.pdf)
