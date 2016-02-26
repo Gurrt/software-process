@@ -1,8 +1,3 @@
-*Please update sources below to the complete citation (cite via Google Scholar, I prefer the APA standard, copy/paste). And are we *really* going to cite Wikipedia? I think it is not a good idea.* ~ Job
-
-----------
-
-
 * [1] Paul T. Bartone and Linton Wells II "Understanding and Leading Porous Network Organizations" An Analysis Based on the 7S Model 
 * [2] Wiki, ["McKinsey 7S Framework".](https://en.wikipedia.org/wiki/McKinsey_7S_Framework).
 * [3] Henrik Kniberg & Anders Ivarsson, [ Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds](https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf).
@@ -29,3 +24,7 @@
 [12] Spotify, [Spotify Engineering Culture - part 1](https://vimeo.com/user14023874/spotify-engineering-culture-part1).
 
 [13] Dan Pink, [The science of human motivation](https://youtu.be/rrkrvAUbU9Y?list=PLjzx_gymL6dPiP6c9YlA96dT8beeAehXe).
+
+**HealthCare.gov:**
+
+[14] Anthopoulos, L., Reddick, C. G., Giannakidou, I., & Mavridis, N. (2015). Why e-government projects fail? An analysis of the Healthcare. gov website. Government Information Quarterly.
