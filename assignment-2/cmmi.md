@@ -1,6 +1,6 @@
 # CMMI
 
-In this section we examine to which extent the various CMMi Development process areas are covered in Scrum, RUP and HealthCare.gov. For this we used the CMMi for Development report. The analysis of Scrum is based the content in the Scrum Guide [SGUIDE]. Likewise the analysis of RUP is based on the RUP book [RUPBOOK]. 
+In this section, we examine to which extent the various CMMi Development process areas are covered in Scrum, RUP and HealthCare.gov. For this, we used the CMMi for Development report. The analysis of Scrum is based the content in the Scrum Guide [SGUIDE]. Likewise the analysis of RUP is based on the RUP book [RUPBOOK]. 
 
 > Note to document integrators: The Process Area Descriptions may be moved to an appendix.
 
@@ -106,7 +106,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 ## Analysis Overview
 
-| Cmmi Process Area | Scrum | RUP | HealtCare.gov |
+| CMMi Process Area | Scrum | RUP | HealtCare.gov |
 | ------------------| ----- | --- | ------------- |
 | **Maturity Level 2 - Managed**                |
 | CM - Configuration Management                | Not at all | Fully      | Unknown    |
@@ -137,7 +137,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 ## Scrum
 
-| Cmmi Process Area | Covered | Rationale  |
+| CMMi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
 | CM                | Not at all | There is no explicit mention of this in Scrum. CM is important to software development thus this leads to it becoming the task of the Scrum team having to figure out how to perform it. However, CM can become bigger than just one project and then it is subsequently and organization level concern which can put it out of the scope of Scrum.             |
@@ -168,7 +168,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 ## RUP
 
-| Cmmi Process Area | Covered | Rationale  |
+| CMMi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
 | CM                | Fully | RUP's configuration and change management workflow covers configuration identification, configuration control, configuration status accounting, and configuration audits.             |
@@ -200,7 +200,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 ## HealthCare.gov
 
 
-| Cmmi Process Area | Covered | Rationale  |
+| CMMi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
 | CM                | Unknown | There is no information found on how configuration management was dealt with during the HealthCare.gov project.           |
@@ -231,8 +231,8 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 
 ## Conclusion
 
-Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMI maturity levels.
-This is understandable because CMMI is intended to measure the maturity of organizations. 
+Scrum and RUP are primarily designed to be software methodologies so they are lacking when they are being measured in terms of the CMMi maturity levels.
+This is understandable because CMMi is intended to measure the maturity of organizations. 
 So any organizations which base their processes on Scrum or RUP would need to supplement the them with more supporting processes. Furthermore, we find that RUP has a better coverage of CMMi than Scrum and that for both methodologies the coverage is spread among the different CMMi levels. Since both Scrum and RUP miss some process areas in level 2, (e.g. Supplier Agreement Management) this means that both are CMMi level 1 compliant.
 
 |              | Scrum | RUP | HealthCare.gov |
