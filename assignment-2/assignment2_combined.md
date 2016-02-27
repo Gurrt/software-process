@@ -635,6 +635,12 @@ Other than the composition of Scrum teams, Scrum does not define how an organiza
 Because RUP has six specific engineering disciplines, it limits the power of the individual, you only have power to make decisions concerning the discipline you are in.
 Because of this specialization, you can exert increased influence using expertise, as described in French and Raven's five bases of power [50].
 
+# 5.0 Conclusion
+
+[TODO...]
+
+[This is important. In the last report there were not any final lessons or takeaways. Please think about this and update]
+
 # References
 
 ## CMMi
