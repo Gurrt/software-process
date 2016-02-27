@@ -21,13 +21,15 @@ The construction of HealthCare.gov was overseen by Centers for Medicare and Medi
 #####CGI
 CGI Federal was the main contractor of the HealtCare.gov project who was awarded with the Federally Facilitated Marketplace (FFM) contract on September 30, 2011 [Levinson]. The FFM supports according to CMS [11] the following functions: Eligibility & Enrollment, Plan Management, Small Business Health Options Program (SHOP) Application, Financial Management and Consumer Support. 
 
-#####OIG 
+#####Office of Inspector General 
 Office of Inspector General (OIG) is an office that is part of Cabinet departments and independent agencies of the Federal government of the United States as well as some state and local governments. Each office includes an Inspector General and employees charged with identifying, auditing, and investigating fraud, waste, abuse, and mismanagement within the parent agency. [12]
 
 
 
 ###Control & Power
-As already was stated CMS was responsible for the overall coordination and planning of the HealtCare.gov project. But it did fail according to reports [] of the office of inspector general.
+
+####Failure of CMS
+As already was stated CMS was responsible for the overall coordination and planning of the HealtCare.gov project. But it did fail according to reports [1] [3] [13] of the office of inspector general.
 
 When looking at the budget we see that it grew continuosly. According to the OIG report [13] the original budget for CGI was $93.7 million, however this grew to $292 million prior to launch of the website. While estimates that the overall cost for building the website had reached over $500 million prior to launch, the Office of Inspector General released a report finding that the total cost of the HealthCare.gov website had reached $1.7 billion. 
 
@@ -35,14 +37,14 @@ According to one report [1] there were inadequacies in contract planning and pro
 
 The office of inspector general Daniel Levinson states in another report [3] that CMS did not alway manage and oversee the contractor performance. The main problem according to this report is the lack of control on the contract deliverables.
 
-The CMS did not always provide adequate contract management and oversight for Federal marketplace contracts. For example a report of the OIG states [http://oig.hhs.gov/oas/reports/region3/31403001.pdf page 4]:
+For example the CMS did not always provide adequate contract management and oversight for Federal marketplace contracts. For example a report of the OIG states [3, page 4]:
 
 <i>“The FFM contract awarded to CGI Federal on September 30, 2011, required the contractor to provide a quality assurance surveillance plan within 45 days of contract award. The plan provides a systematic and structured process for the Government to evaluate the services the contractor will provide, including but not limited to processes, methods, metrics, customer satisfaction surveys, service-level agreements, and operational level agreements. The contractor’s January 2012 status reports showed that the contractor provided its plan on January 19, 2012, more than 2 months after it was required. CMS officials were unable to show us the plan and said that they never received it. The contracting officer’s representative had not questioned the accuracy of the January 2012 status report. " </i>
 
-Not only the IOG states that CMS didn’t handle the project well. Journalists David Perera and Sean Gallagher speculated that CMS was ill-suited to the task of coordinating all the contractors. Social activist and technologist Clay Johnson later said that the federal government had issues come up given that it "leans towards a write-down-all-the-requirements-then-build-to-those-requirements type of methodology" not well suited to current IT[19]
+Not only the IOG states that CMS didn’t handle the project well. Journalists David Perera and Sean Gallagher speculated that CMS was ill-suited to the task of coordinating all the contractors. Social activist and technologist Clay Johnson later said that the federal government had issues come up given that it "leans towards a write-down-all-the-requirements-then-build-to-those-requirements type of methodology" not well suited to current IT [19].
 
 
-#######Culture: Alienative, Calculative vs. Moral involvement
+####Culture: Alienative, Calculative vs. Moral involvement
 Etzioni [6] [7] developed the compliance theory. He classifies organizations by the type of power they use to direct the behavior of their members and the type of involvement of the participants. He identified three types of organizational power: coercive, utilitarian, and normative, and relates these respectively to three types of involvement: alienative, calculative, and moral.  
 
 Robert Kennedy states [8] that people working for the HealthCare.gov project were afraid of being fired because of a mistake this seems to match with a coercive use of power described by Etzioni. According to Etzioni this means that the employees usually react to the organization with hostility, which is alienative involvement.
@@ -51,21 +53,29 @@ According to Robert Kennedy [8] a Google employee that worked in is free time in
 
 It seems that this culture of fear resulted that on vital reports were not reacted on the right way. For example on April 4, 2013 a 15-page document by McKinsey & Co. warns among others the CMS administrator that there was insufficient end-to-end testing and advises that a limited initial launch of the website would be ideal. This reports surfaced only half November 2013. One and a half month after the lauch. The advise in this report was not followed, because there were only two weeks of end-to-end testing before the launch took place for all the users and there was no limited initial lauch. Also other reports and warnings were discarded like that the website as of September 30 could handle only about 1100 users at a time, even though officials have said it should have been able to accomodate perhaps as many as 60,000 users. It seems that people were afraid to be fired or were afraid that the Republicans would use such reports to try to delay or cancel the whole project and with that the whole Obamacare bill.
 
-
 Robert Kennedy [8] also stated that he met with an employee of one of the site contractors who was in charge of software “security.” When he asked her which penetration threats she had prepared for, she responded that she didn’t think about such things: she was in charge of “risk assessment.”. In contractor terms, that meant the risk of government contract nonfulfillment. She saw that her job was to ensure that a software audit confirmed that the software was “secure” as defined in the contract. So the overall security objective was not to make sure that the system was difficult to hack, but that the contractual terms were met.
 
-######Intervention
-The question that you could ask is after reading the analysis is why did not someone intervine? This is not a question that I can answer, but I can speculate about this with the information we have.
+####Intervention
+The question that you could ask is after reading the previous part is: why does someone does not intervine and ends the project or replaces contractors? This is not a question that I can answer, but I can speculate about this with the information we have.
 
+####So who is really control?
 My speculation is that there was a political will and power to make Obamacare a success. Therefore everything was put into place to get the HealtCare.gov system up and running as soon as possible. The costs were not a priority and issues about for example performance were neglected. The Democrats wanted to get system to work on 1 October 2013. I think it is an achievement that there was some kind of a workable system created in two years time with so many parties involved. Because after the Obamacare was signed it took one and a half year before CGI Federal got the FFM contract. To get a project of this magnitude finished in two years is very challenging if not impossible. 
 
-In 2014 the contract of CGI Federal was not extended and they were replaced by Accenture Federal on 2014, February 28 [14]. But why did Accenture replaced CGI? “Marilyn Tavenner, the CMS administrator, and Kathleen Sebelius, the U.S. health secretary, each told Congress in hearings late last year that CGI had failed to meet expectations under its contract.” [21]. But is it a good choice replacing one big consultancy company with another? Accenture did led construction of California’s better-performing state system [21]. According to a blog of Luke Chung [20] big government contractors like CGI and Accenture are to big to be fired. Also the have no accountabillity according to Chung. ”The large companies can deflect the blame and legally challenge any attempt to hold them accountable”. Chung also states: “What happened with Healthcare.gov is exactly what our system encourages contractors to do. Had the contractors finished on time and properly, they would have made less money than delivering a flawed system.”. This problem also occurs in the Netherlands. A documentary called “the spaghetticode” [22] is about failed IT-projects. One case that is mentioned in this documentary is about a big consultancy company called Cap Gemini. The assignment was to modernize a system for one of the agencies of the department of Social Affairs called the SVB. The system that needed to be modernized is responsible for payment of allowances and retirement. The conclusion is that the government finally pulls the plug out of the system without it functioned one day. Curiously, the Capgemini bills are simply paid. The damage: tens of millions of euros of taxpayers' money seem to have disappeared. 
+In 2014 the contract of CGI Federal was not extended and they were replaced by Accenture Federal on 2014, February 28 [14]. But why did Accenture replaced CGI? “Marilyn Tavenner, the CMS administrator, and Kathleen Sebelius, the U.S. health secretary, each told Congress in hearings late last year that CGI had failed to meet expectations under its contract.” [21]. But is it a good choice replacing one big consultancy company with another? Accenture did led construction of California’s better-performing state system [21]. According to a blog of Luke Chung [20] big government contractors like CGI and Accenture are to big to be fired. Also the have no accountabillity according to Chung. ”The large companies can deflect the blame and legally challenge any attempt to hold them accountable”. Chung also states: “What happened with Healthcare.gov is exactly what our system encourages contractors to do. Had the contractors finished on time and properly, they would have made less money than delivering a flawed system.”. This kind of situations also occur in the Netherlands. A documentary called “the spaghetticode” [22] is about failed IT-projects. One case that is mentioned in this documentary is about a big consultancy company called Cap Gemini. The assignment was to modernize a system for one of the agencies of the department of Social Affairs called the SVB. The system that needed to be modernized is responsible for payment of allowances and retirement. The conclusion is that the government finally pulls the plug out of the system without it functioned one day. Curiously, the Capgemini bills are simply paid. The damage: tens of millions of euros of taxpayers' money seem to have disappeared. 
 
-But did the government learned from his failure? 
+####Is the power in balance?
+My point of view is that it is not. CMS has to do what the Obama administration tells them to do and follow their political agenda. Even dispite all warnings [1] [3] and even if it is impossible to get it done. Shouldn’t it be possible for the CMS to say to politican: “no, we can’t”? 
 
-I think first of all that the needs to be culture were people can make mistakes and don’t get fired or get the feeling the will. Next to that I think that the risks of projects needs to be put more at the contractor side. I don’t know if this is the case for FFM contract with Accenture.
+######Knowledge is power
+From all the sources in read (see references below) I get the idea that CMS and politicans are experts in legislation, but know litte about IT. On the other hand the contractors are experts in IT (or you expect them to be). If you take the maxim “knowledge is power”, then you could argue that the contractors have a big advantage towards the government. 
 
-From my experience in the past as an employee of Accenture and reading all the HealthCare.gov reports I come to the conclusion that when tendering a big IT government project always the usual suspects pop up: Accenture, CGI, Atos, Capgemini [23]. There is little competition. I think it will benefit the government if it changes the tender process so that there will be more competitors. Especially if these contractors focus on delivering software that works(functional, performance, etcetera wise) instead of just delivering what the requirements tell to do and charging extra money for everything extra you didn’t think of. Another way is that the government is stating there requirements better, but I think this doesn’t happen because the don’t have IT-experience to know which security risk are out there.
+####Did the government learned from his failure? 
+
+I can’t tell because I do not have enough information. But here are my thoughts. Robert Kennedy [8] noted that there was a culture of fear. According to the complaince theory of Etzoini [7] this will create a hostile environment. My thought is that in a hostile environment people can not work optimal, because they bussy first feeling them save and cover up the mistakes the made. This is also what Robert Kennedy noticed [8]. I don’t know if the culture is changing within the U.S. government, but I argue that the use of more calculative and normative power as Etzoini calls it [7] will be beneficial. 
+
+Next to that I think that the risks of projects needs to be put more at the contractor side. I don’t know if this is the case for FFM contract with Accenture.
+
+From my experience in the past as an employee of Accenture and reading all the HealthCare.gov reports, I see a certain pattern. The pattern is that at the end of a tender of a big IT government project always the usual suspects pop up as the winners like Accenture, CGI, Atos, Capgemini [23]. There seems to be little competition. I think it will benefit the government if it changes the tender process so that there will be more competitors. Especially if these contractors focus on delivering software that works(functional, performance, etcetera wise) instead of just delivering what the requirements tell to do and charging extra money for everything extra you didn’t think of. Another way is that the government is stating there requirements better, but I think this doesn’t happen because the don’t have IT-experience to know which security risk are out there.
 
 
 ###REFERENCES
@@ -80,17 +90,19 @@ From my experience in the past as an employee of Accenture and reading all the H
 [6] Etzioni, A. (1975). A comprehensive analysis of complex organizations (rev. ed.). New York, NY: Free Press. 
 [7] Etzioni, A. (1997). Modern organizations. Englewood Cliffs, NJ: Prentice Hall.
 
-[8] [The Failure of HealthCare.gov Exposes Silicon Valley Secrets] (https://pdfs.semanticscholar.org/4b50/4337ca7cee8f5e6916e46832550f1f60088d.pdf)
+[8] [The Failure of HealthCare.gov Exposes Silicon Valley Secrets, Charles Petrie, (August 30, 2014)] (https://pdfs.semanticscholar.org/4b50/4337ca7cee8f5e6916e46832550f1f60088d.pdf)
 
 [9] [Joseph, Cameron (October 9, 2013). "Heritage Action leader: Paul Ryan's shutdown offer off-target". The Hill.](http://thehill.com/blogs/ballot-box/house-races/327469-conservative-leader-paul-ryans-shutdown-offer-off-target) 
 
 [10] [Miller, Zeke J (September 30, 2013). "Hidden Hand: How Heritage Action Drove DC To Shut Down". Time.] (http://swampland.time.com/2013/09/30/hidden-hand-how-heritage-action-drove-dc-to-shut-down/)
-[11] https://www.cms.gov/CCIIO/Resources/Fact-Sheets-and-FAQs/ffe.html
-[12] https://www.ignet.gov/sites/default/files/files/IG_Authorities_Paper_-_Final_6-11-14.pdf
 
-[13]"An Overview of 60 Contracts That Contributed to the Development and Operation of the Federal Marketplace". 
+[11] [CMS, “Federal Marketplace Progress Fact Sheet”] (https://www.cms.gov/CCIIO/Resources/Fact-Sheets-and-FAQs/ffe.html)
 
-[14] http://finance.yahoo.com/news/accenture-chosen-lead-contractor-obamacare-website-government-220550193--sector.html
+[12] [Inspector General, “IG_Authorities_Paper”, (July 14, 2014)] (https://www.ignet.gov/sites/default/files/files/IG_Authorities_Paper_-_Final_6-11-14.pdf)
+
+[13] [Levinson, Daniel. “An Overview of 60 Contracts That Contributed to the Development and Operation of the Federal Marketplace”. Office of Inspector General, August 2014, Report.] (http://oig.hhs.gov/oei/reports/oei-03-14-00231.pdf)
+
+[14] [Yahoo News “Accenture named lead contractor for Obamacare website: government”] (http://finance.yahoo.com/news/accenture-chosen-lead-contractor-obamacare-website-government-220550193--sector.html)
 
 
 [19]  ["How Healthcare.gov Went Wrong". dobt.co.] (http://blog.dobt.co/2013/10/10/how-healthcare-gov-went-wrong/)
@@ -103,7 +115,6 @@ From my experience in the past as an employee of Accenture and reading all the H
 
 [23] [Consultancy.uk, “Consultancy Fees & Rates"](http://www.consultancy.uk/consulting-industry/fees-rates)
 
-According to [http://oig.hhs.gov/oas/reports/region3/31403001.pdf page 1] CMS relied extensively on contractors to create and operate the Federal marketplace. Among others, CMS contracted with CGI Federal, Inc., for the Web site and other functions supporting the federally-facilitated marketplace (FFM), Quality Software Services, Inc., for the Federal Data Services Hub (the Hub), and IDL Solutions, Inc., for the Multidimensional Insurance Data Analytics System (MIDAS). 
 
 
 
