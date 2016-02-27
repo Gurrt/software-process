@@ -162,7 +162,7 @@ Scrum puts a lot of emphasis on leaving the control to the development team.
 Since Scrum does not ensure that a combination of the four levers of control is utilized properly, a project done with Scrum can still fail, due to a lack of, or the wrong application of control (the same examples given by Simons apply[Simons]).
 
 ###Learning organizations and Scrum
-Peter Senge defines five disciplines of a learning organization[].
+Peter Senge defines five disciplines of a learning organization[Senge].
 - Systems thinking
 - Personal mastery
 - Mental models
