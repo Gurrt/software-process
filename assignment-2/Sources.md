@@ -42,7 +42,7 @@
 
 [16] Chambers & Associates Pty Ltd (2014, March), [Case Study Saving Obamacare](http://www.chambers.com.au/public_resources/case_study/obamacare/saving-obamacare-case-study.pdf).
 
-[18] LaFraniere, S., & Lipton, E. (2013). [Officials were warned about health site woes](http://www.nytimes.com/2013/11/19/us/politics/administrationopen-to-direct-insurance-company-signups.html?pagewanted=all&_r=0).
+[18] LaFraniere, S., & Lipton, E. (2013). [Officials were warned about health site woes](http://www.nytimes.com/2013/11/19/us/politics/administration-open-to-direct-insurance-company-signups.html?pagewanted=all&_r=1).
 
 [19] Gillum, J., & Pace, J. (2013). [Obamacare website programmers complained about unrealistic deadlines](http://www.huffingtonpost.com/2013/10/22/obamacarewebsite-programmers_n_4141411.html).
 
