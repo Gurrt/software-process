@@ -1,5 +1,3 @@
-#Lean
-
 The LEAN methodology, also known as a *Toyota Production System*, is an
 engineering methodology which has its origin in the production method
 that Toyota used to produce its cars. Later, the book *The Goal* from
@@ -32,7 +30,7 @@ The waste is classified in three different types:
   the customer. *Muda* can be divided into two types: *muda* type I,
   which has no value for the customer but it is necessary for the
   manufacturing of the product; and *muda* type 2, which has no value
-  for the customer and it is not necessary either. The aim is to
+  for the customer and it is not necessary either. It aims to
   eliminate the *muda* type 2 but there is no straightforward way of
   doing it because of the variety of things that can be
   considered waste.
@@ -50,14 +48,14 @@ RUP (business modelling, requirements and analysis & design) take a long
 period and effort and, although they produce deliverables and artefacts,
 they are not the requested one by the client. This qualifies as *muda*
 type I, as it is a waste, but it is necessary. This waste does not exist
-on scrum. In scrum, the documentation is almost not existing or it is
+in scrum. In scrum, the documentation is almost not existing or it is
 very reduced based in the Agile Manifesto directives \[2\]. This means
 that the team does not produce any other deliverables but the product
 that the client requests.
 
 RUP also has more phases besides development. The early phases focus on
 having clear requirements and late ones focus on deployment and testing.
-This phases are also present in scrum but they happen in a different
+These phases are also present in scrum but they happen in a different
 way. In scrum, part of the requirements are gathered by the product
 owner from the clients and the other part is done by the developers
 during the sprints. The testing and deployment are also integrated
@@ -85,9 +83,10 @@ on it. This means that those teams would have each one their own *scrum
 master* who will act as facilitator and a *product owner* who will talk
 with the clients. This situation will lead to role duplicity which is
 not optimal at all. It is true that given the case, the scrum master and
-the product owner can be shared between different teams but it is not
-advised. RUP only has one management team which is an improvement in
-terms of waste over scrum.
+the product owner can be shared between different teams but if teams
+belong to different organisations or divisions will not happen. RUP only
+has one management team which is an improvement in terms of waste over
+scrum.
 
 Scrum also focuses on small iterations of the product: features are
 added iteration after iteration. The client then will not receive the
