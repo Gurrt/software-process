@@ -30,6 +30,8 @@
 
 [17] The guardian[Which is the best music streaming service?](http://www.theguardian.com/technology/2016/feb/16/which-is-the-best-music-streaming-service-spotify-apple-music).
 
+[22] The guardian [Spotify financial results show struggle to make streaming music profitable](http://www.theguardian.com/technology/2015/may/11/spotify-financial-results-streaming-music-profitable).
+
 **KLM:**
 
 [5] Web, ["KLM Management"](http://www.klm.com/corporate/nl/about-klm/management/).
