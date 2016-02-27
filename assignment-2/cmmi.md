@@ -140,7 +140,7 @@ The purpose of Organizational Performance Management (OPM) is to proactively man
 | Cmmi Process Area | Covered | Rationale  |
 | ------------------| ------- | ---------  |
 | **Level 2**           |
-| CM                | Not at all | There is no explicit mention of this in Scrum. CM is important to software development thus this leads to it becoming the task of Scrum team having to figure out how to perform it.             |
+| CM                | Not at all | There is no explicit mention of this in Scrum. CM is important to software development thus this leads to it becoming the task of Scrum team having to figure out how to perform it. However, CM can become bigger than just one project and then it is subsequently and organization level concern which can put it out of the scope of Scrum.             |
 | MA                | Partially | Scrum specifies some possible measurements such as team velocity but not for all of its process areas such direct insight into the quality of the work produced by a product owner.             |
 | PMC               | Partially | Scrum has the notion of sprint goals but not reaching them indicates that the goals are not realistic. There is also velocity which can be used to plan and determine if any form of attempted process improvement is adding any value. Scrum specifies that the Scrum master is responsible for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
 | PP                | Fully     | This is corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             |
