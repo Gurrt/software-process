@@ -132,10 +132,10 @@ the client. Both scrum and RUP have different objectives in their
 methodologies which they are optimised for and the over waste is not a
 priority for them.
 
-This are the resources I used. As this is more a
+***Note: This are the resources I used. As this is more a
 comparison/argumentation exercise, I did not need to cite many papers
 but the first two. The other 4 are papers that I read/consulted during
-the writing.
+the writing.***
 
 \[1\] https://doi.org/10.1016/j.ijpe.2010.07.024
 
