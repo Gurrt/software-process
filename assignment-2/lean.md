@@ -102,7 +102,7 @@ implementation phase. Scrum also requires to perform testing every
 iteration for the existing codebase, which RUP does only once the whole
 project is finished as part of their quality assurance..
 
-Iterative development has the problem also that requires to deliver
+Scrum development has the problem also that requires to deliver
 products constantly. This leads to a situation in which some operations
 need to be repeated every sprint when in RUP they only need to be
 performed once when the product is delivered. The backlog needs to be
@@ -119,8 +119,8 @@ directly taken off from it. RUP states that the final product delivered
 will be the one discussed during the design phases.
 
 In conclusion, both scrum and RUP are wasteful from the LEAN
-perspective. The wastes in scrum are related with the overhead that
-having different iterations of the product have attached to it and with
+perspective. The wastes in scrum are related with the overhead of small
+iterations of the product have attached  and with
 the delivery of incomplete products from the client point of view which
 still require testing and finalising. At certain point, depending of the
 definition of done for the product, the amount of waste can vary: an
