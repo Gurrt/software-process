@@ -645,32 +645,30 @@ Because of this specialization, you can exert increased influence using expertis
 
 ## CMMi
 
-[1] CMMI Product Team (2010), "CMMI for Development, Version 1.3" 
+[1] CMMI Product Team (2010), "CMMI for Development" Version 1.3" 
 
 [2] United States Government Accountability Office, "HEALTHCARE.GOV Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014. http://www.gao.gov/assets/670/665179.pdf  
 
-[3] Ballotpedia.org, "Healthcare.gov website rollout - Ballotpedia", 2016. [Online]. Available: https://ballotpedia.org/Healthcare.gov_website_rollout. [Accessed: 26- Feb- 2016].
+[3] Ballotpedia.org, "Healthcare.gov website rollout - Ballotpedia", 2016. https://ballotpedia.org/Healthcare.gov_website_rollout.
 
 [4] Ken Schwaber, Jeff Sutherland, “The Scrum Guide”, Scrum Alliance, 2013.
 
-[5] P. Kruchten, The rational unified process. Reading, Mass: Addison-Wesley,
-1999.
+[5] P. Kruchten, The rational unified process. Reading, Mass: Addison-Wesley, 1999.
 
-[6] Ihealthbeat.org, "Audit Details Lapses in CMS Oversight Prior to HealthCare.gov Launch - iHealthBeat", 2015. [Online]. Available: http://www.ihealthbeat.org/articles/2015/9/15/audit-details-lapses-in-cms-oversight-prior-to-healthcaregov-launch. [Accessed: 20- Feb- 2016].
+[6] Ihealthbeat.org, "Audit Details Lapses in CMS Oversight Prior to HealthCare.gov Launch - iHealthBeat", 2015. http://www.ihealthbeat.org/articles/2015/9/15/audit-details-lapses-in-cms-oversight-prior-to-healthcaregov-launch.
 
-[7] The New York Times, “From the Start, Signs of Trouble at Health Portal”,
-2013.
+[7] The New York Times, “From the Start, Signs of Trouble at Health Portal”, 2013.
 
-[8] HotAir.com, "A lack of leadership, not technological prowess, doomed the healthcare.gov launch - Hot Air", 2016. [Online]. Available: http://hotair.com/archives/2016/02/24/a-lack-of-leadership-not-technological-prowess-doomed-the-healthcare-gov-launch/. [Accessed: 26- Feb- 2016].
+[8] HotAir.com, "A lack of leadership, not technological prowess, doomed the healthcare.gov launch - Hot Air", 2016. http://hotair.com/archives/2016/02/24/a-lack-of-leadership-not-technological-prowess-doomed-the-healthcare-gov-launch/. 
 
-[9] Allen,J.(2013). Report warned of HealthCare.gov laws last spring. Retrieved from http:// www.politico.com/story/2013/11/report-warned-of-healthcaregov-flaws-last-spring-100037.html
+[9] Allen,J.(2013). Report warned of HealthCare.gov laws last spring. http:// www.politico.com/story/2013/11/report-warned-of-healthcaregov-flaws-last-spring-100037.html
 
-[10] Levinson, Daniel. “CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms”, Office of Inspector General, September 2015, Report.
+[10] Levinson, Daniel. “CMS Did Not Always Manage and Oversee Contractor Performance for the Federal Marketplace as Required by Federal Requirements and Contract Terms”, Office of Inspector General, September 2015.
 
 [11] CMS, "Affordable Care Act & the Marketplace", Webpage. 
 https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Affordable-Care-Act-and-the-Marketplace-page.html
 
-[12] United States Government Accountability Office, "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
+[12] United States Government Accountability Office, "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015. http://www.gao.gov/assets/670/668834.pdf
 
 ## Lean
 
