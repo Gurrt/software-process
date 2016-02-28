@@ -195,26 +195,26 @@ The waste is classified in three different types:
 
 The concept of waste is a traversal concept in other software
 development methodologies. *RUP* (Rational Unified Process) focuses on
-reducing risks and scrum focuses on delivering product. Both of them do
-not pay special attention to waste. Although scrum might look like aims
+reducing risks and Scrum focuses on delivering product. Both of them do
+not pay special attention to waste. Although Scrum might look like aims
 to reduce waste as they only focus on delivering a product, their focus
 is to deliver whichever is the cost. This may lead to sub-optimal
 practices.
 
-On one hand, RUP can be more wasteful than scrum. The early stages of
+On one hand, RUP can be more wasteful than Scrum. The early stages of
 RUP (business modeling, requirements and analysis & design) take a long
 period and effort and, although they produce deliverables and artifacts,
 they are not the requested one by the client. This qualifies as *muda*
 type I, as it is a waste, but it is necessary. This waste does not exist
-in scrum. In scrum, the documentation is almost not existing or it is
+in Scrum. In Scrum, the documentation is almost not existing or it is
 very reduced based in the Agile Manifesto directives [15]. This means
 that the team does not produce any other deliverables but the product
 that the client requests.
 
 RUP also has more phases besides development. The early phases focus on
 having clear requirements and late ones focus on deployment and testing.
-These phases are also present in scrum but they happen in a different
-way. In scrum, part of the requirements are gathered by the product
+These phases are also present in Scrum but they happen in a different
+way. In Scrum, part of the requirements are gathered by the product
 owner from the clients and the other part is done by the developers
 during the sprints. The testing and deployment are also integrated
 during the sprint instead in a separate phase. In RUP, the division of
@@ -222,7 +222,7 @@ the phases aims to reduce the risks in the project by specifying the
 details of the project ahead and making sure that the product has been
 properly deployed and tested. Although necessary, these phases add extra
 waste in terms of processes and management, instead of being integrated
-within the development. In scrum, this waste does not exist because it
+within the development. In Scrum, this waste does not exist because it
 is considered part of the development and it does not carry extra
 overhead due to being integrated into the development phase.
 
@@ -231,20 +231,20 @@ composed by requirement engineers who are not the developers who will
 implement the software during the implementation phase. This practice is
 sub-optimal because it leads to a situation in which there are
 intermediaries and artifacts between the clients and the team that will
-implement the product. In scrum, although the requirements are gathered
+implement the product. In Scrum, although the requirements are gathered
 by the *product owner*, the development team which will implement the
 product is involved in the creation of the backlog.
 
-On the other hand, scrum can be more wasteful than RUP. Scrum works with
-smalls teams and big projects require more than one scrum team working
-on it. This means that those teams would have each one their own *scrum
+On the other hand, Scrum can be more wasteful than RUP. Scrum works with
+smalls teams and big projects require more than one Scrum team working
+on it. This means that those teams would have each one their own *Scrum
 master* who will act as facilitator and a *product owner* who will talk
 with the clients. This situation will lead to role duplicity which is
-not optimal at all. It is true that given the case, the scrum master and
+not optimal at all. It is true that given the case, the Scrum master and
 the product owner can be shared between different teams but if teams
 belong to different organizations or divisions will not happen. RUP only
 has one management team which is an improvement in terms of waste over
-scrum.
+Scrum.
 
 Scrum also focuses on small iterations of the product: features are
 added iteration after iteration. The client then will not receive the
@@ -276,8 +276,8 @@ in the backlog and never make it into development, suffer changes or be
 directly taken off from it. RUP states that the final product delivered
 will be the one discussed during the design phases.
 
-In conclusion, both scrum and RUP are wasteful from the LEAN
-perspective. The wastes in scrum are related with the overhead of small
+In conclusion, both Scrum and RUP are wasteful from the LEAN
+perspective. The wastes in Scrum are related with the overhead of small
 iterations of the product have attached and with
 the delivery of incomplete products from the client point of view which
 still require testing and finalizing. At certain point, depending of the
@@ -286,7 +286,7 @@ extensive definition of done would include also testing and deployment,
 while other more relaxed could only include the coding. The wastes in
 RUP are related to extended design phases and creation of deliverables
 (design documents, requirements…) which are not the product requested by
-the client. Both scrum and RUP have different objectives in their
+the client. Both Scrum and RUP have different objectives in their
 methodologies which they are optimized for and the over waste is not a
 priority for them.
 
@@ -320,7 +320,7 @@ Further literature does not specify aspect like functional elements (e.g., sales
 ### 3.2.3 Systems
 
 How things get done? 
-according to [18], Spotify has a culture based on agile principles, that went down to Scum at early years, but some of the scrum practices were getting on the way so they decided to make them optional. Perhaps because they value agile principles more than scrum practices.
+according to [18], Spotify has a culture based on agile principles, that went down to Scum at early years, but some of the Scrum practices were getting on the way so they decided to make them optional. Perhaps because they value agile principles more than Scrum practices.
 All engineering happens in squads (preferably less than 8 members), they try to keep those squads loosely coupled and tightly aligned. The reasons why they use squads were hard to find, but perhaps they do it to attempt to minimize dependencies.
 They like cross-pollination instead of 'standardization', in order to spread knowledge, trends and tools between squads. It does not break the principle of 'isolated missions' because cross-pollination is used to spread the uses of tools like github for example. When there is no standard for the use of tools they can lose consistency. Despite this literature indicates that Spotify culture stands for flexibility and they found a happy balance.
 Their code is shared on an internal open source model. Again this can be an attempt to avoid dependencies.
@@ -435,7 +435,7 @@ The problem with this working structure is scale. Because of the (relative) auto
 
 The way how Spotify shares their knowledge within the organization is very interesting. On the lowest level the Squads have quite some freedom to experiment and create new functionality. The different larger structures try to make sure that the knowledge is shared in the organization.
 
-Now, the problem with HealthCare.gov, is that it was not created by one organization. It was created by 55 organizations. Companies with their own culture, vision and ways of working. These are things that are not easily changed. Enforcing one work methodology over these 55 organizations would not have worked. We do think that some of the structures could have been used. Especially the high-level structures are interesting. For example, the concepts behind Chapters and Guilds could have been used for HealthCare.gov. It would be unrealistic to say that all employees with similar competences should discuss this with each other. But perhaps in smaller settings, the different contractors could have shared certain knowledge.
+The problem with HealthCare.gov, is that it was not created by one organization. It was created by 55 organizations. Companies with their own culture, vision and ways of working. These are things that are not easily changed. Enforcing one work methodology over these 55 organizations would not have worked. We do think that some of the structures could have been used. Especially the high-level structures are interesting. For example, the concepts behind Chapters and Guilds could have been used for HealthCare.gov. It would be unrealistic to say that all employees with similar competences should discuss this with each other. But perhaps in smaller settings, the different contractors could have shared certain knowledge.
 
 ### 3.4.4 Knowledge sharing at KLM
 
@@ -445,7 +445,7 @@ This 'alliance' and 'sharing' culture, could have been a key factor in making th
 
 ### 3.4.5 Dealing with complex projects at Heerema Marine Contractors
 
-Another example, of how these alliances can work, is Heerema Marine Contractors (HMC), a Dutch offshore company that performs complicated projects for the oil & gas industry. Examples are transporting, installation and removing offshore facilities. But also installing subsea pipelines and infrastructures in ultra deep water. The market has forced HMC to think about how they work. Years ago, it was common that all these contractors worked separately at very specific tasks. In the present, the big oil companies tender for much larger projects. This concerns highly complex projects, for example EPCI (Engineering, Procurement, Construction, Installation) projects. The stakes and risks of these projects are incredibly high. HMC realized that they could not do projects on this scale alone. In order to cope with the changing market, HMC decided to join forces with Technip, a large French company with a big engineering capacity. Together they've formed a consortium and they offer their skills on specific projects as one entity. In this alliance, both companies profit from a stronger position in the market. The awarded Kaombo Project by Total E&P Angola, the largest subsea contract ever, is a direct result from this strategy.
+Another example of how these alliances can work is Heerema Marine Contractors (HMC), a Dutch offshore company that performs complicated projects for the oil & gas industry. Examples are transporting, installation and removing offshore facilities. But also installing subsea pipelines and infrastructures in ultra deep water. The market has forced HMC to think about how they work. Years ago, it was common that all these contractors worked separately at very specific tasks. In the present, the big oil companies tender for much larger projects. This concerns highly complex projects, for example EPCI (Engineering, Procurement, Construction, Installation) projects. The stakes and risks of these projects are incredibly high. HMC realized that they could not do projects on this scale alone. In order to cope with the changing market, HMC decided to join forces with Technip, a large French company with a big engineering capacity. Together they've formed a consortium and they offer their skills on specific projects as one entity. In this alliance, both companies profit from a stronger position in the market. The awarded Kaombo Project by Total E&P Angola, the largest subsea contract ever, is a direct result from this strategy.
 
 ### 3.4.6 What can we learn from the successful companies
 
@@ -458,9 +458,9 @@ These are only a few of the alarming signals. If the government and CGI knew tha
 The knowledge creation and sharing is not automatically enforced by forming an alliance. A problem with the amount of contractors was that the responsibility for the end product was not shared among all companies. An alliance would have forced the affiliated companies to create a shared vision. This alone could already make the development of a 'we' mentality possible. If the boards are forced to strategically collaborate and share their information, it is more likely that the work forces do the same. The shared responsibility also would have forced the companies to develop knowledge sharing systems. For example, HMC does this by sharing information via Microsoft Sharepoint systems. Numerous lessons from the project management and Document Control practices have been adopted in these systems.
 The way how knowledge is shared between multiple parties is really valued by contractors and clients (BP referred to a 'world class' system). The main message is not that CGI should have used a Sharepoint system, but that the knowledge 'culture' should have been better. We've provided one example of how they could have done that (by forming one or more logical alliances). In the end, the project relied too heavily on contractors and third parties [23, p.6]. We believe that this problem could have been less if a shared vision was in place and if responsibilities were shared. Due to the magnitude of this project, it would have been necessary to do this in a more formal form. Otherwise contractors would have had an easy way out again.
 
-### 3.4.8 Evalution
+### 3.4.8 Evaluation
 
-We've focused on the 'knowledge sharing' aspect in this comparison. The successful companies have developed quite some methods to do this. It is interesting to see that, although applied in a different form, companies use similar strategies to overcome this issue. All form, either internal or external, alliances. The companies create stronger market positions through these alliances and learn more. Unfortunately, information about the sharing processes within HealthCare.gov was scarce or non-existent. From existing reports and interviews, we can extract certain problems though. At least it is clear to say, that CGI and CMS did not have these knowledge sharing processes in order. Lessons can be learned for future projects on this scale. Alliances are necessary not only to get a better market position, but overall to realize a shared responsibility. The alliances of KLM and HMC show interesting possibilities, even though these are longer term decisions. The approach from Spotify shows how you can share information within a growing organization, but this may be difficult to apply on a (much) larger scale, as was the case in the situation of HealthCare.gov.
+We've focused on the 'knowledge sharing' aspect in this comparison. The successful companies have developed quite some methods to do this. It is interesting to see that, although applied in a different form, companies use similar strategies to cope with this. All form, either internally or externally, alliances. The companies realize a stronger market position through these alliances and they learn more. Unfortunately, information about the sharing processes within HealthCare.gov was scarce or non-existent. From existing reports and interviews, we can extract certain problems within this area though. At least it is safe to say, that CGI and CMS did not deal properly with the sharing of knowledge. Lessons can be learned for future projects on this scale. Alliances are necessary not only to get a better market position, but overall to realize a shared responsibility and vision. The alliances of KLM and HMC show interesting possibilities, even though these are longer term decisions. The approach from Spotify shows how you can share information within a growing organization, but this may be difficult to apply on a (much) larger scale, as was the case in the situation of HealthCare.gov.
 
 ## 3.5 RUP - What can we learn?
 
@@ -476,14 +476,14 @@ Our insights on KLM do not help in dealing with RUP. RUP is focused on products 
 
 ### 3.6.1 Spotify
 
-At the beginning Spotify was a scrum company. As we know scrum is a well established Agile development approach, scrum gave the foundations to the team-oriented culture. After some years, some of the scrum practices were getting on the way, for example 'spring planning meetings', 'burndown charts', 'estimation', so they decided to make it optional or "on demand" or even mix with other development approaches.
+At the beginning Spotify was a Scrum company. As we know Scrum is a well established Agile development approach, Scrum gave the foundations to the team-oriented culture. After some years, some of the Scrum practices were getting on the way, for example 'spring planning meetings', 'burndown charts', 'estimation', so they decided to make it optional or "on demand" or even mix with other development approaches.
 
 **We can learn that rules can be a good start, but breaking a rule when is needed can be also a good practice.**
 
 ### 3.6.2 KLM
 
-Since scrum is more focused on the team than on the product, a comparison with the KLM flight crew can be made.
-The crew aboard an aircraft is not that different from a scrum team. Both teams are self sufficient in the sense that they have everything that they need to get the job done. One of the lessons that could be taken from KLM is that it is perhaps not needed to have a scrum team consist only out of peers. It could perhaps relieve some pressure if there was one 'captain' in a scrum team. Someone who gets the final say over anything the team does, in case there is a dispute about something. This could mean that there is less time spent in meetings, and more doing actual programming. Note that this is different from a product owner. The product owner gets to decide what the team does, and the captain would have the final say in how to do it. A  drawback would be the loss of control for individuals. This may reduce motivation and as such could also lead to a drop in productivity instead of increasing it. 
+Since Scrum is more focused on the team than on the product, a comparison with the KLM flight crew can be made.
+The crew aboard an aircraft is not that different from a Scrum team. Both teams are self sufficient in the sense that they have everything that they need to get the job done. One of the lessons that could be taken from KLM is that it is perhaps not needed to have a Scrum team consist only out of peers. It could perhaps relieve some pressure if there was one 'captain' in a Scrum team. Someone who gets the final say over anything the team does, in case there is a dispute about something. This could mean that there is less time spent in meetings, and more doing actual programming. Note that this is different from a product owner. The product owner gets to decide what the team does, and the captain would have the final say in how to do it. A  drawback would be the loss of control for individuals. This may reduce motivation and as such could also lead to a drop in productivity instead of increasing it. 
 
 # 4.0 Power
 
@@ -627,7 +627,7 @@ Peter Senge defines five disciplines of a learning organization [51].
 All these characteristics contribute to a learning organization (with systems thinking integrating the other four).
 Scrum supports a shared vision, to a certain degree, by having a definition of done shared by all teams, working on the same product.
 Teams also reflect on their own performance and mental models during the retrospective in each sprint.
-When applying scrum at a larger scale, there is no inherent mechanism in Scrum to ensure a shared vision throughout the whole company.
+When applying Scrum at a larger scale, there is no inherent mechanism in Scrum to ensure a shared vision throughout the whole company.
 Other than the composition of Scrum teams, Scrum does not define how an organization should be structured and how changing company goals can be related back to the teams.
 
 ## 4.4 RUP
@@ -738,13 +738,13 @@ https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Af
 
 [43] Dan Ariely, Emir Kamenica, Drazen Prelec [Man’s search for meaning: The case of Legos](http://faculty.chicagobooth.edu/emir.kamenica/documents/meaning.pdf) Journal of Economic Behavior & Organization 67 (2008) 671–677.
 
-[44] Eliza S. F. Cardozo et al. [SCRUM and productivity in software projects: a systematic literature review](http://dl.acm.org/citation.cfm?id=2227073) EASE'10 Proceedings of the 14th international conference on Evaluation and Assessment in Software Engineering (2010) 131-134
+[44] Eliza S. F. Cardozo et al. [Scrum and productivity in software projects: a systematic literature review](http://dl.acm.org/citation.cfm?id=2227073) EASE'10 Proceedings of the 14th international conference on Evaluation and Assessment in Software Engineering (2010) 131-134
 
 [45] Philipp Diebold, Marc Dahlem[Agile Practices in Practice: A Mapping Study](http://dl.acm.org/citation.cfm?id=2601254)EASE '14 Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (2014)
 
 [46] Gabriela Robiolo, Daniel Grane [Do agile methods increase productivity and quality?])(http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajsea.20140301.11.pdf)Published online April 20, 2014 (http://www.sciencepublishinggroup.com/j/ajsea)
 
-[47] Cleviton V. F. Monteiro et al.[A qualitative study of the determinants of self-managing team effectiveness in a scrum team](http://dl.acm.org/citation.cfm?id=1984646) CHASE '11 Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering (2011)
+[47] Cleviton V. F. Monteiro et al.[A qualitative study of the determinants of self-managing team effectiveness in a Scrum team](http://dl.acm.org/citation.cfm?id=1984646) CHASE '11 Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering (2011)
 
 [48] Ukaejiofo Rex Uzonna [Impact of motivation on employees' performance: A case study of CreditWest Bank Cyprus](http://www.academicjournals.org/article/article1380794547_Ukaejiofo.pdf) Journal of Economics and International Finance Vol 5 August 2013 199-211
 
