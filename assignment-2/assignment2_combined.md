@@ -643,6 +643,12 @@ Because of this specialization, you can exert increased influence using expertis
 
 [This is important. In the last report there were not any final lessons or takeaways. Please think about this and update]
 
+Before this assignment, we've already developed some perspective on methods such as Scrum and RUP. Other methods/frameworks were less known, such as CMMi. We found that it is quite difficult to take a step back and place them into perspective. We found it even more difficult to compare them and abstract general lessons from existing practices at companies.
+
+One general lesson, but also an open door is, that the method or framework in use is not a Holy Grail. We saw companies with high CMMi levels fail and we saw companies without this certification succeed. In the end, it matters most that companies take what they need to create better and sustainable businesses. They must create an environment in which employees can develop and learn, but the company itself also.
+
+It was interesting to see that completely distinct organizations, looking from a distance, have quite some similarities. For example we saw similar practices in the area of knowledge sharing. By forming alliances, these companies became stronger. In the market, but also in knowledge.
+
 # References
 
 ## CMMi
