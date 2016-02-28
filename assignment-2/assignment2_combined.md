@@ -17,7 +17,7 @@ In this section, we examine to which extent the various CMMi Development process
 
 ## 1.1 Analysis Overview
 
-| CMMi Process Area | Scrum | RUP | HealtCare.gov |
+| CMMi Process Area | Scrum | RUP | HealthCare.gov |
 | ------------------| ----- | --- | ------------- |
 | **Maturity Level 2 - Managed**                |
 | CM - Configuration Management                | Not at all | Fully      | Unknown    |
@@ -47,97 +47,179 @@ In this section, we examine to which extent the various CMMi Development process
 | OPM - Organizational Performance Management  | Partially  | Not at all | Not at all |
 
 ## 1.2 Scrum
+ ---------------------------------------------------------------------------------------
+  CMMi Process Area  Covered       Rationale  
+ ------------------  ------------  -------------------------------------------------------  
+ **Level 2**                  
 
-| CMMi Process Area | Covered | Rationale  |
-| ------------------| ------- | ---------  |
-| **Level 2**           |
-| CM                | Not at all | There is no explicit mention of this in Scrum. CM is important to software development thus this leads to it becoming the task of the Scrum team having to figure out how to perform it. However, CM can become bigger than just one project and then it is subsequently an organization level concern which can put it out of the scope of Scrum.             |
-| MA                | Partially | Scrum specifies some possible measurements like team velocity but not for all of its process areas such as direct insight into the quality of the work produced by a product owner.             |
-| PMC               | Partially | Scrum has the notion of sprint goals but not reaching them indicates that the goals are not realistic. There is also velocity which can be used to plan and determine if any form of attempted process improvement is adding any value. Scrum specifies that the Scrum master is responsible for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           |
-| PP                | Fully     | This corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             |
-| PPQA              | Partially | Scrum prescribes some for measures for process quality. These can for example be used by the Scrum master to know when they should aid the team but it says nothing about how to assure the quality of products produced. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks.            |
-| REQM              | Fully | The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            |
-| SAM               | Not at all | Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with a supplier. An organization would need to supplement Scrum with processes for contract management but this is really only relevant for organizations that do subcontracting.              |
-| **Level 3**                                 |
-| DAR               | Not at all | Scrum does not have any formal evaluation methods which can be used to analyze possible decisions or alternatives. An organization would have to organize meetings specifically to deal with the evaluation of alternative decisions.             |
-| IPM               | Partially | There are guidelines in place to manage when stakeholders can interact with their team but for the most part this is up to the product owner.            |
-| OPD               | Not at all | This is left entirely up to the wishes of the development team. This means that any processes that are created during projects are not shared with the rest of the organization which can lead to the wheel often being reinvented.              |
-| OPF               | Partially | Scrum's retrospective allows for teams to come up with improvements to the process. An organization would need to come up with a process to spread these improvements.             |
-| OT   | Not at all | Identifying training needs of an organization and assessing their effectiveness is not covered in Scrum. |
-| PI   | Partially | Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. |
-| RD   | Partially | Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. The responsibility of creating these user stories is entirely delegated to the Product Owner. Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them into requirements.           |
-| RSKM | Not at all | Identifying potential risks and how to deal with them is not covered in Scrum.      |
-| TS   | Partially | Scrum does not address the consideration and selection of alternative solutions. The design of solutions is left to the development team and takes place during sprints. Scrum offers no guidance in how to create these designs. Implementation and testing of components is covered in the sprint phase of Scrum. |
-| VAL  | Partially | A form of validation is done through the Sprint Review in which the product is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. |
-| VER  | Partially | Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            |
-| **Level 4**                              |
-| OPP               | Partially | Organizational process performance is covered in a Sprint Retrospective. However, the retrospective has little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. |
-| QPM               | Not at all | Quantitive management of the project's quality and process performance objectives is not covered in Scrum.           |
-| **Level 5**                              |
-| CAR               | Not at all | Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. |
-| OPM               | Partially | The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. There are however, no quantitive properties prescribed. |
+ CM                  Not at all    There is no explicit mention of this in Scrum. CM is important to software development thus this leads to it becoming the task of the Scrum team having to figure out how to perform it. However, CM can become bigger than just one project and then it is subsequently an organization level concern which can put it out of the scope of Scrum.             
+
+ MA                  Partially     Scrum specifies some possible measurements like team velocity but not for all of its process areas such as direct insight into the quality of the work produced by a product owner.             
+
+ PMC                 Partially     Scrum has the notion of sprint goals but not reaching them indicates that the goals are not realistic. There is also velocity which can be used to plan and determine if any form of attempted process improvement is adding any value. Scrum specifies that the Scrum master is responsible for making sure that the team performs optimally but does not formally state everything they should do and how it should be done.           
+
+ PP                  Fully         This corresponds with sprint planning meetings where backlog items are selected and broken down into tasks for the upcoming sprint backlog which are then assigned to team members.             
+
+ PPQA                Partially     Scrum prescribes some for measures for process quality. These can for example be used by the Scrum master to know when they should aid the team but it says nothing about how to assure the quality of products produced. Most Scrum teams have to incorporate quality assurance into their definition of done for sprint tasks.            
+
+ REQM                Fully         The requirements are in user stories in the backlog and are the responsibility of the product owner to determine and formulate.            
+
+ SAM                 Not at all    Scrum only prescribes some practices on how a team should develop software and does not have information on dealing with a supplier. An organization would need to supplement Scrum with processes for contract management but this is really only relevant for organizations that do subcontracting.              
+
+ **Level 3**                                  
+
+ DAR                 Not at all    Scrum does not have any formal evaluation methods which can be used to analyze possible decisions or alternatives. An organization would have to organize meetings specifically to deal with the evaluation of alternative decisions.             
+
+ IPM                 Partially     There are guidelines in place to manage when stakeholders can interact with their team but for the most part this is up to the product owner.            
+
+ OPD                 Not at all    This is left entirely up to the wishes of the development team. This means that any processes that are created during projects are not shared with the rest of the organization which can lead to the wheel often being reinvented.              
+
+ OPF                 Partially     Scrum's retrospective allows for teams to come up with improvements to the process. An organization would need to come up with a process to spread these improvements.             
+
+ OT                  Not at all    Identifying training needs of an organization and assessing their effectiveness is not covered in Scrum. 
+
+ PI                  Partially     Scrum states that at the end of each sprint a product should be developed, tested and ready for production. It does not cover how this integration should be achieved. 
+
+ RD                  Partially     Scrum addresses this through the use of user stories in the Product Backlog and Sprint Backlog. The responsibility of creating these user stories is entirely delegated to the Product Owner. Scrum does not offer guidelines in how to collect and coördinate stakleholder needs and translate them into requirements.           
+
+ RSKM                Not at all    Identifying potential risks and how to deal with them is not covered in Scrum.      
+
+ TS                  Partially     Scrum does not address the consideration and selection of alternative solutions. The design of solutions is left to the development team and takes place during sprints. Scrum offers no guidance in how to create these designs. Implementation and testing of components is covered in the sprint phase of Scrum. 
+
+ VAL                 Partially     A form of validation is done through the Sprint Review in which the product is demonstrated to the stakeholders. Other aspects of validation such as training, manufacturing and maintenance are not covered by Scrum. 
+
+ VER                 Partially     Verification is done in-sprint in the form of testing activities and during the Sprint Review in which the product is demonstrated to its stakeholders. Scrum does not state what kind of methods, such as peer reviews, test methods, etc. should be applied.            
+
+ **Level 4**                              
+
+ OPP                 Partially     Organizational process performance is covered in a Sprint Retrospective. However, the retrospective has little quantitive properties. It is based soley on subjective input of inidividual team members and does not deal with objective measurements. 
+
+ QPM                 Not at all    Quantitive management of the project's quality and process performance objectives is not covered in Scrum.           
+
+ **Level 5**                              
+
+ CAR                 Not at all    Scrum does not provide a formal process to prevent defects and problems by means of root cause analysis. 
+
+ OPM                 Partially     The responsibilty of this process is delegated to the Scrum Master who optimizes team performance by removing impediments thus enabling the team to meet its business objectives. There are however, no quantitive properties prescribed. 
+
+-------------------------------------------------------------------------------------------------
 
 ## 1.3 RUP
 
-| CMMi Process Area | Covered | Rationale  |
-| ------------------| ------- | ---------  |
-| **Level 2**           |
-| CM                | Fully | RUP's configuration and change management workflow covers configuration identification, configuration control, configuration status accounting, and configuration audits.             |
-| MA                | Partially | RUP's project management workflow involves an activity for creating a measurement plan. Although, RUP does not exactly specify how this should be communicated to all relevant parties.            |
-| PMC               | Fully | The workflow pertaining to project management covers all aspects of monitoring a project against the plan and taking necessary corrective actions.              |
-| PP                | Partially | The project management and environment workflows provide adequate support to the project planning. However, they do not determine non-software related project attributes such as labor requirements.                 |
-| PPQA              | Fully | The review record in each of RUP's workflows addresses the issue of quality assurance and the creation of the problem resolution plan insures that all quality issues are dealt with.            |
-| REQM              | Fully | The requirements workflow integrates change management with the capturing and analyzing of requirements.            |
-| SAM               | Not at all | RUP has no elements which dictate interactions with external suppliers, its use is purely centered around development. This may not be an issue as it only applies to organizations that engage in subcontracting.            |
-| **Level 3**           |
-| DAR               | Not at all | This process area does not seems to be covered in any workflow of RUP. An organization would have to come up with a process that allows for the formal evaluation of alternatives.             |
-| IPM               | Fully | The project management and environment workflows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            |
-| OPD               | Not at all | RUP is a project methodology and does not prescribe any method for dealing with organizational process assets. RUP must be supplemented with a methodology specifically towards process management otherwise it will be difficult to spread process knowledge from the project to the rest of the organization.             |
-| OPF               | Partially | RUP is a project methodology so organizations would need to supplement it with other processes for this area. However, RUP's environment workflow does have an activity which handles the assessment of the development-organization. Another process would be required to ensure this information reaches the rest of the organization.            |
-| OT                | Not at all | Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          |
-| PI                | Fully | RUP addresses product integration through its implementation, test and deployment workflows.            |
-| RD                | Fully | Mainly through its requirements workflow, RUP provides good support for understanding stakeholder needs, to produce and refine requirements and manage change requests. |
-| RSKM              | Fully | RUP itself is a risk-driven development process. It aims to identify as many risks as possible and to tackle them in an early phase (elaboration) of the project.            |
-| TS   | Partially | RUP offers good support in this area. The development, design and implementation of solutions are covered in the Analysis & Design workflow. Product components and their documentation are implemented through the Implementation and Deployment workflows. However, RUP does not explicitly cover the consideration and selection criteria for alternative solutions.
-| VAL  | Fully | In RUP, validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             |
-| VER  | Fully | Verification is covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        |
-| **Level 4**|
-| OPP  | Not at all | This is not in the scope of RUP.           |
-| QPM  | Not at all | This is not in the scope of RUP.          |
-| **Level 5**        |
-| CAR  | Partially | This can be done in an Iteration Assessment. However, RUP does not prescribe any analysis techniques for it.           |
-| OPM  | Not at all | This is not in the scope of RUP.             |
+----------------------------------------------------------
+ CMMi Process Area Covered       Rationale  
+------------------ ------------  ----------------------------------------------------------  
+ **Level 2**           
+
+ CM                 Fully         RUP's configuration and change management workflow covers configuration identification, configuration control, configuration status accounting, and configuration audits.             
+
+ MA                 Partially     RUP's project management workflow involves an activity for creating a measurement plan. Although, RUP does not exactly specify how this should be communicated to all relevant parties.            
+
+ PMC                Fully         The workflow pertaining to project management covers all aspects of monitoring a project against the plan and taking necessary corrective actions.              
+
+ PP                 Partially     The project management and environment workflows provide adequate support to the project planning. However, they do not determine non-software related project attributes such as labor requirements.                 
+
+ PPQA               Fully         The review record in each of RUP's workflows addresses the issue of quality assurance and the creation of the problem resolution plan insures that all quality issues are dealt with.            
+
+ REQM               Fully         The requirements workflow integrates change management with the capturing and analyzing of requirements.            
+
+ SAM                Not at all    RUP has no elements which dictate interactions with external suppliers, its use is purely centered around development. This may not be an issue as it only applies to organizations that engage in subcontracting.            
+
+ **Level 3**           
+
+ DAR                Not at all    This process area does not seems to be covered in any workflow of RUP. An organization would have to come up with a process that allows for the formal evaluation of alternatives.             
+
+ IPM                Fully         The project management and environment workflows encourages the creation of integrated product plans but are lacking when it comes to the management of dependencies.            
+
+ OPD                Not at all    RUP is a project methodology and does not prescribe any method for dealing with organizational process assets. RUP must be supplemented with a methodology specifically towards process management otherwise it will be difficult to spread process knowledge from the project to the rest of the organization.             
+
+ OPF                Partially     RUP is a project methodology so organizations would need to supplement it with other processes for this area. However, RUP's environment workflow does have an activity which handles the assessment of the development-organization. Another process would be required to ensure this information reaches the rest of the organization.            
+
+ OT                 Not at all    Identifying training needs of an organization and assessing its effectiveness is not covered in RUP.          
+
+ PI                 Fully         RUP addresses product integration through its implementation, test and deployment workflows.           
+
+ RD                 Fully         Mainly through its requirements workflow, RUP provides good support for understanding stakeholder needs, to produce and refine requirements and manage change requests. 
+
+ RSKM               Fully         RUP itself is a risk-driven development process. It aims to identify as many risks as possible and to tackle them in an early phase (elaboration) of the project.            
+
+ TS                 Partially     RUP offers good support in this area. The development, design and implementation of solutions are covered in the Analysis & Design workflow. Product components and their documentation are implemented through the Implementation and Deployment workflows. However, RUP does not explicitly cover the consideration and selection criteria for alternative solutions.
+ 
+ VAL                Fully         In RUP, validation is covered by a product acceptance plan in the Project Management workflow and through beta testing during Deployment.             
+
+ VER                Fully         Verification is covered in RUP by means of planning and conducting system and integration tests. Through its *work guideline* Review it also prescribes the practice of peer reviews.        
+ **Level 4**
+
+ OPP                Not at all    This is not in the scope of RUP.           
+
+ QPM                Not at all    This is not in the scope of RUP.          
+
+ **Level 5**        
+
+ CAR                Partially     This can be done in an Iteration Assessment. However, RUP does not prescribe any analysis techniques for it.           
+
+ OPM                Not at all    This is not in the scope of RUP.             
+ 
+-----------------------------------------------------------------------------------
+
 
 ## 1.4 HealthCare.gov
 
-| CMMi Process Area | Covered | Rationale  |
-| ------------------| ------- | ---------  |
-| **Level 2**           |
-| CM                | Unknown | There could be no information found on how configuration management was dealt with during the HealthCare.gov project.           |
-| MA                | Not at all | Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMS did not keep adequate track of records [6]. This indicates that there were no processes defined on how to measure aspects of the project and report them to the relevant parties.             |
-| PMC               | Not at all | There were a number of the issues found early in the project's lifecycle during audits, such as how there was not enough time allotted to test the system. The fact that these issues persisted even after the launch of the site indicated that there was little to no control methods in place [9]. Scheduling timely internal audits would have likely aided the project.            |
-| PP                | Partially | CMS established a clear plan with deadlines but the organization did not actively maintain these plans throughout the project [2].        |
-| PPQA              | Not at all | There were a number of external audits on the project but its clear from the events on the launch date that CMS did not properly deal with this internally [3].            |
-| REQM              | Not at all | There was a complete lack of adequate requirements tracking and management, as contractors reported requirements changing up until several weeks before the launch of the website [7].             |
-| SAM               | Partially | Formal agreements were in place to manage contractors, but these lacked quality control measures. Furthermore, the employees responsible for awarding the contracts were inexperienced. CMS did not comply with a federal rule requiring employees to receive 96 hours of training if they oversaw contracts worth more than $10 million [6]. |
-| **Level 3**           |
-| DAR               | Unknown | No information could be found on how this was performed during the project.           |
-| IPM               | Partially | CMS was responsible for the project but it was clear that the organization lacked the necessary experience to have standard processes in place for stakeholder involvement and project management.              |
-| OPD               | Not at all | The large amount of parties associated with the development of HealthCare.gov made this close to impossible to achieve and there were no explicit processes in place to deal with this.            |
-| OPF               | Not at all | The project had a clear lack of leadership and no clear decision-maker [8].            |
-| OT                | Unknown | CMS does offer trainings for the Affordable Care Act & the Marketplace, however, these are not targeted for people working in the project organization of HealthCare.gov [11].              |
-| PI                | Not at all | CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components [12].    |
-| RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was [2].     |
-| RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies [2].          |
-| TS                | Partially | While the site had its issues, it was launched on October 1st and did provide a lot of the intended functionality but inadequately.           |
-| VAL               | Partially | CMS defined a testing framework that was to establish a consistent, repeatable CMS testing life-cycle process for validation of product components [12].  It is not clear how this framework maps on CMMi. |
-| VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also the test documentation was missing key elements [12].            |
-| **Level 4**                              |
-| OPP               | Unknown | There could be no information found on how this process area was dealt with during the HealthCare.gov project.           |
-| QPM               | Unknown | There could be no information found on how this process area was dealt with during the HealthCare.gov project.           |
-| **Level 5**                              |
-| CAR               | Unknown | There could be no information found on how this process area was dealt with during the HealthCare.gov project.  |
-| OPM               | Not at all | CMS was responsible for overseeing the performance of subcontractors but did this inadequately according to Office of Inspector General [10].  |
+----------------------------------------------------------
+ CMMi Process Area Covered       Rationale  
+------------------ ------------  ----------------------------------------------------------  
+ **Level 2**           
+
+ CM                 Unknown      There could be no information found on how configuration management was dealt with during the HealthCare.gov project.           
+
+ MA                 Not at all   Obama claimed to not be well notified about the status of the project and an audit by the Inspector General office showed that CMS did not keep adequate track of records [6]. This indicates that there were no processes defined on how to measure aspects of the project and report them to the relevant parties.             
+
+ PMC                Not at all   There were a number of the issues found early in the project's lifecycle during audits, such as how there was not enough time allotted to test the system. The fact that these issues persisted even after the launch of the site indicated that there was little to no control methods in place [9]. Scheduling timely internal audits would have likely aided the project.            
+
+ PP                 Partially    CMS established a clear plan with deadlines but the organization did not actively maintain these plans throughout the project [2].        
+
+ PPQA               Not at all   There were a number of external audits on the project but its clear from the events on the launch date that CMS did not properly deal with this internally [3].            
+
+ REQM               Not at all   There was a complete lack of adequate requirements tracking and management, as contractors reported requirements changing up until several weeks before the launch of the website [7].             
+
+ SAM                Partially    Formal agreements were in place to manage contractors, but these lacked quality control measures. Furthermore, the employees responsible for awarding the contracts were inexperienced. CMS did not comply with a federal rule requiring employees to receive 96 hours of training if they oversaw contracts worth more than $10 million [6]. 
+
+ **Level 3**           
+
+ DAR                Unknown      No information could be found on how this was performed during the project.           
+
+ IPM                Partially    CMS was responsible for the project but it was clear that the organization lacked the necessary experience to have standard processes in place for stakeholder involvement and project management.              
+
+ OPD                Not at all   The large amount of parties associated with the development of HealthCare.gov made this close to impossible to achieve and there were no explicit processes in place to deal with this.            
+
+ OPF                Not at all   The project had a clear lack of leadership and no clear decision-maker [8].            
+
+ OT                 Unknown      CMS does offer trainings for the Affordable Care Act & the Marketplace, however, these are not targeted for people working in the project organization of HealthCare.gov [11].              
+
+ PI                 Not at all   CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components [12].    
+
+ RD                 Unknown      The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was [2].     
+
+ RSKM               Not at all   CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies [2].          
+
+ TS                 Partially    While the site had its issues, it was launched on October 1st and did provide a lot of the intended functionality but inadequately.           
+ 
+ VAL                Partially    CMS defined a testing framework that was to establish a consistent, repeatable CMS testing life-cycle process for validation of product components [12].  It is not clear how this framework maps on CMMi. 
+
+ VER                Partially    Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also the test documentation was missing key elements [12].            
+
+ **Level 4**                              
+
+ OPP                Unknown      There could be no information found on how this process area was dealt with during the HealthCare.gov project.           
+
+ QPM                Unknown      There could be no information found on how this process area was dealt with during the HealthCare.gov project.           
+
+ **Level 5**                              
+
+ CAR                Unknown      There could be no information found on how this process area was dealt with during the HealthCare.gov project.  
+
+ OPM                Not at all   CMS was responsible for overseeing the performance of subcontractors but did this inadequately according to Office of Inspector General [10].  
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 1.5 Conclusion Analysis
 
