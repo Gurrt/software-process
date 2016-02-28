@@ -7,7 +7,9 @@
 
 # Abstract
 
-In software engineering, it is important to understand organizational level factors and their influence on development projects. This is necessary to be able to for organize successful software projects. In this report we cover the following topics: CMMi, Lean, 7S and Power. In the CMMi section, we examine Scrum, RUP and the HealthCare.gov project to determine what the maturity is of their project organization. The Lean section provides insight into the varying forms of waste present in Scrum and RUP. The next section examines KLM, Spotify and the HealthCare.gov project. This is done using the 7S model and is concluded by showing what can be learned from Scrum and RUP in regards to the KLM and Spotify organizations. The last section covers Power in organizations by examining the effects of control, balance of power and the presence of learning environments in RUP, Scrum and the HealthCare.gov case.
+In software engineering, it is important to understand organizational level factors and their influence on development projects. This is necessary to be able to organize for successful software projects. In this report we cover the following topics: CMMi, Lean, 7S and Power. 
+
+In the CMMi section, we examine Scrum, RUP and the HealthCare.gov project to determine what the maturity is of their project organization. The Lean section provides insight into the varying forms of waste present in Scrum and RUP. The next section examines KLM, Spotify and the HealthCare.gov project. This is done using the 7S model and is concluded by showing what can be learned from Scrum and RUP in regards to the KLM and Spotify organizations. The last section covers Power in organizations by examining the effects of control, balance of power and the presence of learning environments in RUP, Scrum and the HealthCare.gov case.
 
 # 1.0 CMMi analysis
 
