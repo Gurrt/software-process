@@ -125,8 +125,8 @@ In this section, we examine to which extent the various CMMi Development process
 | OPF               | Not at all | The project had a clear lack of leadership and no clear decision-maker [8].            |
 | OT                | Unknown | CMS does offer trainings for the Affordable Care Act & the Marketplace, however, these are not targeted for people working in the project organization of HealthCare.gov [11].              |
 | PI                | Not at all | CMS did not plan for a lead systems integrator to coordinate all contractors' efforts and integrate their delivered components [12].    |
-| RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was [13].     |
-| RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies [13].          |
+| RD                | Unknown | The requirements for HealthCare.gov were developed by CMS staff with contractor support. It is not clear how formal this process was [2].     |
+| RSKM              | Not at all | CMS did not develop a required acquisition strategy to identify risks and document mitigation strategies [2].          |
 | TS                | Partially | While the site had its issues, it was launched on October 1st and did provide a lot of the intended functionality but inadequately.           |
 | VAL               | Partially | CMS defined a testing framework that was to establish a consistent, repeatable CMS testing life-cycle process for validation of product components [12].  It is not clear how this framework maps on CMMi. |
 | VER               | Partially | Testing was done but up until the last weeks. End-to-end testing was insufficient according to a report from McKinsey & Co. Also the test documentation was missing key elements [12].            |
@@ -647,7 +647,7 @@ Because of this specialization, you can exert increased influence using expertis
 
 [1] CMMI Product Team (2010), "CMMI for Development, Version 1.3" 
 
-[2] United States Government Accountability Office, "HEALTHCARE.GOV Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014  
+[2] United States Government Accountability Office, "HEALTHCARE.GOV Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014. http://www.gao.gov/assets/670/665179.pdf  
 
 [3] Ballotpedia.org, "Healthcare.gov website rollout - Ballotpedia", 2016. [Online]. Available: https://ballotpedia.org/Healthcare.gov_website_rollout. [Accessed: 26- Feb- 2016].
 
@@ -670,10 +670,7 @@ Because of this specialization, you can exert increased influence using expertis
 [11] CMS, "Affordable Care Act & the Marketplace", Webpage. 
 https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Affordable-Care-Act-and-the-Marketplace-page.html
 
-[12] "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
-
-[13] "Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management", July 2014, Report.
-http://www.gao.gov/assets/670/665179.pdf
+[12] United States Government Accountability Office, "CMS Has Taken Steps to Address Problems, but Needs to Further Implement Systems Development Best Practices", March 2015, Report. http://www.gao.gov/assets/670/668834.pdf
 
 ## Lean
 
