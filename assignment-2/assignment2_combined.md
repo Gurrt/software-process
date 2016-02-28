@@ -674,9 +674,9 @@ https://www.cms.gov/Outreach-and-Education/Look-Up-Topics/ACA-and-Marketplace/Af
 
 ## Lean
 
-[14] https://doi.org/10.1016/j.ijpe.2010.07.024
+[14] Jayanth Jayaram, Ajay Das, Mariana Nicolae, Looking beyond the obvious: Unraveling the Toyota production system, International Journal of Production Economics, Volume 128, Issue 1, November 2010, Pages 280-291.
 
-[15] http://www.agilemanifesto.org/principles.html
+[15] "Principles behind the Agile Manifesto." Principles behind the Agile Manifesto. Accessed February 28, 2016. http://www.agilemanifesto.org/principles.html
 
 ## 7S
 
